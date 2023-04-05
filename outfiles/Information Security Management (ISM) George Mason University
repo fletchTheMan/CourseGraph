@@ -1,0 +1,105 @@
+ISM 603: Fundamentals of Information Security. 3 credits.
+This course will cover foundational technical concepts as well as managerial and policy topics on a variety of information and cyber security topics. The purpose of the course lectures, reading, in-class presentations,  and  examinations  are  to  ensure  that  students  have  sufficient  technical  awareness and managerial competence related to information security and assurance. Students will  examine  the  nature  of  threats  and  vulnerabilities,  cryptography,  software  vulnerabilities,  managing risk, and security controls. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus or Senior Plus.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Master of Science degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 620: Security of Communication Networks. 3 credits.
+This course provides students with a knowledge of network security and related topics in securing communication networks. In context of CIA triad of information security, threat classifications to the communication networks are discussed: eavesdropping (confidentiality), man-in-the-middle (integrity), and denial-of-service (availability). Real world examples of attack methods and attacks on communication networks and networked applications are discussed to translate principles into reality. Security design and architecture consisting of authentication, authorization, access control, traffic monitoring, secure protocols are covered. The course adopts "learning by doing" to connect principles to practice and provide insight into practical implementation. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Master of Science degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 630: Data Security Management. 3 credits.
+The course covers principles and practices of assessing data security needs, and implementation of the necessary data security plan covering databases as well as unstructured data in files, cloud, etc. More specifically, the course will focus on database security principles, database auditing, database reliability and implementation of database controls and security. In context of CIA triad of information security real world examples of attack methods and cases of database breaches are discussed. Database and data security implementations are covered through hands-on “learning by doing” exercises undertaken with commercial database products. Class project requires students to undertake security requirements assessment, conduct an audit and present a data security plan. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Master of Science degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 640: Analytics Driven Management of Security Operations. 3 credits.
+This course teaches how to use analytics to support decision making of information security managers. The course teaches how to create effective analytics driven tools for security monitoring, incident detection and for informing decisions in formulating response to incidents as well as ongoing review of information security policies. The course teaches you how to create reports, charts, dashboards, lookups, and alerts. Using examples and hands-on exercises with commercially used tools such as Splunk, to familiarize students with real-world implementations. The course bridges this knowledge with creation of incident handling and response plans to maintain business continuity. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (ISM 603B-, 620B- and 630B-).B- Requires minimum grade of B-.Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Master of Science degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 650: Managing Network and Data Security. 3 credits.
+The course covers principles and practices of assessing network and data security needs,
+and implementation of the necessary security plan for communication networks and
+organizational data. The course addresses databases as well as unstructured data in
+files, including securing cloud infrastructure. More specifically, the course will focus on
+database security principles, database auditing, database reliability and implementation
+of database controls and security. In context of CIA triad of information security, threat
+classifications to the communication networks are discussed: eavesdropping
+(confidentiality), man-in-the-middle (integrity), and denial-of-service (availability). Real
+world examples of attack methods and cases of database breaches are discussed, as
+well as attacks on communication networks and networked applications are discussed
+to translate principles into reality. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (ISM 603*B- or 603*XS).* May be taken concurrently.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Graduate Certificate degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 692: Internship and Professional Development Experience. 3 credits.
+Professional experience in conjunction with academic development. Hands-on experience is an important part of academic and career preparation and may be completed by an internship, consulting project, independent study or additional global experience. Must involve an average of 15 hours per week and be approved by program director. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Master of Science degree.
+Schedule Type: Internship
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 700: Analytics, Economics, & Metrics in Information Security Management. 3 credits.
+This course teaches various aspects of human and business factors that needed for
+decision making by information security managers. First, it introduces the incentives,
+market failures, and biases affecting the security decisions of organizations and
+individuals in the ecosystem of security products/services, as well as economic
+mechanisms and tools that help make better security decisions. Second, it teaches how
+to create effective analytics driven tools for security monitoring, incident detection and
+for informing decisions in formulating response to incidents as well as ongoing review of
+information security policies. The course teaches how to create reports, charts,
+dashboards, lookups, and alerts using tools such as Splunk. Other topics covered include
+supply chain and cybersecurity, information security considerations during
+organizational change, downsizing as well as mergers and/or acquisitions. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Graduate Certificate degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 710: Managing Information Security with Vendors and Partners. 3 credits.
+This course addresses various important information security issues related to IT and non-IT vendors and partners of organizations operating in an increasingly global economy. Topics covered includes information security related issues that need considered when managing IT vendors of hardware, software, or managing services (cloud, IT operations, security). Other topics covered include supply chain and cybersecurity, information security considerations during organizational change, downsizing as well as mergers and/or acquisitions. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Required Prerequisite: ISM 603B-.B- Requires minimum grade of B-.Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Master of Science degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 720: Economics of Information Security. 3 credits.
+Cybersecurity is more than a technical problem: security failures are caused as often by bad business decisions and incentive systems as by bad technical designs. This course provides an introduction to fundamental economic issues behind cybersecurity. It focuses on understanding the factors affecting the security decisions of organizations and individuals in the ecosystem of security products/services, as well as economic mechanisms and tools that help make better security decisions, through the lens of economic concepts and principles. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Master of Science degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 730: Information Security Governance, Policy, & Compliance. 3 credits.
+Information security governance allows for an organization to set security goals, responsibilities, and metrics to drive a successful security program. A successful security program begins with policies, and is monitored and improved through compliance requirements and metrics. This course takes students through understanding different security governance frameworks, information security policies, and cyber compliance requirements that organization must be aware of and practice in order to maintain an effective security posture. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Required Prerequisite: ISM 603B-.B- Requires minimum grade of B-.Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Master of Science degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 747: Information Security Risk Management and Audit. 3 credits.
+This course is focused on assessing the information security posture of an enterprise along available control frameworks, control objectives, logging, monitoring, reporting, and change management actions of the enterprise. Students will learn the process of risk assessment and management, and creating a control structure with goals and objectives, audit a given IT infrastructure against it, and if found inadequate, establish a systematic remediation procedure. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Required Prerequisite: ISM 603B-.B- Requires minimum grade of B-.Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Master of Science degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 750: Information Security Governance, Risk, Compliance and Audit. 3 credits.
+The field of information security management heavily focuses on governance, risk, and
+compliance (GRC), as well as auditing the GRC and security posture of organizations. The course
+introduces these four areas of information security management to students so that they
+understand the concepts, process, and importance of each area. The course will also focus on
+application of GRC and audit principles to organizations’ security practices. In a term project,
+students will assess the information security posture of an enterprise along available control
+frameworks, control objectives, logging, monitoring, reporting, and change management
+actions of the enterprise, and develop remediation procedures. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: ((ISM 603B- or 603XS) and (ISM 650B- or 650XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Graduate Certificate degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISM 792: Special Topics in Information Security Management. 3 credits.
+This course uses a seminar-based pedagogy to examine topics of state-of-the-art in information security based on faculty research and student interest. Sections established as necessary to focus on various topical issues that emerge in the research and practice of management of information security. Offered by School of Business. May not be repeated for credit.
+Registration Restrictions: Required Prerequisite: ISM 603B-.B- Requires minimum grade of B-.Enrollment limited to students with a class of Graduate.Enrollment is limited to students with a major in Information Security Mgmt.Enrollment limited to students in a Master of Science degree.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+

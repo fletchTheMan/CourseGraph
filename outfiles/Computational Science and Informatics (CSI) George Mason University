@@ -1,0 +1,524 @@
+CSI 500: Computational Science Tools. 3 credits.
+Introduces computer skills and packages commonly used in quantitative scientific research. Notes: CSI 601 and CSI 602, including additional material, have merged to create CSI 500. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: 1 year of college calculus, knowledge of matrix algebra, and computer programming.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 501: Introduction to Scientific Programming. 3 credits.
+Introduces and reviews programming in C and FORTRAN with emphasis on the aspects used in the computational and data sciences. Conducted through a combination of both lecture and interactive computer laboratory. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 590: Quantitative Foundations for Computational Sciences. 3 credits.
+Accelerated review of mathematical tools for scientific applications and analysis. Topics include vectors and matrices; differential and difference equations; linear systems; Fourier, Laplace, and Z-transforms; and probability theory. Notes: Not applicable to 48-credit course total for CSI PhD. Offered by Computational & Data Sciences. Limited to two attempts. Equivalent to SYST 500.
+Recommended Prerequisite: MATH 213 and 214.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 597: Topics in Science and Engineering Simulation. 3 credits.
+Covers selected topics in Science and Engineering simulation, not covered in fixed content computational sciences and informatics courses. Offered by Computational & Data Sciences. May not be repeated for credit.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 600: Quantitative Foundations for Computational Sciences. 3 credits.
+Accelerated review of mathematical tools for scientific applications and analysis. Topics include vectors and matrices; differential and difference equations; linear systems; Fourier, Laplace, and Z-transforms; and probability theory. Notes: Not applicable to 48-credit course total for CSI PhD. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to SYST 500.
+Recommended Prerequisite: MATH 213 and 214.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 606: Scientific Graphics and Visualization Tools. 1 credit.
+An introduction into the use of scientific visualization tools for data analysis. Use of specific packages will be taught. Packages will include PV-WAVE, S-Plus, XV, XMGR, and the pnm tools on a rotating basis. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: Competency in Linux of permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 629: Topics in Continuum Systems. 3 credits.
+Covers selected topics in the computational aspects of continuum systems not covered in fixed-content courses in dynamical systems. Possible topics are smooth-particle hydrodynamics, radiation hydrodynamics, algorithms for continuum systems, adaptive grids for continuum computations, spectral methods in computational fluid dynamics, algorithms for concurrent machines, formation of high energy particle jets in astrophysical applications, application to Earth atmospheric problems, and flow considerations in molten materials. Offered by Computational & Data Sciences. May not be repeated for credit.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 638: The Policy Process for Scientists. 2 credits.
+Introduces relationship among government, science, scientists, and issues and processes that shape science policy. Emphasizes examples taken from space weather and meteorology. Offered by Computational & Data Sciences. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 639: Ethics in Scientific Research. 3 credits.
+Reviews purpose of scientific research and principles for evaluating ethical issues. Teaches skills for survival through training in moral reasoning and responsible conduct. Discusses ethical issues and applying critical-thinking skills to design, execution, and analysis of experiments. Issues include using animals, humans in research; ethical standards in computer community; research fraud; and currently accepted guidelines for data ownership, manuscript preparation, and conduct of those in authority. Offered by Computational & Data Sciences. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 662: Introduction to Space Weather. 3 credits.
+Introduction to space weather involving systems such as the sun, the heliosphere, and the Earth's magnetosphere and ionosphere. Covers the solar magnetic field, solar flares, coronal mass ejections, particle acceleration mechanisms, the solar wind, and the Earth's magnetic field, radiation belt, geomagnetic storms, and ionospheric disturbances. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: PHYS 303, PHYS 305, PHYS 307, MATH 213, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 670: Economic Systems Design. 3 credits.
+Introduces analytical and engineering principles used to develop exchange systems. Covers behavioral aspects of auction systems; matching, assignment, and transportation problems; and information markets. Introduces methods for testbedding systems using experimental economics. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: Course in linear and nonlinear optimization, and course in linear algebra, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 672: Statistical Inference. 3 credits.
+Fundamental principles of estimation and hypothesis testing. Topics include limiting distributions and stochastic convergence, sufficient statistics, exponential families, statistical decision theory and optimality for point estimation, Bayesian methods, maximum likelihood, asymptotic results, interval estimation, optimal tests of statistical hypotheses, and likelihood ratio tests. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to STAT 652.
+Registration Restrictions: Required Prerequisites: ((STAT 544B- or 544XS) and (STAT 554*B- or 554XS)).* May be taken concurrently.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 674: Bayesian Inference and Decision Theory. 3 credits.
+Introduces decision theory and relationship to Bayesian statistical inference. Teaches commonalities, differences between Bayesian and frequentist approaches to statistical inference, how to approach statistics problem, and how to combine data with informed expert judgment to derive useful and policy relevant conclusions. Teaches theory to develop understanding of when and how to apply Bayesian and frequentist methods; and practical procedures for inference, hypothesis testing, and developing statistical models for phenomena. Teaches fundamentals of Bayesian theory of inference, including probability as a representation for degrees of belief, likelihood principle, use of Bayes Rule to revise beliefs based on evidence, conjugate prior distributions for common statistical models, and methods for approximating the posterior distribution. Introduces graphical models for constructing complex probability and decision models from modular components. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to OR 664, SYST 664.
+Recommended Prerequisite: STAT 544, STAT 554, or equivalent.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 676: Regression Analysis. 3 credits.
+Simple and multiple linear regression, polynomial regression, general linear models, subset selection, step-wise regression, and model selection. Also covered are multicollinearity, diagnostics, and model building as well as the theory and practice of regression analysis. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to STAT 656.
+Registration Restrictions: Required Prerequisites: ((STAT 544*B- or 544XS) and (STAT 554B- or 554XS)).* May be taken concurrently.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 678: Times Series Analysis and Forecasting. 3 credits.
+Modeling stationary and nonstationary processes; autoregressive, moving average and mixed model processes; hidden periodicity models; properties of models; autocovariance and autocorrelation functions, and partial autocorrelation function; spectral density functions; identification of models; estimation of model parameters, and forecasting techniques. Offered by Computational & Data Sciences. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 544B- or 544XS) and (STAT 554B- or 554XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 685: Fundamentals of Materials Science. 3 credits.
+Covers fundamentals of materials science with emphasis on physical topics including crystal structure and symmetry, dislocation theory, theory of interfaces, multicomponent phase diagrams, theory of phase transformations, nano-materials, metallic glasses. Includes a term project, assignments from current literature, and application of computation in materials science. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to PHYS 615.
+Recommended Prerequisite: Undergraduate degree in electrical or mechanical engineering, materials science, physics, chemistry or related disciplines; or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 687: Solid State Physics and Applications. 3 credits.
+Covers crystal structures, binding, lattice vibrations, free electron model, metals, semiconductors and semiconductor devices, superconductivity, and magnetism. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to PHYS 512.
+Recommended Prerequisite: PHYS 502 or equivalent.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 690: Numerical Methods. 3 credits.
+Covers computational techniques for solving science, engineering problems. Develops algorithms to treat typical problems in applications, emphasizing types of data encountered in practice. Covers theoretical development as well as implementation, efficiency, and accuracy issues in using algorithms and interpreting results. When applicable, uses computer graphical techniques to enhance interpretation. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to MATH 685, OR 682.
+Recommended Prerequisite: MATH 203 and 214 or equivalent, and some programming experience.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 695: Scientific Databases. 3 credits.
+Study of database support for scientific data management. Covers requirements and properties of scientific databases, data models for statistical and scientific databases, semantic and object-oriented modeling of application domains, statistical database query languages and query optimization, advanced logic query languages, and case studies such as the human genome project and Earth-orbiting satellites. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: INFS 614 or equivalent, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 701: Foundations of Computational Science. 3 credits.
+Covers mapping of mathematical models to computer software, including all aspects of developing scientific software such as architecture, data structures, advanced numerical algorithms, languages, documentation, optimization, validation, verification, and software reuse. Examples in bioinformatics, computational biology, computational physics, and global change demonstrate scientific advances enabled by computation. Class projects involve working in teams to develop software that implements mathematical models, using software to address important scientific questions, and conducting computational experiments with it. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: Competency in UNIX and programming at CSI 501 level, and CSI 690; or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 702: High-Performance Computing. 3 credits.
+Hardware and software associated with high-performance scientific computing. Computer architectures, processor design, programming paradigms, parallel and vector algorithms. Emphasizes importance of software scalability in science problems. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: Competency in Linux and programming at CSI 501 level or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 703: Scientific and Statistical Visualization. 3 credits.
+Covers visualization methods used to provide new insights and intuition concerning measurements of natural phenomena and scientific and mathematical models. Presents case studies from myriad disciplines. Topics include human perception and cognition, introduction to graphics laboratory, elements of graphing data, representation of space-time and vector variables, representation of 3-D and higher dimensional data, dynamic graphical methods, and virtual reality. Work on a visualization project required. Emphasizes software tools on Silicon Graphics workstation, but other workstations and software may be used. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: STAT 554 or CS 551, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 709: Topics in Computational Sciences and Informatics. 3 credits.
+Covers selected topics in computational sciences and informatics not covered in fixed-content computational sciences and informatics courses. Offered by Computational & Data Sciences. May be repeated within the term for a maximum 9 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite:  Admission to the PhD program and permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 711: Chemical Thermodynamics and Kinetics. 3 credits.
+Advanced study of thermodynamics and kinetics. Covers application of kinetics to elucidation of reaction mechanisms and application of statistical thermodynamics to theory of elementary reaction rates. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to CHEM 633.
+Recommended Prerequisite: CHEM 331 and 332.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 712: Introduction to Solid Surfaces. 3 credits.
+Includes gas absorption isotherms, surface-area measurement techniques, real and clean surfaces, physisorption and chemisorption, methods of gas absorption and desorption, measurement of heats of adsorption, desorption kinetics, electron spectroscopies and their surface sensitivities, instrumentation needed, and principles of vacuum technology. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to CHEM 728.
+Recommended Prerequisite: CHEM 422 or equivalent.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 713: Quantum Chemistry. 3 credits.
+Illustrates fundamental concepts of quantum mechanics with applications to chemical systems, including atomic and molecular electronic structure and properties, molecular symmetry, and intermolecular forces. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: CHEM 332.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 714: Spectroscopy and Structure. 3 credits.
+Covers quantum mechanics of the interaction of atoms and molecules with electromagnetic radiation. Also covers modern spectroscopic methods as applied to the elucidation of molecular structure and dynamics. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: CHEM 332.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 719: Topics in Computational Chemistry. 3 credits.
+Covers selected topics in computational chemistry not covered in fixed-content computational chemistry courses. Offered by Computational & Data Sciences. May be repeated within the degree for a maximum 12 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of Instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 720: Fluid Mechanics. 3 credits.
+Covers basic and advanced fluid mechanics and continuous hypothesis to define fluids. Introduces tensor analysis; Euclidean and Lagrangian representations of fluid flow; Laplace's equation; continuity equation; Navier-Stokes equations; Bernoulli's theorem and Crocco's form of the equations; steady and unsteady flows; potential, incompressible, and compressible flows; gravity and sound waves; gas dynamics; and viscous flows. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: CSI 690 and CSI 780, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 721: Computational Fluid Dynamics I. 3 credits.
+Covers fundamentals including spatial and temporal approximation techniques for partial differential equations, solution of large systems of equations, data structures, solvers of the Laplace/ full potential equation, and simple Euler solvers. Includes two major projects: Laplace solver and 2-D Euler solver on unstructured grids. Students expected to write their own codes. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: Course in partial differential equations such as MATH 678 or equivalent; knowledge of linear algebra at level of MATH 603 or CSI 740/MATH 625; coding experience in FORTRAN or C; or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 722: Computational Fluid Dynamics II. 3 credits.
+Covers more advanced topics in computational fluid dynamics, including high-resolution schemes for hyperbolic PDEs, advanced Euler solvers, Navier-Stokes solvers, grid generation, adaptive mesh refinement, efficient use of supercomputing hardware, and future trends. Projects include topics in grid generation and adaptive refinement. Students expected to write their own codes. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite:  CSI 721 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 723: Fluid Mechanics II. 3 credits.
+Covers gas dynamics, shock waves, method of characteristics, boundary layer flows, instabilities, and turbulence modeling. Special topics include biological, non-Newtonian, and free surface flows; aeroelasticity; and magneto-hydrodynamics. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: CSI 720 or Permission of Instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 739: Topics in Bioinformatics. 3 credits.
+Selected topics in bioinformatics not covered in fixed-content bioinformatics courses. Offered by Computational & Data Sciences. May not be repeated for credit.
+Specialized Designation: Topic Varies
+Recommended Prerequisite:  Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 740: Numerical Linear Algebra. 3 credits.
+Covers computational methods for matrix systems; theory and development of numerical algorithms for the solution of linear systems of equations, including direct and iterative methods; analysis of sensitivity of system to computer round off; and solution of least squares problems using orthogonal matrices. Also covers computation of eigenvalues and eigenvectors, singular value decomposition, and applications. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to MATH 625.
+Recommended Prerequisite: MATH 203 and some programming experience.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 742: The Mathematics of the Finite Element Method. 3 credits.
+The finite element method is commonly used for developing numerical approximations to problems involving ordinary and partial differential equations. Course develops underlying mathematical foundation, examines specific types of finite elements, analyzes convergence rates and approximation properties, and uses method to solve important equations. Students develop their own codes and are expected to complete independent projects. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: MATH 446 or 685, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 744: Linear and Nonlinear Modeling in the Natural Sciences. 3 credits.
+Develops tools of mathematical modeling while carrying out numerical simulations. Considers examples from across the sciences. Topics include basic issues such as models, simplification, linearity, and nonlinearity; dimensionless parameters; dimensional analysis; models involving differential equations; examples from population growth and chemical kinetics; models involving partial differential equations; diffusion, transport, nonlinearity and shocks; probabilistic modeling; perturbation methods; extrapolation; and introduction to stability. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: Permission of Instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 747: Nonlinear Optimization and Applications. 3 credits.
+Introduction to practical aspects of nonlinear optimization. Covers applications of optimization algorithms to solving problems in science and engineering. Applications include data analysis, materials science, nanotechnology, mechanics, optical design, shape design, and trajectory optimization. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: MATH 213 and 216, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 749: Topics in Computational Mathematics. 3 credits.
+Selected topics in computational mathematics not covered in fixed-content computational mathematics courses. Offered by Computational & Data Sciences. May not be repeated for credit.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 754: Earth Science Data and Advanced Data Analysis. 3 credits.
+Covers accessing and applying Earth observations and remote-sensing data for Earth system science research and applications. Major topics are data formats, analysis and visualization tools, advanced data analysis methods, and data applications. Also covers combining innovative information technology techniques and Earth science data to set up online data centers for accessing data through the web. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to GGS 754.
+Recommended Prerequisite: GGS 579 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 758: Visualization and Modeling of Complex Systems. 3 credits.
+Covers elements of modeling and analysis for scientific applications. Concentrates on sample projects and student-initiated projects to use visualization, image and graphical analysis as they apply to modeling of complex data sets and systems. Reviews methods of creating and generating analysis and visualization packages. Data sets from multiple sources will be used. Modeling and analysis accompanied by appropriate readings from current literature. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 763: Statistical Methods in Space Sciences. 3 credits.
+Covers statistical and data analysis methods applicable to problems in space science, remote sensing, and astrophysics. Includes parametric and nonparametric hypothesis testing, parameter estimation, correlation analysis, time series analysis, spatial analysis, and image reconstruction. Emphasizes imperfect nature of actual data sets and hypothesis. Examples drawn from current space science research. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: ASTR 530 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 764: Computational Astrophysics. 3 credits.
+Covers statistical mechanics concepts important in astrophysics. Presents unified approach to particle acceleration and interaction theory based on analytical and numerical analysis of Boltzmann and Liouville equations. Discusses computational methods relevant to particle transport problems, with emphasis on Fokker-Planck and Monte Carlo solution techniques. Applications from space sciences include studies of cosmic ray acceleration, photon comptonization, particle transport in the near-Earth environment, energy transport in stellar atmospheres, and self-gravitating system dynamics. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to ASTR 764.
+Recommended Prerequisite: ASTR 601 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 771: Computational Statistics. 3 credits.
+Covers basic computationally intensive statistical methods and related methods, which would not be feasible without modern computational resources. Covers nonparametric density estimation including kernel methods, orthogonal series methods and multivariate methods, recursive methods, cross-validation, nonparametric regression, penalized smoothing splines, the jackknife and bootstrapping, computational aspects of exploratory methods including the grand tour, projection pursuit, alternating conditional expectations, and inverse regression methods. Offered by Computational & Data Sciences. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: CSI 672B- or 672XS.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 772: Statistical Learning. 3 credits.
+Focuses on statistical learning theory by introducing the statistical and optimization background essential for developing new efficient statistical learning algorithms. Also discusses applications of statistical learning algorithms to the solution of important problems in many areas of science. Offered by Computational & Data Sciences. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: STAT 652B-, 652XS, CSI 672B- or 672XS.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 773: Statistical Graphics and Data Exploration. 3 credits.
+Exploratory data analysis provides a reliable alternative to classical statistical techniques, which are designed to be the best possible when stringent assumptions apply. Topics include graphical techniques such as scatter plots, box plots, parallel coordinate plots, and other graphical devices; re-expression and transformation of data; influence and leverage; and dimensionality reduction methods such as projection pursuit. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: A 300-level statistics course and a programming course, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 775: Graphical Models for Inference and Decision Making. 3 credits.
+Theory and methods for inference and decision making in environments characterized by uncertain information. Covers graphical probability and decision models. Studies approaches to representing knowledge about uncertain phenomena, and planning and acting under uncertainty. Topics include knowledge engineering, exact and approximate inference in graphical models, learning in graphical models, temporal reasoning, planning, and decision-making. Practical model-building experience provided. Students apply what they learn to a project of their own choosing. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to OR 719.
+Recommended Prerequisite: STAT 652 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 777: Principles of Knowledge Mining. 3 credits.
+Principles and methods for synthesizing task-oriented knowledge from computer data and prior knowledge and presenting it in human-oriented forms such as symbolic descriptions, natural language-like representations, and graphical forms. Topics include fundamental concepts of knowledge mining; methods for target data generation and optimization; statistical and symbolic approaches; knowledge representation and visualization; and new developments such as inductive databases, knowledge generation languages, and knowledge scouts. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: INFS 614 or equivalent, or Permission of Instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 779: Topics in Computational Statistics. 3 credits.
+Selected topics in computational statistics not covered in fixed-content computational statistics courses. Offered by Computational & Data Sciences. May be repeated within the term.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 780: Principles of Modeling and Simulation in Science. 3 credits.
+Applies numerical methods to study of variety of physical systems, with emphasis on modeling and simulation. Develops numerical algorithms and simulation codes to gain understanding of mechanisms, processes in physical systems. Includes several projects drawn from such areas as atomic and molecular interactions, molecular dynamics, lattice dynamics, quantum systems, chaos, percolation, random walks, aggregation mechanisms of soft solids, nanomaterials, and nonlinear dynamics. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: Competency in programming at CSI 501 level or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 782: Statistical Mechanics for Modeling and Simulation. 3 credits.
+Studies microcanonical, canonical, and grand canonical ensembles and fluctuations. Includes modeling of ideal, dilute, and diatomic gases, liquids, and crystals, and the Liouville equation. Introduces Brownian motion, kinetic theory, and transport processes. Includes Monte Carlo algorithms and numerical methods for simulation in classical statistical mechanics. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: CSI 690, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 783: Computational Quantum Mechanics. 3 credits.
+Studies fundamental concepts of quantum mechanics from computational point of view, review of systems with spherically symmetric potentials, many electron atom solutions to Schrodinger's equation, electron spin in many-electron systems, atomic structure calculations, algebra of many-electron calculations, Hartree-Fock self-consistent field method, molecular structure calculations, scattering theory computations, and solid-state computations. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to CHEM 736, PHYS 736.
+Recommended Prerequisite: PHYS 502 and PHYS 613/ CSI 780, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 786: Molecular Dynamics Modeling. 3 credits.
+Introduces simulation methods in physical chemistry sciences. Covers computational approaches to modeling molecular and condensed matter systems, including interatomic and molecular potentials, Molecular Dynamics methods, time averages, ensemble distributions, numerical sampling, thermodynamic functions, response theory, transport coefficients, and dynamic structure. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: CSI 690 or CSI 780 or equivalent, or CHEM 633/CSI 711, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 787: Computational Materials Science. 3 credits.
+Covers selected topics in computational aspects of condensed matter, such as methods of electronic structure calculations, surface science, molecular clusters, lattice dynamics, nanomaterials, semiconductors, superconductivity, magnetism, Hubbard model, mesoscopic systems, and liquids. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: PHYS 512/CSI 687 and PHYS 736/CSI 783, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 788: Simulation of Large Scale Systems. 3 credits.
+Study of diverse, large-scale physical systems with emphasis on modeling and simulation. Students will undertake several projects which will draw from such areas as many-body dynamics, atmospheric structure and dynamics, high-temperature plasmas, stellar structure, hydro dynamical systems, galactic structure and interactions, and cosmology. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: CSI 690 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 789: Topics in Computational Physics. 3 credits.
+Selected topics in computational physics not covered in fixed-content computational physics courses. Offered by Computational & Data Sciences. May not be repeated for credit.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 796: Directed Reading and Research. 1-6 credits.
+Reading and research on specific topic in computational sciences and informatics under direction of faculty member. May be repeated for a total of 6 credits. Offered by Computational & Data Sciences. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Research
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 798: Research Project. 1-3 credits.
+Research project chosen and completed under guidance of a graduate faculty member, resulting in acceptable technical report. The course is accepted for credit toward the Master in Computational Science (COMP) and is not accepted for the PhD in Computational Sciences and Informatics (CSI). Offered by Computational & Data Sciences. May be repeated within the degree for a maximum 3 credits.
+Recommended Prerequisite: 12 graduate credits in the Master in Computational Science and permission of the graduate coordinator.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Thesis
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+CSI 799: Master's Thesis. 1-6 credits.
+Project chosen and completed under guidance of graduate faculty member, resulting in acceptable technical report (master's thesis) and oral defense. Offered by Computational & Data Sciences. May be repeated within the degree.
+Recommended Prerequisite: Completion of twelve graduate credits and Permission of Instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Thesis
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+CSI 854: Hyperspectral Imaging Applications. 3 credits.
+Includes advanced hyperspectral concepts, multisystems tradeoffs, data collection and processing systems, imaging radar systems, laser systems, data fusion, calibration and data compression techniques, remote sensing and U.S. national policy. Applications include environmental, homeland security, medical, military, disaster mitigation, agricultural, and transportation topics. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to GGS 840.
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 873: Computational Learning and Discovery. 3 credits.
+Presents modern ideas, theories, and methods for computational learning and discovery, along with relevant applications including medical diagnosis, Earth science data analysis, and neuronal modeling. Includes background elucidation of fundamental concepts in computational learning, addressing discovery of equations, theory of causality, and comparison with biological and cognitive models. Students make presentations on topics of their research interest and work on projects involving state-of-the art systems. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to CSI 763.
+Recommended Prerequisite: CS 580 or equivalent or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Post-Baccalaureate or Non-Degree Undergraduate degrees may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 876: Measure and Linear Spaces. 3 credits.
+Covers measure theory and integration, convergence theorems, and the theory of linear spaces and functional analysis, including normed linear spaces, inner product spaces, Banach and Hilbert spaces, Sobelev spaces, and reproducing kernels. Topics include wavelets, applications to stochastic processes, and nonparametric functional inference. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: IT 776 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 877: Geometric Methods in Statistics. 3 credits.
+Develops foundations of geometric methods for statistics. Topics include n-dimension Euclidian geometry; projective geometry; differential geometry, including curves, surfaces, and n-dimensional differentiable manifolds; and computational geometry, including computation of convex hulls, tessellations of two-, three-, and n-dimensional spaces, and finite element grid generation. Examples include applications to scientific visualization. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: STAT 690 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 885: Atomistic Modeling of Materials. 3 credits.
+Advanced course focusing on utilization of atomistic modeling and computer simulation techniques to analyze structure of crystalline materials. Introduces modern methodology of largescale atomistic simulations and provides hands-on experience through numerous examples and homework assignments based on simulation packages. Provides background knowledge on theory of lattice defects (point defects, interfaces, dislocations) and thermal and mechanical properties of solid materials (plastic deformation, fracture). Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: CSI 685, 700, and 786, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 898: Research Colloquium in Computational Sciences and Informatics. 1 credit.
+Presentations in specific research areas in computational sciences and informatics by faculty and staff members and professional visitors. Notes: A maximum 3 credits of CSI 898, 899, and 991 may be applied to PhD. Offered by Computational & Data Sciences. May be repeated within the term.
+Specialized Designation: Topic Varies
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18, Seminar
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+CSI 899: Colloquium in Computational and Data Sciences. 1 credit.
+Presentations in specific research areas in computational sciences and informatics by faculty and staff members and professional visitors. Notes: A maximum 3 credits of CSI 898, 899, and 991 may be applied to PhD. Offered by Computational & Data Sciences. May be repeated within the term.
+Specialized Designation: Topic Varies
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18, Seminar
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+CSI 971: Probability Theory. 3 credits.
+A rigorous measure-theoretic treatment of probability. Includes expectation, distributions, laws of large numbers and central limit theorems for independent random variables, characteristic function convergence, and Markov chains. Offered by Computational & Data Sciences. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 544B- or 544XS) and (MATH 315C or 315XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.C Requires minimum grade of C.Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 972: Mathematical Statistics I. 3 credits.
+Focuses on theory of estimation, exploring method of moments, least squares, maximum likelihood, and maximum entropy methods. Details methods of minimum variance unbiased estimation. Other topics include sufficiency and completeness of statistics, Fisher information, Cramer-Rao bounds, Bhattacharyya bounds, asymptotic consistency and distributions, statistical decision theory, minimax and Bayesian decision rules, and applications to engineering and scientific problems. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to STAT 972.
+Registration Restrictions: Required Prerequisites: (CSI 672B-, 672XS, STAT 652B- or 652XS) and (CSI 876B-, 876XS, IT 876B-, STAT 876B-, 876XS, IT 971B-, STAT 971B- or 971XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 973: Mathematical Statistics II. 3 credits.
+Concentrates on theory of hypothesis testing. Topics include characterizing the decision process; simple versus simple hypothesis tests; Neyman Pearson Lemma; and uniformly most powerful, unbiasedness, invariance, randomized, and sequential tests. Applies testing principles to situations in normal distribution family and other families of distributions. Notes: Continuation of CSI 972. Offered by Computational & Data Sciences. May not be repeated for credit. Equivalent to STAT 973.
+Registration Restrictions: Required Prerequisite: CSI 972B-.B- Requires minimum grade of B-.Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 978: Statistical Analysis of Signals. 3 credits.
+Advanced course in analysis of discrete- and continuous-time signals using methods of stochastic differential equation and time series. Presumes familiarity with methods of harmonic analysis and times series modeling. Topics include state-space modeling and eigenvalue processing, nonlinear modeling of signals, non-Gaussian stochastic process structure, detection and estimation of vector-valued signals, robust signal detection, and array processing and target tracking. Offered by Computational & Data Sciences. May not be repeated for credit.
+Recommended Prerequisite: STAT 544 and 658, or equivalent.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 979: Advanced Topics in Computational Statistics. 3 credits.
+Covers selected topics in computational statistics not covered in fixed-content computational statistics courses. Offered by Computational & Data Sciences. May be repeated within the degree for a maximum 12 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite:  Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 986: Advanced Topics in Large-Scale Physical Simulation. 3 credits.
+Covers simulation of physical systems not covered in fixed-content physical simulation courses. Offered by Computational & Data Sciences. May be repeated within the degree for a maximum 12 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 991: Seminar in Scientific Computing. 1 credit.
+Considers selected topics in specific area of computational sciences and informatics not covered in fixed-content courses or as extension of fixed-content courses. Format for presentation is seminar with student participation. Notes: Maximum 3 credits of CSI 898, 899, and 991 may be applied to PhD. Offered by Computational & Data Sciences. May be repeated within the term.
+Specialized Designation: Topic Varies
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18, Seminar
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+CSI 996: Doctoral Reading and Research. 1-6 credits.
+Reading and research on specific topic in computational sciences and informatics under direction of faculty member. May be repeated for a total of 6 credits. Offered by Computational & Data Sciences. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: Admission to doctoral program, permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Research
+Grading: This course is graded on the Graduate Regular scale.
+
+CSI 998: Doctoral Dissertation Proposal. 1-12 credits.
+Covers development of research proposal under guidance of dissertation director and doctoral committee. Proposal forms basis for doctoral dissertation. Notes: No more than 12 credits of CSI 998 may be applied to doctoral degree. Offered by Computational & Data Sciences. May be repeated within the degree.
+Recommended Prerequisite: Permission of advisor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Dissertation
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+CSI 999: Doctoral Dissertation. 1-12 credits.
+Involves doctoral dissertation research under direction of dissertation director. Notes: No more than 24 credits in CSI 998 and 999 may be applied to doctoral degree. Offered by Computational & Data Sciences. May be repeated within the degree.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy.Enrollment is limited to Graduate level students.
+Schedule Type: Dissertation
+Grading: This course is graded on the Satisfactory/No Credit scale.
+

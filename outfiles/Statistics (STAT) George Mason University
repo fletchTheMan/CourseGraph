@@ -1,0 +1,464 @@
+STAT 250: Introductory Statistics I. 3 credits.
+Elementary introduction to statistics with applications to all fields of study. Topics include data analysis for one and two variables, probability, estimation and hypothesis testing for proportions and means, correlation, and regression. Statistical software used for assignments. Required course for the Digital Technology Credential (https://statistics.preprod.gmu.edu/digital-technology-credential). Offered by Statistics. Limited to three attempts.
+Mason Core: Quantitative Reasoning
+Recommended Prerequisite: High school algebra.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 260: Introduction to Statistical Practice I. 3 credits.
+Data-oriented introduction to fundamental concepts and methods of applied statistics. Topics include: exploratory data analysis; sampling and principles of experimental design; sampling distributions; confidence intervals and tests for one and two sample means and proportions; analysis of contingency tables; simple linear regression; and correlation. Extensive use of statistical software. Intended primarily for students in the Statistics Bachelor's program. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: MATH 113*C, 113*XS, 115*C, 115*XS, 124*C or 124*XS.* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 334: Introduction to Probability Models and Simulation. 3 credits.
+Introduction to basic probability and principles of simulation. Emphasis is placed on formulation of models and simulation applications to statistical methodology. Topics include: basic probability rules. counting methods, discrete and continuous probability spaces, independence, conditional probability, expectation, variance, and limit theorems. Distributions covered include the binomial, hypergeometric, Poisson, normal, Gamma, Beta, multinomial, and bivariate normal. Intended primarily for students in the Statistics Bachelor's program. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (STAT 260C or 260XS) and (MATH 114C, 114XS, 116C or 116XS) and (STAT 362*C or 362*XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 344: Probability and Statistics for Engineers and Scientists I. 3 credits.
+Introduction to probability and statistics with applications to computer science, engineering, operations research, and information technology. Basic concepts of probability, random variables and expectation, Bayes rule, bivariate distributions, sums of independent random variables, correlation and least squares estimation, central limit theorem, sampling distributions, confidence interval construction, and hypothesis testing for a single sample and two samples. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (MATH 114C, 114XS or 116C) or MATH 116XS.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 346: Probability for Engineers. 3 credits.
+Introduction to probability with applications to electrical and computer engineering, operations research, information technology, and economics. Basic concepts of probability, conditional probability, random variables and moments, specific probability distributions, multivariate distributions, moment-generating functions, limit theorems, and sampling distributions. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (MATH 213C, 213XS, 215C or 215XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 350: Introductory Statistics II. 3 credits.
+Further examination of statistics and data analysis with an emphasis on applications. Inference for comparing multiple samples, experimental design, analysis of variance and post-hoc tests. Simple linear, multiple and logistic regression. Analysis of contingency tables and categorical data. A statistical computer package is used for data analysis. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: STAT 250C, 250XS, 260C or 260XS.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 354: Probability and Statistics for Engineers and Scientists II. 3 credits.
+Multivariate probability distributions, variable transformations, properties of estimators, inference on means, variances, and proportions for two samples, contingency tables, goodness-of-fit test, nonparametric tests, simple linear regression, multiple linear regression, logistic regression, ANOVA, basic experimental design, basic resampling methods such as the bootstrap. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (STAT 334C or 334XS) or STAT 344C, L344 or 344XS or ((STAT 346C or 346XS) and (STAT 362C or 362XS)).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 356: Statistical Theory. 3 credits.
+Introduction to the mathematical theory of statistical inference, emphasizing inference for standard parametric families of distributions. Topics include: properties of estimators; Bayes and maximum likelihood estimation; sufficient statistics; properties of test of hypotheses; most powerful and likelihood-ratio tests; and distribution theory for common statistics based on normal distributions. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: STAT 346C, 346XS, MATH 351C or 351XS.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 360: Introduction to Statistical Practice II. 3 credits.
+Continued study of the process, concepts, and methods of statistical investigations with the communication of statistical results being emphasized. Topics in the course will include: chi-square procedures, an introduction to the design and analysis of experiments, ANOVA, simple linear and multiple regression, nonparametric methods and basic resampling methods such as bootstrap. Statistical software will be used extensively throughout the course. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (STAT 250C, 250XS, 260C, 260XS, BENG 241C or 241XS) and (MATH 114*C, 114XS, 116*C or 116XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 362: Introduction to Computer Statistical Packages. 3 credits.
+Use of computer packages in statistical analysis of data. Topics include data entry, checking, and manipulation, and use of computer statistical packages for graphical procedures, basic descriptive and inferential procedures, and regression. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: STAT 250C, 250XS, 260C, 260XS, BUS 310C, 310XS, STAT 344C, 344XS or L344.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 455: Experimental Design. 3 credits.
+Introduces problems and techniques inherent in design of experiments, which refers to planning an experiment so that collected data can be analyzed by statistical methods. Covers the two aspects to any experimental problem: the design itself and the analysis of the resulting data. Examples from numerous disciplines in the sciences and the humanities are discussed. Data analysis is emphasized. Offered by Statistics. Limited to two attempts.
+Recommended Corequisite: STAT 362
+Registration Restrictions: Required Prerequisites: (STAT 350C or 350XS) or (STAT 354C or 354XS) or (STAT 360C or 360XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 456: Applied Regression Analysis. 3 credits.
+Introduces statistical modeling with a focus on regression. Topics include: Correlation, simple and multiple regression models, model fitting, variable selection, diagnostic tools, model validation, and inference for regression parameters. Additional topics covered include logistic regression and time series analysis with a focus on smoothing techniques and decomposition. A statistical software package is used extensively throughout the course. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (STAT 350C or 350XS) or (STAT 354C or 354XS) or (STAT 360C or 360XS) or (BUS 310C or 310XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 460: Introduction to Biostatistics. 3 credits.
+Focuses on biostatistical aspects of design and analysis of biomedical studies, including epidemiologic observational studies and randomized clinical trials. Topics include randomization principle, confounding, ethics in human experimentation, methods of randomization, stratification, primary outcome analyses, covariate-adjusted analyses, epidemiologic measures, and sample size and power computation. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (STAT 350C, 350XS, 354C, 354XS, 360C or 360XS) and (STAT 362*C or 362XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 462: Applied Multivariate Statistics. 3 credits.
+Introduces a variety of multivariate statistical methods as aids to analyzing and interpreting large data sets. These methods will have general applications across a wide range of disciplines. Topics include: principal components analysis, cluster analysis, discriminant analysis, multi-dimensional scaling, correspondence analysis, and canonical correlation analysis. Extensive use of statistical software. Offered by Statistics. Limited to two attempts.
+Recommended Corequisite: STAT 362
+Registration Restrictions: Required Prerequisites: (STAT 350C or 350XS) or (STAT 354C or 354XS) or (STAT 360C or 360XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 463: Introduction to Exploratory Data Analysis. 3 credits.
+Features statistical graphics, maps and simple models used to bring out patterns in data. Introduces statistical software and addresses data access and import. Presents exploratory strategies motivating data transformations. Stresses the cognitive foundations of good graphics. Graphics include dot plots, box plots, Q-Q plots, parallel coordinate plots, scatterplot matrices and linked views. Exploration includes use of dynamic graphics. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (STAT 350C or 350XS) or (STAT 354C or 354XS) or (STAT 360C or 360XS) or (BUS 310C or 310XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 465: Nonparametric Statistics and Categorical Data Analysis. 3 credits.
+Introduction to nonparametric methods and categorical data analysis. Topics include: tests for one-sample, two-related samples, and two independent samples; concepts of nonparametric ANOVA; tests for proportions; chi-squared tests, log-linear models, and contingency tables; goodness-of-fit tests; correlation and association analysis; nonparametric regression including logistic and Poisson regression; and bootstrapping, jackknifing, and cross-validation. Notes: Students may not receive credit for both STAT 465 and STAT 525. Offered by Statistics. Limited to two attempts.
+Recommended Corequisite: STAT 362
+Registration Restrictions: Required Prerequisites: (STAT 350C or 350XS) or (STAT 354C or 354XS) or (STAT 360C or 360XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 472: Introduction to Statistical Learning. 3 credits.
+Tools for the analysis of massive data sets. Topics include: regression, classification trees, clustering, and support vector machines. Extensive use of statistical software. Applications to business, finance, biology, and other sciences and engineering. Offered by Statistics. Limited to two attempts.
+Recommended Corequisite: STAT 362
+Registration Restrictions: Required Prerequisites: STAT 456C or 456XS.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 474: Introduction to Survey Sampling. 3 credits.
+Introduction to design and analysis of sample surveys. Sample designs include simple random sampling; systematic sampling; and stratified, cluster, and multistage sampling. Analytical methods include sample size determination, ratio and regression estimation, imputation for missing data, and nonsampling error adjustment. Practical problems encountered in conducting a survey are discussed, such as questionnaire design. Methods applied to case studies of actual surveys. Class project may be required. Notes: Recommended for students of decision, information, social sciences, and mathematics. Offered by Statistics. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (STAT 350C, 350XS, 354C, 354XS, 360C or 360XS) and (STAT 362*C or 362XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 489: Pre-Capstone Professional Development. 3 credits.
+Develops skills in the areas of technical writing and oral communication. Students will develop a historical and ethical appreciation of the field of statistics as well as connect methods from their undergraduate coursework to solve problems. Students will work in small groups to develop a project proposal for STAT 490. Offered by Statistics. Limited to two attempts.
+Specialized Designation: Writing Intensive in Major
+Recommended Prerequisite: Recommended minimum of 75 undergraduate credits.
+Registration Restrictions: Required Prerequisites: (STAT 354C, 354XS, 360C or 360XS) and (STAT 362C or 362XS) and (ENGH 302C or 302XS) and (COMM 100C, 100XS, 101C or 101XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Enrollment limited to students with a class of Junior, Senior Plus or Senior.Enrollment is limited to students with a major in Statistics.Enrollment limited to students in a Bachelor of Science degree.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 490: Capstone in Statistics. 3 credits.
+Students will synthesize methods and ideas acquired in their undergraduate courses by working in small groups on a project and presenting their findings in a written report and an oral presentation. Offered by Statistics. Limited to two attempts.
+Mason Core: Capstone
+Registration Restrictions: Required Prerequisites: STAT 489C or 489XS.C Requires minimum grade of C.XS Requires minimum grade of XS.Enrollment is limited to students with a major in Statistics.Enrollment limited to students in a Bachelor of Science degree.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 494: Internship In Statistics. 0-3 credits.
+A supervised statistics-related experience working for a government agency, in the private sector or on approved summer research program. Based on input from the client, the student and faculty coordinator agree on the overall scope of the project including learning objectives, work plan, and expected outputs. Students will periodically inform the faculty coordinator of their status and, on completion of the internship, will document the experience with a comprehensive report or a departmental oral presentation. Offered by Statistics. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: Completion of at least 60 credits.
+Registration Restrictions: Enrollment is limited to students with a major in Statistics.
+Schedule Type: Internship
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+STAT 498: Independent Study in Statistics. 1-3 credits.
+Directed self-study of special topics of current interest in statistics. Notes: May be repeated if topics are substantially different. Offered by Statistics. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: 60 hours. Must be arranged with a faculty member of the Statistics Department and approved by the department chair before registering.
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Independent Study
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 499: Special Topics in Statistics. 0-3 credits.
+Topics of special interest to undergraduates. Notes: May be repeated if topics are substantially different. Offered by Statistics. May be repeated within the term for a maximum 6 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: 60 undergraduate credits.
+Registration Restrictions: Washington Consortium level students may not enroll.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Undergraduate Regular scale.
+
+STAT 500: Special Topics. 0-4 credits.
+Select contemporary topics in Engineering and Computing. Offered by Statistics. May be repeated within the degree for a maximum 6 credits.
+Specialized Designation: Topic Varies
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Special scale.
+
+STAT 515: Applied Statistics and Visualization for Analytics. 3 credits.
+Introduces multivariate regression and random forests for modeling data. Addresses data access, variable selection and model diagnostics. Introduces foundations for visual thinking. Reviews common statistical graphics such as dot plots, box plots, q-q plots. Addresses more advanced methods such as scatterplot matrices enhanced by smoothed or density contours, and search tools for finding graphics with suggestive patterns. Notes: Course will introduce R software for analysis.  A final project will involve visualization of a real data set. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: STAT 250 or equivalent.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 517: Experimental Design. 3 credits.
+Introduces problems and techniques inherent in design of experiments, which refers to planning an experiment so that collected data can be analyzed by statistical methods.  Covers the two aspects to any experimental problem: the design itself and the analysis of the resulting data.  Examples from numerous disciplines in the sciences and the humanities are discussed. Data analysis is emphasized. Notes: Students may not receive credit for both STAT 455 and STAT 517. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 535B-, 535XS, 554B- or 554XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 522: Applied Multivariate Statistics. 3 credits.
+Introduces a variety of multivariate statistical methods as aids to analyzing and interpreting large data sets. These methods will have general applications across a wide range of disciplines. Topics include: principal components analysis, cluster analysis, discriminant analysis, multi-dimensional scaling, correspondence analysis, and canonical correlation analysis. Extensive use of statistical software.
+Notes: Students may not receive credit for both STAT 462 and STAT 522. Cannot be used to satisfy requirements for MS in Statistical Science. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 535B-, 535XS, 554B- or 554XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 525: Nonparametric Statistics and Categorical Data Analysis. 3 credits.
+Introduction to nonparametric methods and categorical data analysis. Topics include tests for one-sample, two-related samples, and two independent samples; concepts of nonparametric ANOVA; tests for proportions; chi-squared tests, log-linear models, and contingency tables; goodness-of-fit tests; correlation and association analysis; nonparametric regression including logistic and Poisson regression; and bootstrapping, jackknifing , and cross-validation. Notes: Students may not receive credit for both STAT 465 and STAT 525. Cannot be used to satisfy requirements for MS in Statistical Science. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 535B-, 535XS, 554B- or 554XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 526: Applied Regression Analysis. 3 credits.
+Introduces statistical modeling with a focus on regression. Topics include: Correlation, simple and multiple regression models, model fitting, variable selection, diagnostic tools, model validation, inference for regression parameters, and matrix forms for multiple regression. Additional topics covered include logistic regression and time series analysis with a focus on smoothing techniques and decomposition. A statistical software package is used extensively throughout the course.  Notes: Students may not receive credit for both STAT 456 and STAT 526. Cannot be used to satisfy requirements for MS in Statistical Science. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 535B-, 535XS, 554B- or 554XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 532: Introduction to Statistical Software Packages. 3 credits.
+Use of computer packages in statistical analysis of data. Topics include data entry, checking, and manipulation; and use of statistical packages for graphical procedures, basic descriptive and inferential procedures, and regression. Notes: Cannot be used to satisfy requirements for MS in Statistical Science without prior written approval of the graduate program director. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: STAT 250 or equivalent
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 535: Analysis of Experimental Data. 3 credits.
+Statistical methods for analysis of experimental data from educational research and the social, natural, and life sciences. Topics include sample surveys, contingency tables, linear and multiple regression, analysis of variance, nonparametric tests, and multivariate methods. Various statistical packages will be used. Notes: Cannot be used to satisfy requirements for MS in Statistical Science. Certificate program students granted credit for only one of STAT 535 or STAT 554. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: STAT 250, STAT 344 or equivalent.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 539: Topics in Applied Statistics. 0-3 credits.
+Special topics in applied statistics of interest to graduate students in statistics certificate programs. Notes: May be repeated for credit when topic is different. Cannot be used to satisfy requirements for MS in Statistical Science. Offered by Statistics. May be repeated within the degree for a maximum 3 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor; specific prerequisites vary with the nature of the topic.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 544: Applied Probability. 3 credits.
+The axioms of probability, conditional probability, random variables and expectation, multivariate and conditional distributions, conditional expectation, order statistics, transformations, moment generating functions, special distributions, limit theorems. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: MATH 213 and STAT 346, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 554: Applied Statistics I. 3 credits.
+Application of basic statistical techniques. Focus is on the problem (data analysis) rather than on the theory. Topics include hypothesis testing concepts; sampling distributions; one- and two-sample tests and normal-theory based and bootstrap confidence intervals; analysis of variance; simple linear regression; randomized block design; ANCOVA models. Statistical reasoning ideas are emphasized, such as confounding, sources of variations and types of bias.  Note: Certificate program students granted credit for only one of STAT 535 or 554. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: MATH 114 and (STAT 334 or STAT 344 or STAT 346) and (Course in Statistics)
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 560: Biostatistical Methods. 3 credits.
+Focuses on biostatistical aspects of design and analysis of biomedical studies, including epidemiologic observational studies and randomized clinical trials. Topics include randomization principle, confounding, ethics in human experimentation, methods of randomization, stratification, primary outcome analyses, covariate-adjusted analyses, epidemiologic measures, and sample size and power computation. Note: Students may not receive credit for both STAT 460 and STAT 560. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: STAT 350 or STAT 354 or STAT 360; and working knowledge of SAS.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 574: Survey Sampling I. 3 credits.
+Design and implementation of sample surveys. Covers components of a survey; probability sampling designs to include simple random, systematic, Bernoulli, proportional to size, stratified, cluster and two-stage sampling; and ratio and regression estimators. Discusses practical problems in conducting a survey. Methods applied to case studies of actual surveys. Class project may be required. Notes: Students may not receive credit for both STAT 474 and STAT 574. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: STAT 346 and a course in Statistics, or STAT 344; and working knowledge of SAS.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 634: Case Studies in Data Analysis. 3 credits.
+Examination of a wide variety of case studies illustrating data-driven model building and statistical analysis. With each case study, various methods of data management, data presentation, statistical analysis, and report writing are compared. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Working knowledge of SAS and R.
+Registration Restrictions: Required Prerequisites: ((STAT 654B- or 654XS) and (STAT 544B- or 544XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 652: Statistical Inference. 3 credits.
+Fundamental principles of estimation and hypothesis testing. Topics include limiting distributions and stochastic convergence, sufficient statistics, exponential families, statistical decision theory and optimality for point estimation, Bayesian methods, maximum likelihood, asymptotic results, interval estimation, optimal tests of statistical hypotheses, and likelihood ratio tests. Offered by Statistics. May not be repeated for credit. Equivalent to CSI 672.
+Registration Restrictions: Required Prerequisites: ((STAT 544B- or 544XS) and (STAT 554*B- or 554XS)).* May be taken concurrently.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 654: Applied Statistics II. 3 credits.
+Overview of statistical principles of modeling. Topics include methods for analyzing data based on generalized linear models and diagnostic methods for assessing the assumptions of such models. Methods covered include linear models and analysis of variance for multifactor experiments with balanced and unbalanced data, linear mixed models, logistic and Poisson regression, and hierarchical log linear models for contingency tables. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: MATH 203 and MATH 213 and STAT 346
+Registration Restrictions: Required Prerequisites: (STAT 554B- or 554XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus or Senior Plus.Enrollment is limited to students with a major in Biostatistics or Statistical Science.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 656: Regression Analysis. 3 credits.
+Simple and multiple linear regression, polynomial regression, general linear models, subset selection, step-wise regression, and model selection. Also covered are multicollinearity, diagnostics, and model building as well as the theory and practice of regression analysis. Offered by Statistics. May not be repeated for credit. Equivalent to CSI 676.
+Registration Restrictions: Required Prerequisites: ((STAT 544*B- or 544XS) and (STAT 554B- or 554XS)).* May be taken concurrently.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 657: Nonparametric Statistics. 3 credits.
+Distribution-free procedures for making inferences about one or more samples; tests for lack of independence, association or trend, and monotone alternatives; nonparametric function estimation; kernel, local polynomials, and spline methods; other recent advances in function estimation. Students are introduced to appropriate statistical software. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: ((STAT 544B- or 544XS) and (STAT 554B- or 554XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 658: Time Series Analysis and Forecasting. 3 credits.
+Modeling stationary and nonstationary processes, autoregressive, moving average and mixed model processes, autocovariance functions, autocorrelation functions, partial autocorrelation functions, spectral density functions, identification of models, estimation of model parameters, and forecasting techniques. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: ((STAT 544B- or 544XS) and (STAT 554B- or 554XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 660: Advanced Biostatistical Methods I. 3 credits.
+This course is the first in a two-course sequence in biostatistics that introduces statistical theory, methods, and computing which provide foundations to common biostatistical methods.  It focuses on the design and analysis of the clinical trial, the cornerstone of the clinical biomedical research. Topics include the theory of randomization, randomization-based inference, power analysis, restricted, response-adaptive, and covariate-adaptive randomization, the modern theory of group sequential monitoring, statistical aspects of determination of dose-response relationships. Offered by Statistics. May not be repeated for credit. Equivalent to STAT 760.
+Recommended Prerequisite: Working knowledge of statistical programming language.
+Registration Restrictions: Required Prerequisites: ((STAT 652B- or 652XS) and (STAT 654B- and 654XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 661: Advanced Biostatistical Methods II. 3 credits.
+This course is the second in a two-course sequence in biostatistics that introduces statistical theory, methods, and computing which provide foundations to common biostatistical methods. The main emphasis of the course is on biostatistical models, survival analysis, and longitudinal data analysis. Specific topics include modeling and analysis of time to event data, linear mixed effects models, generalized linear models for correlated data (including generalized estimating equations), and computational issues and methods for fitting models. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Working knowledge of statistical programming language.
+Registration Restrictions: Required Prerequisites: ((STAT 652B- or 652XS) and (STAT 654B- or 654XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 662: Multivariate Analysis and Statistical Learning. 3 credits.
+Classical and modern techniques of modeling, analyzing and mining multivariate data.  Topics include multivariate normal theory, multivariate linear regression, principal components, classification, factor analysis, clustering, multidimensional scaling, EM algorithm, CART, modern predictive modeling and statistical learning methods.  Applications to data analytics.  Computer implementation via a statistical package is an integral part of the course. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Matrix algebra, and knowledge of a statistical package.
+Registration Restrictions: Required Prerequisites: (STAT 544B- and (STAT 554B- or 535B-)).B- Requires minimum grade of B-.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 663: Statistical Graphics and Data Exploration I. 3 credits.
+Introduces statistical graphics that show distribution features and functional relationships in the presence of noise. Introduces cognitive research guidance for graphics design and reasoning. Stresses quantitative comparisons from multiple perspectives. Features new micromaps designs for spatial and temporal comparisons. Introduces R, the grammar of graphics, and dynamic graphics software.  Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: A 300-level statistics course and a programming course, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 665: Categorical Data Analysis. 3 credits.
+Analyzes cross-classified categorical data in two and higher dimensions. Topics include association tests and measures of association in two- and three-dimensional contingency tables, logistic regression, and log linear models. SAS is used extensively for data analysis. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Working knowledge of SAS.
+Registration Restrictions: Required Prerequisites: ((STAT 654B- or 654XS) and (STAT 544*B- or 544XS)).* May be taken concurrently.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 668: Survival Analysis. 3 credits.
+Survival Analysis is a class of statistical methods for studying the occurrence and timing of events. In medical research, the events may be deaths, and the objective is to determine factors affecting survival times of patients following treatment, usually in the setting of clinical trials. Methods can also be applied to the social and natural sciences and engineering where they are known by other names (reliability, event history analysis). Concepts of censored data, time-dependent variables, and survivor and hazard functions are central. Nonparametric methods for comparing two or more groups of survival data are studied. The Cox regression model (proportional hazards model), Weibull model, and the accelerated failure time model are studied in detail. Concepts are applied to analysis of real data from major medical studies using SAS software. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Working knowledge of R and SAS.
+Registration Restrictions: Required Prerequisites: ((STAT 544B- or 544XS) and (STAT 554B- or 554XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 672: Statistical Learning and Data Analytics. 3 credits.
+The course focuses on statistical learning theory by introducing the statistical and optimization background essential for understanding statistical learning algorithms. Also discusses applications of statistical learning algorithms to the solution of important problems in many areas of science. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: ((STAT 544B- or 544XS) and (STAT 554B- or 554XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 674: Survey Sampling II. 3 credits.
+Continuation of STAT 574. Applications to case studies of actual surveys. Categorical data analysis, regression models, and domain estimation from complex sampling designs, introduction to variance estimation, weighting adjustments for nonresponse, and imputation. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 574B- or 574XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 676: Linear Models and Advanced Regression Modeling. 3 credits.
+Presents a rigorous treatment of the theory of regression methodology and its applications. The course provides a geometric approach for univariate and multivariate regression models and covers maximum likelihood estimation, hypothesis tests, model selection, and regression diagnostics. Topics: matrix algebra for statisticians; Gauss-Markov theorem; inferences for linear models; theory of multiple regression and AOV; model assessment, selection and penalization; quantile regression and robust regression; random- and mixed-effects models. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Working knowledge of a statistical programming language.
+Registration Restrictions: Required Prerequisites: (STAT 654B- or 654XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 689: Topics in Statistics. 1-3 credits.
+Special topics of interest to graduate students in statistics. Notes: May be repeated for credit when topic is different. Offered by Statistics. May be repeated within the degree for a maximum 6 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor; specific prerequisites vary with the nature of the topic.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 742: Optimization for Statistical Modeling. 3 credits.
+Discusses standard classes of mathematical optimization problems and how these classes arise in statistical model fitting. Both constrained and unconstrained optimization problems are studied in detail, with an emphasis on convex problems. Specific examples are: sparsity and shape-constrained estimation, EM algorithms for mixture models, linear programming for quantile regression, semidefinite programming for sparse PCA and Gaussian graphical models. The treatment is complemented by the implementation of suitable algorithms for the solution of the above problems, including gradient descent and proximal methods, Newton and Quasi-Newton methods, interior point methods, alternating direction methods of multipliers, and MM algorithms. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Multivariate calculus and linear algebra.
+Registration Restrictions: Required Prerequisites: (STAT 654B-, 654XS, 672B- or 672XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate or Non-Degree.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 758: Advanced Time Series Analysis. 3 credits.
+Mathematical modeling and methods for model identification and forecasting of nonstationary and seasonal time series data (ARIMA models), multivariate time series, and state-space models. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 658B- or 658XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 760: Advanced Biostatistical Methods. 3 credits.
+Advanced statistical methods in the drug development process. Provides the theoretical statistical basis for the design and analysis of pharmaceutical clinical trials. Topics include the theory of randomization, randomization-based inference, restricted, response-adaptive, and covariate-adaptive randomization, the modern theory of group sequential monitoring, statistical aspects of determination of dose-response relationships. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Working knowledge of statistical programming language.
+Registration Restrictions: Required Prerequisites: ((STAT 652B- or 652XS) and (STAT 654B- or 654XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 763: Statistical Graphics and Data Exploration II. 3 credits.
+Addresses data set size and human comprehension challenges. Introduces case and variable reduction methods, and overview production. Incorporates cognitive science guidance. Utilizes data mining models and visual analytic algorithms to find patterns and prioritize graphics. Addresses applications from both information and scientific visualization. Tracks advances in web graphics including citizen science projects harnessing the visual power of thousands of people. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 663B-, 663XS, 515B- or 515XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 771: Spatial Data Analysis. 3 credits.
+Presents analysis techniques for spatially-indexed or spatially-correlated data that arise in many areas of science, including medicine, transportation, and atmospheric sciences. Focus is on data analysis rather than theory, though theory will necessarily be covered. Topics include analysis of point patterns, trend and surface estimation, and spatial regression. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Working knowledge of R and SAS.
+Registration Restrictions: Required Prerequisites: ((STAT 652B- or 652XS) and (STAT 654B- or 654XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 773: Statistical Methods for Longitudinal Data Analysis. 3 credits.
+Presents modern statistical approaches to the analysis of longitudinal data, i.e., data collected repeatedly on experimental units over time (or other conditions). Topics include linear mixed effects models, generalized linear models for correlated data (including generalized estimating equations), and computational issues and methods for fitting models. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Working knowledge of SAS.
+Registration Restrictions: Required Prerequisites: ((STAT 652B- or 652XS) and (STAT 654B- or 654XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 778: Statistical Computing. 3 credits.
+Introduces modern and basic elements of statistical computing.  Topics include: data wrangling, numerical computation for statisticians, semi-numerical computation (simulation methodology and algorithms), graphical computation, and special topics in resampling, Bayesian calculations, mixtures, EM algorithms,  parallel processing, and some modern data analytics (time permitting). Some complex programming problems related to statistical modeling and inference are studied. R and its interfaces with other programming languages will be used. (Other types of programming languages are allowed with the permission of instructor). Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 652B-, 652XS, CSI 672B- or 672XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 796: Independent Studies/Directed Readings. 1-3 credits.
+Reading and research on a specific topic in statistics under guidance of graduate faculty member.   Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: Permission of instructor and department’s graduate coordinator.
+Registration Restrictions: Enrollment is limited to Graduate, Non-Degree or Washington Consortium level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Independent Study
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 798: Master's Research Project. 3 credits.
+Project chosen and completed under guidance of graduate faculty member that results in acceptable technical report. Offered by Statistics. May not be repeated for credit.
+Recommended Prerequisite: 9 graduate credits, and permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Thesis
+Grading: This course is graded on the Graduate Special scale.
+
+STAT 799: Master's Thesis. 1-6 credits.
+Project chosen and completed under guidance of graduate faculty member that results in acceptable technical report and oral defense. Offered by Statistics. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: 9 graduate credits, and permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Thesis
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+STAT 889: Advanced Topics in Statistics. 3 credits.
+Advanced topics not occurring in regular sequence. Offered by Statistics. May be repeated within the degree for a maximum 12 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Doctoral standing and permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 896: Advanced Directed Reading. 3 credits.
+Individualized study with a graduate faculty member in the Department of Statistics. Syllabus and grading criteria must be preapproved by the PhD in Statistical Science Program Director. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Enrollment is limited to students with a major in Statistical Science.Enrollment limited to students in the EC-PHD-STAT program.Enrollment is limited to Graduate level students.Enrollment limited to students in a Doctor of Philosophy degree.
+Schedule Type: Independent Study
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 971: Probability Theory. 3 credits.
+A rigorous measure-theoretic treatment of probability. Includes expectation, distributions, laws of large numbers and central limit theorems for independent random variables, characteristic function methods, conditional expectations, martingales, strong and weak convergence, and Markov chains. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: STAT 544B and (MATH 315B or 315XS).B Requires minimum grade of B.XS Requires minimum grade of XS.Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 972: Mathematical Statistics I. 3 credits.
+Focuses on theory of estimation. Includes method of moments, least squares, maximum likelihood, and maximum entropy methods. Details methods of minimum variance unbiased estimation. Topics include sufficiency and completeness of statistics, Fisher information, Cramer-Rao bounds, Bhattacharyya bounds, asymptotic consistency and distributions, statistical decision theory, minimax and Bayesian decision rules, and applications to engineering and scientific problems. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: ((STAT 652B-, 652XS, CSI 672B- or 672XS) and (CSI 876*B-, 876XS, STAT 971*B-, 971XS, CSI 971*B- or 971XS)).* May be taken concurrently.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 973: Mathematical Statistics II. 3 credits.
+Continuation of STAT 972/CSI 972. Concentrates on theory of hypothesis testing. Topics include characterizing decision process, simple versus simple hypothesis tests, Neyman-Pearson Lemma, uniformly most powerful tests, unbiasedness and invariance of tests, and randomized and sequential tests. Applications of testing principles made to situations in normal distribution family and other families of distributions. Offered by Statistics. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (STAT 972B-, 972XS, CSI 972B- or 972XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+STAT 990: Dissertation Topic Presentation. 1 credit.
+Students put together a professional presentation of a research proposal and present it for critique to fellow students and interested faculty. Notes: May be repeated with change of research topic, but credit towards doctoral degree is given once. Offered by Statistics. May not be repeated for credit. Equivalent to CEIE 990, CS 990, IT 990.
+Recommended Prerequisite: Completion of all course requirements for PhD, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Research
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+STAT 998: Doctoral Dissertation Proposal. 1-12 credits.
+Work on research proposal that forms basis for doctoral dissertation. Notes: No more than 24 credits of STAT 998 and 999 may be applied to doctoral degree requirements. Offered by Statistics. May be repeated within the degree.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Dissertation
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+STAT 999: Doctoral Dissertation. 1-12 credits.
+Formal record of commitment to doctoral dissertation research under direction of faculty member in statistics. Notes: No more than 24 credits of STAT 998 and 999 may be applied to doctoral degree requirements. Offered by Statistics. May be repeated within the degree.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy.Enrollment is limited to Graduate level students.
+Schedule Type: Dissertation
+Grading: This course is graded on the Satisfactory/No Credit scale.
+

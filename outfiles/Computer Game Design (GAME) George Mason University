@@ -1,0 +1,279 @@
+GAME 101: Introduction to Game Design. 3 credits.
+Introductory overview of the game development process with an emphasis on game design. Through detailed study of historical and current games, students will learn the language and structure needed to develop their own game ideas. Students will learn the many aspects of a game development team and how each of these roles contributes to a game's overall design.Offered by Computer Game Design. Limited to three attempts.
+Mason Core: Arts
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 104: Two-Dimensional Design for Games. 3 credits.
+Explores elements and principles of two-dimensional design in the digital game context. Digital painting programs are used to create 2d game assets using proper production techniques and industry standard pipelines. Technical and aesthetic aspects of 2d art production are discussed as traditional visual art elements are leveraged to create introductory game surfaces and layouts.Offered by Computer Game Design. Limited to three attempts.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 140: Applied Coding for Game Designers. 3 credits.
+This entry-level course teaches students basic coding techniques used when implementing game logic. Through hands-on implementation of several simple text-based and 2D sprite-based games, this course prepares students for the coding challenges they will face in future GAME courses.Offered by Computer Game Design. Limited to three attempts.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 210: Basic Game Design. 3 credits.
+Introductory concepts and processes in game design are explored in both digital and non-digital contexts. Study of player psychology, mechanisms, and dynamics of game design provide a foundation for creating effective games and gamified experiences.  Students will learn an iterative, feedback-centered design process to create intentional, engaging game experiences.  Offered by Coll Visual & Performing Arts. Limited to three attempts.Offered by Computer Game Design. Limited to three attempts.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 230: History of Computer Game Design. 3 credits.
+Introduces history of computer game design including games as a new medium for education, entertainment, and communications. Students will analyze trends, constraints, and context that informed the evolution of game development. Topics include game criticism and social issues in game design such as game violence and addiction. Offered by Coll Visual & Performing Arts. Limited to three attempts.Offered by Computer Game Design. Limited to three attempts.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 231: Three-Dimensional Game Art I. 3 credits.
+Introduces principles and skills of 3D art and animation for games. Emphasizes efficient, low-poly 3D modeling for integration into 3D game engines. Additional topics in 3D visual design for games are surveyed, including lighting, terrain building,  and VFX.  Offered by Coll Visual & Performing Arts. Limited to three attempts.Offered by Computer Game Design. Limited to three attempts.
+Registration Restrictions: Required Prerequisites: (GAME 104C or 104XS).C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Studio
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 232: Online and Mobile Gaming. 3 credits.
+Class covers the history, practice, and design of online and mobile games. Class will discuss the current state of the smartphone applications and study the best practices to be successful in the applications market. Students will learn the development process for smartphone applications and develop original and innovative applications in a team-based environment.Offered by Computer Game Design. Limited to three attempts.
+Registration Restrictions: Required Prerequisites: (GAME 210C or 210XS) and (GAME 230C or 230XS) and (GAME 140C, 140XS, CS 112C or 112XS).C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 240: Gameplay Scripting & Implementation I. 3 credits.
+This class applies previously learned programming concepts, data structures, and techniques specifically
+relevant to game design within the context of professional game engines. Learners will use tools
+provided by the selected game engine to implement features commonly found in games.Offered by Computer Game Design. Limited to three attempts.
+Registration Restrictions: Required Prerequisites: (GAME 140C or 140XS).C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 250: Music for Film and Video. 3 credits.
+Selection, editing, processing, and integration of sounds and music (post-production) for film, video, and animation. Time, frequency, and amplitude domain digital post-production techniques will be studied.Offered by Computer Game Design. Limited to three attempts.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 300: Portfolio Preparation. 1 credit.
+Student creates and refines a web portfolio to utilize throughout the course of study in presenting projects to aid in internship application and professional development.Offered by Computer Game Design. Limited to three attempts.
+Registration Restrictions: Required Prerequisites: (GAME 310C or 310XS).C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 310: Digital Game Design. 3 credits.
+Key digital game design mechanisms, dynamics, processes, and considerations are explored, including but not limited to input, interface, and interactivity. Students will apply concepts and processes in digital game design using current game engines. Offered by Coll Visual & Performing Arts. Limited to three attempts.Offered by Computer Game Design. Limited to three attempts.
+Registration Restrictions: Required Prerequisites: ((GAME 231C or 231XS) and (GAME 210C or 210XS) and (GAME 240C or 240XS)).C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Studio
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 320: Digital Painting for Games. 3 credits.
+Students develop observational, sketching, and rendering skills in the digital medium. Students practice digital painting from reference and imagination as they create convincing game surfaces and simple concept drawings.Offered by Computer Game Design. Limited to three attempts.
+Registration Restrictions: Required Prerequisites: ((GAME 104C or 104XS) and (AVT 222C, 222XS, 232C or 232XS)).C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 330: Computer Game Platform Analysis. 3 credits.
+Analysis, designing, and developing digital games in key platform contexts such as mobile, VR, and consoles.  Analysis will include porting games between most commercial platforms. Students will apply a team-based development process to create innovative applications that leverage unique platform considerations. Offered by Coll Visual & Performing Arts. Limited to three attempts.Offered by Computer Game Design. Limited to three attempts.
+Recommended Prerequisite: CS 112
+Registration Restrictions: Required Prerequisites: (GAME 310C or 310XS) and (GAME 331*C or 331XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Studio
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 331: Consumer Gaming Platform Analysis Lab. 1 credit.
+Current and prototype consumer gaming platforms and consoles. Analysis will include conversion, transposition, and porting game media among most commercially produced platforms for analysis and comparisons.Offered by Computer Game Design. Limited to three attempts.
+Recommended Prerequisite: CS 112
+Registration Restrictions: Required Prerequisites: (GAME 310C or 310XS) and (GAME 330*C or 330XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Laboratory
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 332: RS: Story Design for Computer Games. 3 credits.
+Use of narrative structure and new media for designing computer game scenarios and stories. Traditional narrative techniques (text stories, novels, films) will be examined, as well as translations of the traditional to interactive, non-linear modes of communications. Analysis of current computer game story design theories, philosophies, and techniques will be covered.Offered by Computer Game Design. Limited to three attempts.
+Specialized Designation: Research/Scholarship Intensive, Writing Intensive in Major
+Recommended Prerequisite: Completion of 30 credits within major or permission of the instructor.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 367: Writing and Editing Music and Sound. 3 credits.
+Composition, editing, processing, and integration of voice, environmental sounds and music into non-linear computer game environments. Special emphasis will be placed on HD sound and music post-production and mixing (3 & 5 transducer point listening spaces), sequential composition and sample-splicing techniques, and the study of competing compression algorithms for sound and music.Offered by Computer Game Design. Limited to three attempts.
+Registration Restrictions: Required Prerequisites: GAME 250C or 250XS.C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 398: Three-Dimensional Game Art II. 3 credits.
+Introduces principles and skills of 3D art and animation for games. Emphasizes efficient, low-poly 3D modeling for integration into 3D game engines. Additional topics in 3D visual design for games are surveyed, including lighting, terrain building,  and VFX.  Offered by Coll Visual & Performing Arts. Limited to three attempts.Offered by Computer Game Design. Limited to three attempts.
+Registration Restrictions: Required Prerequisites: GAME 231C or 231XS.C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Studio
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 399: Special Topics. 1-4 credits.
+In-depth presentation and exploration of topical studies in computer game design. Subject matter varies. Notes: May be repeated when topic is different.Offered by Computer Game Design. May be repeated within the term for a maximum 12 credits.
+Specialized Designation: Topic Varies
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 400: Game Design Practicum. 3 credits.
+Studio/lecture course focuses on the design strengths and weaknesses inherent in current entertainment and serious games. UI design, level design and map structure, scoring stratum, on-line support, game ecologies, gaming communities, and designing/writing documentation and specifications will be studied.Offered by Computer Game Design. Limited to three attempts.
+Recommended Prerequisite: GAME 330, 367 or 398. Must be a Computer Game Design minor.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 410: Advanced Game Design Studio. 3 credits.
+Using industry-standard collaboration and game development tools and practices, students will work together in a class-sized team on a semester-long game project that will be released to the public upon completion. Offered by Coll Visual & Performing Arts. Limited to three attempts.Offered by Computer Game Design. Limited to three attempts.
+Registration Restrictions: Required Prerequisites: (GAME 310C or 310XS).C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Studio
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 431: Advanced Game Animation I. 3 credits.
+Builds advanced 3D character animation skills. Students animate from reference using the principles of weight, follow through, and anticipation. Projects focus on creating interactive motions for characters using commercial software and game engines. Intermediate rigging will also be covered.Offered by Computer Game Design. Limited to three attempts.
+Recommended Prerequisite: GAME 398.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 489: Pre-Internship Seminar. 1 credit.
+Student prepares for interview and application processes associated with securing an internship, finishing the course with a professional resume and portfolio ready for submission to potential employers.Offered by Computer Game Design. Limited to three attempts.
+Recommended Prerequisite: GAME 300, Completion of 30 credits within major or permission of the instructor.
+Schedule Type: Seminar
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 490: Senior Game Design Capstone. 3 credits.
+Student develops a case study of a publicly or commercially published computer game exploring the technical, economic, ethical, social and political ramifications on its intended target market. A public lecture of the case study is required. Notes: Students are required to complete 6 credits for the degree program.Offered by Computer Game Design. May be repeated within the degree for a maximum 9 credits.
+Mason Core: Capstone, Synthesis
+Recommended Prerequisite: Completion of 60 credits in major. Students must be granted permission by the program director to take the course.
+Registration Restrictions: Enrollment is limited to students with a major in Computer Game Design.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 491: Internship. 3-4 credits.
+Placement in an appropriate internship within a program approved by a federal, state or commercial game design/publishing agency or firm. Notes: 135 hours of internship on-site work must be completed for 3 credits.180 hours of internship on-site work must be complete for 4 credits.Offered by Computer Game Design. May be repeated within the degree for a maximum 9 credits.
+Recommended Prerequisite: GAME 489 and completion of 60 credits in major.
+Schedule Type: Internship
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 492: Independent Study. 1-6 credits.
+Advanced research, computer game design, or exploration of topical studies in computer game design.Offered by Computer Game Design. May be repeated within the term for a maximum 12 credits.
+Specialized Designation: Topic Varies
+Schedule Type: Independent Study
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 499: Advanced Studies in Game Design. 1-4 credits.
+Exploration of various issues in computer game design, including theoretical aspects of games studies and production. Notes: Topics and credit vary with instructor. May be repeated when taken under different topics.Offered by Computer Game Design. May be repeated within the term for a maximum 12 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Admittance to BFA Game Design Program or instructor permission.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Undergraduate Regular scale.
+
+GAME 599: Advanced Studies in Game Design. 1-4 credits.
+Exploration of various issues in computer game design, including theoretical aspects of games studies and production. Notes: Topics and credit vary with instructor. May be repeated when taken under different topics.Offered by Computer Game Design. May be repeated within the term for a maximum 9 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Admittance to MA Game Design Program or instructor permission.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 600: Research Methodologies in Game Design. 3 credits.
+Graduate seminar focusing on development of independent research project in student's area of emphasis. Explores principal methods of researching and documenting game design and game practice. Along with traditional methods of library research, emphasizes new processes of examination and investigation through the use of computer-aided research clouds and systems. Students will research and write a publishable paper following standard scientific research practice.Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: Admittance to MA Game Design Program or instructor permission.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 605: Game Design Graduate Seminar. 1 credit.
+Students present their own research and projects, or the work of contemporary game designers for discussion and peer and faculty critiques. Special focus on developing professional public communication and presentation skills about contemporary issues in the game design and production fields.Offered by Computer Game Design. May be repeated within the degree for a maximum 4 credits.
+Recommended Prerequisite: Admittance to MA Game Design Program or instructor permission.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 610: Game Production. 3 credits.
+Studio and lecture course in the history, practice and design and production of computer games with an emphasis on serious games development. Students will research, design and develop a fully functioning game, for desktop, console, and/or mobile platforms in this two-semester course. This course will also support the thesis research and project development.Offered by Computer Game Design. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: Admittance to the MA Game Design Program or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 617: Teaching Practicum. 3 credits.
+Supervised classroom teaching in Mason's Computer Game Design undergraduate program, or summer Game-focused Potomac Academy Program.Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: GAME 605 and 3 credits of GAME 610.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 626: Game Business, Entrepreneurship and Practice. 3 credits.
+Combined lecture and studio course in discovering and developing entrepreneurial skill sets in the game design, production and publishing industry. Special focus will be given to developing communication skills, planning strategies, and nurturing the aptitude and attitudes that enable students to creatively solve problems, identify opportunities, and execute those opportunities in the game design and production industry.Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: GAME 605 and GAME 610.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 628: Advanced Game Art. 3 credits.
+Studio and Lecture course in advanced computer game modeling processes and techniques. Advanced topics in modeling interactive characters and environments will be covered, including texture painting, photosourcing, and both low and high-polygon modeling. A broad variety of art styles and game production pipelines will be explored.Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: Admittance to MA Game Design Program or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 630: Advanced Game Animation. 3 credits.
+Combined Studio and Lecture course in creating advanced animations for interactive games, with an emphasis on realtime characters. Non-bipedal motions, rotoscoping, rigging, and other advanced topics in animation will also be explored.Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: Admittance to the MA Game Design Program or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 635: Issues in Interactive Entertainment. 3 credits.
+Studio and lecture course in advanced design concepts for interactive game and entertainment platforms and systems. Microsoft's Kinect, Nintendo's Wii U, and Apple's AirPlay Mirroring will be studied.Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: GAME 600, GAME 605 and 3 credits of GAME 610.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 638: Game Studio Management. 3 credits.
+Lecture Courses in managerial responsibilities and issues concerning successfully managing a small to mid-size game design studio in today's game industry marketplace. Human resources and personnel management, investor relations and board management, contract negotiations and development analysis, game design and production team oversight, research and development, budget management and realistic financial projections will be covered.Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: GAME 610 and GAME 626.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 650: Advanced Music and Sound for Games. 3 credits.
+Combined studio and lecture course that will focus on the composition, editing, processing, mixing, and integration of sound assets, such as sfx, narration, and music into computer games. Time, frequency, and amplitude domain digital production and post-production techniques will be reviewed. Standard 2-channel, and 5.1 channel post-production/mixing, as well as contemporary middleware sound management applications will be studied.Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: Admittance to the MA Game Design Program or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 658: Interactive Game Systems Design. 3 credits.
+Studio and lecture course in advanced interactive games and simulations. A variety of entertainment platforms, systems, and their unique input devices will be explored, including augmented reality, social networks, and motion controllers. Games developed will use the latest online, mobile, and console platforms, as well as non-commercial prototype platforms.Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: GAME 635.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 710: Graduate Internship. 3 credits.
+This course prepares students to succeed in the game design industry by assisting their placement in an appropriate internship within a program approved public or commercial game design/publishing agency or firm. A total of 180 hours of internship on-site work must be earned within the semester of registration. Each student is assigned a program internship coordinator, and an on-site internship supervisor. Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: GAME 610 and GAME 617 and permission of Program Director.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Internship
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 796: Directed Reading. 1 credit.
+Directed Reading must be taken in the fall of year two. Prior to the end of the first year, each student must identify a faculty member, based on interest and chosen topic that will serve as the student's faculty mentor for the thesis research and writing, or project development process. Students should also plan to devote the summer between the two academic years of study to focused preliminary reading and research for the thesis paper or project. Notes: Directed Reading is overseen by the chosen faculty mentor, and will be tailored to each student's original thesis research paper or project.Offered by Computer Game Design. May be repeated within the degree for a maximum 3 credits.
+Recommended Prerequisite: GAME 600 and GAME 605.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+GAME 797: Proposal Writing. 1 credit.
+Proposal Writing is overseen by the chosen faculty mentor, and will be tailored to each student's original thesis research paper or project. Prior to the end of the first year, each student must identify a faculty member, based on interest and chosen topic that will serve as the student's faculty mentor for the Proposal Writing course to prepare for the thesis writing, or project development process.Offered by Computer Game Design. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: GAME 796.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+GAME 798: Project and Applied Research. 3 credits.
+The research project and supporting written document must reflect original research, development, and production of a complete serious game for graduate level work. The graduate project will involve a study of historical practice, and suitable for a public viewing experience and presentation. The written component will support the evolution of the creative process, the historical context of the work, the intended purpose and intent, all supported with scholarly citations and references. Faculty mentors will guide the project development process.Offered by Computer Game Design. May be repeated within the degree for a maximum 9 credits.
+Recommended Prerequisite: Permission of Graduate Faculty Mentor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Thesis
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+GAME 799: Thesis. 4 credits.
+The thesis project and or written document must reflect original research, analysis, and writing appropriate for graduate level work. The thesis written document should be between 85 to 100 pages in length, following university library standards of format for graduate thesis. If a thesis project is chosen, the project should compose a complete game design document, a completed and QA tested functional game using a commercially available engine, and a public presentation. Faculty mentors will guide the thesis development process for each student.Offered by Computer Game Design. May not be repeated for credit.
+Recommended Prerequisite: Permission of Graduate Faculty Mentor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Thesis
+Grading: This course is graded on the Satisfactory/No Credit scale.
+

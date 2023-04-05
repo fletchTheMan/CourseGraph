@@ -1,0 +1,80 @@
+COMP 500: Fundamentals of Mathematics and Computing. 3 credits.
+This course provides students who hold an undergraduate degree in a non-STEM discipline with preparation in the fundamental principles and techniques of mathematics. Students will learn the principles and techniques through programming, visualization, and the use of associated programming libraries. Topics include mathematical notation, linear algebra, calculus, and probability.Offered by Engineering & Computing. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 501: Computer Programming Foundations I. 3 credits.
+This course introduces students to the principles and techniques of object-oriented programming, including basic mechanisms of procedural programming such as variables, control statements, modularity, and program debugging, as well as object-oriented concepts of classes, object life cycles, public versus private variables and methods, inheritance, and dynamic binding. Students will develop, test, and debug object-oriented programs of increasing complexity.Offered by Engineering & Computing. May not be repeated for credit.
+Recommended Prerequisite: COMP 500
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 502: Mathematical Foundations of Computing I. 3 credits.
+This course covers topics in discrete mathematics that are foundational to many areas of computing. Topics include the principles and techniques of first-order logic, sets, sequences, number theory, graphs, combinatorics, and probability.Offered by Engineering & Computing. May not be repeated for credit.
+Recommended Prerequisite: COMP 500
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 503: Computer Systems Foundations I. 3 credits.
+This course provides a pragmatic introduction to the essentials of computer systems, with an emphasis on fundamental data representation, machine-level programming, and systems programming in C. This course focuses on the fundamentals of computer systems and organization with concepts covering number systems and data representation, digital logic and the basics of computer architecture, and an introduction to the C programming language, with a focus on low-level programming techniques.Offered by Engineering & Computing. May not be repeated for credit.
+Recommended Prerequisite: COMP 500
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 505: Ethical and Legal Challenges in Computing. 3 credits.
+The course focuses on ethical and controversial issues related to computing. Topics include professional codes of conduct, discrimination and inequality, intellectual property rights, computer-human interaction, data collection and privacy, digital security, social media related liabilities, and algorithmic bias. These issues will be discussed in the context of artificial intelligence and machine learning, internet of things, autonomous systems, and adoption of invasive technologies, and human enhancements. Students will discuss recent research and case studies that emphasize and articulate the legal, ethical, and social implications of computer technologies.Offered by Engineering & Computing. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 511: Computer Programming Foundations II. 3 credits.
+This course is a continuation of COMP 501, giving students an education on the problems, principles and techniques of building large-scale object-oriented software systems. Topics include the effective design and use of complex data structures, and the concerns and techniques of the software engineering lifecycle from requirements engineering through maintenance.Offered by Engineering & Computing. May not be repeated for credit.
+Recommended Prerequisite: COMP 501
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 512: Mathematical Foundations of Computing II. 3 credits.
+This course is a continuation of COMP 502, giving students further education on the discrete nature of computation and its relationship to symbolic processing, through a continued use of the formulation and proof of theorems. Topics include second-order logic, mathematical inference, automata theory, regular and context-free languages, computational complexity, incompleteness, and undecidability.Offered by Engineering & Computing. Limited to three attempts.
+Recommended Prerequisite: COMP 502
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 513: Computer Systems Foundations II. 3 credits.
+This course is a continuation of COMP 503, with an emphasis on systems programming. This course focuses on programming that interacts with the management and creation of processes, handles exceptions and signals, and interacts with files at the systems level. This course introduces the concept of concurrency and discusses operating system support for processes, focusing on memory management, libraries, and secure programming.Offered by Engineering & Computing. May not be repeated for credit.
+Recommended Prerequisite: COMP 503
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 521: Usable Security. 3 credits.
+This course will address the need for developing security policies, practices, and software systems that are usable for a large variety of users. The course will focus on specific techniques that implement security protocols without hampering authorized users. Students will learn how to provide convenient access to restricted data and services to authorized users, while also restricting access by unauthorized users.Offered by Engineering & Computing. Limited to three attempts.
+Recommended Prerequisite: COMP 501, COMP 502, COMP 503
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 522: Accessibility and Assistive Technologies. 3 credits.
+This course will address the need for developing and deploying interactive applications and software systems that are accessible for users with diverse needs. The course will focus on how developers and designers must consider diverse user abilities and assistive technologies early in the implementation process. Students will learn about accessibility guidelines, how to evaluate and improve the accessibility of a system, and how to implement web applications considering universal design principles to ensure that interactive technologies become accessible for a large range of users.Offered by Engineering & Computing. Limited to three attempts.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 642: Interaction Design and Accessibility. 3 credits.
+The overarching objective of the Interaction Design and Accessibility course is to help students to learn how to design interactive tools. The class aims at helping students to learn which specific application areas remain unexplored in the frontier of Human-Centered Computing. Throughout the class, students will learn core theoretical foundations and the practical skills that have been developed in the fields of Human-Computer Interaction.Offered by Engineering & Computing. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+COMP 690: Computing Capstone Project. 3 credits.
+Students will work in groups, possibly including students from multiple concentrations, to specify, design, build, and evaluate a complete computing solution for a realistic customer. Students will study team communication skills, both written and oral. Students will be assessed on completion, quality of the work, satisfaction of the solution to the customers and users, and on their ability to function effectively in a team setting.Offered by Engineering & Computing. Limited to three attempts.
+Recommended Corequisite: 18 hours of graduate study
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+

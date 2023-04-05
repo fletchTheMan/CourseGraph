@@ -1,0 +1,118 @@
+ISA 562: Information Security Theory and Practice. 3 credits.
+A technical introduction to the theory and practice of information security, which serves as the first security course for the MS-ISA degree, is required as a prerequisite for all subsequent ISA courses (at the 600 and 700 levels) and subsumes most topics covered by the CISSP examination. Also serves as an entry-level course available to non-ISA students, including MS-CS, MS-IS, and MS-SWE students. Offered by Computer Science. May not be repeated for credit.
+Recommended Prerequisite: INFS 501, 515, 519, and SWE 510, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 564: Security Laboratory. 3 credits.
+Provides hands-on experience in configuring and experimenting with commodity-networked systems and security software in a live laboratory environment, with the purpose of understanding real-world security threats. Takes both offensive and defensive approaches and exposes students to a variety of real-world attacks, including viruses, worms, rootkits, and botnets. Possible mitigation and defending mechanisms, such as firewalls and intrusion detection software, also covered. Offered by Computer Science. May not be repeated for credit.
+Recommended Prerequisite: ISA 562 and CS 531 or equivalent.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Laboratory
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 650: Security Policy. 3 credits.
+Focuses on security policy and its management for information systems having national and international connectivity. Issues include legal, international, cultural, and local factors. Students are expected to participate regularly in presenting material, in discussion of recent security issues, and by writing short papers on major current issues. Offered by Computer Science. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (ISA 562B- or 562XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 652: Security Audit and Compliance Testing. 3 credits.
+Presents the fundamental concepts of the IT-security audit and control process that is being conducted in a plethora of environments, including government, the financial industry, and the healthcare industry. The goal of this course is to enable the students to structure and perform audits based on the specifications of Sarbanes-Oxley, HIPAA, and FISMA audit programs. Covers all the CISA certification requirements in depth. Students completing the course are encouraged to attempt the certification exam on their own. Offered by Computer Science. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (ISA 562B- or 562XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 656: Network Security. 3 credits.
+An in-depth introduction to the theory and practice of network security. It assumes basic knowledge of cryptography and its applications in modern network protocols. Studies firewalls architectures and virtual private networks and provides deep coverage of widely used network security protocols such as SSL, TLS, SSH, Kerberos, IPSec, IKE, and LDAP. It covers countermeasures to distributed denial of service attacks, security of routing protocols and the Domain Name System, e-mail security and spam countermeasures, wireless security, multicast security, and trust negotiation. Offered by Computer Science. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (((ISA 562B- or 562XS) and (INFS 612B- or 612XS)) or (CS 555B- or 555XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 673: Operating Systems Security. 3 credits.
+Covers fundamentals and advanced topics in operating system (OS) security, including OS-level security mechanisms and policies in investigating and defending against real-world attacks on computer systems, such as self-propagating worms and large-scale botnets. Basic OS security techniques, such as logging, system call auditing, and memory protection, will be discussed. Recent advanced techniques, such as honeypots and honeyfarms, system randomization, vulnerability fingerprinting, and virtualization, will also be introduced. Offered by Computer Science. May not be repeated for credit.
+Recommended Prerequisite: ISA 562.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 674: Intrusion Detection. 3 credits.
+Studies methodologies, techniques, and tools for monitoring events in computer system or network, with the objective of preventing and detecting unwanted process activity and recovering from malicious behavior. Topics include types of threats, host-based and network-based information sources, vulnerability analysis, denial of service, deploying and managing intrusion detection systems, passive versus active responses, and designing recovery solutions. Offered by Computer Science. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: ((ISA 564B- or 564XS) and (ISA 656B- or 656XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 681: Secure Software Design and Programming. 3 credits.
+Theory and practice of software security, focusing in particular on some common software security risks, including buffer overflows, race conditions and random number generation, and the identification of potential threats and vulnerabilities early in the design cycle. Emphasis is on methodologies and tools for identifying and eliminating security vulnerabilities, techniques to prove the absence of vulnerabilities, and ways to avoid security holes in new software and on essential guidelines for building secure software. Explores how to design software with security in mind from the ground up and integrate analysis and risk management throughout the software life cycle. Offered by Computer Science. May not be repeated for credit. Equivalent to SWE 681.
+Recommended Prerequisite: SWE 619.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 697: Topics in Information Security. 1-6 credits.
+Special topics in information security and assurance not occurring in regular ISA sequence. Notes: May be repeated for credit when distinct offerings of course differ in subject. Offered by Computer Science. May be repeated within the term for a maximum 12 credits.
+Specialized Designation: Topic Varies
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 763: Security Protocol Analysis. 3 credits.
+Teaches how to design, understand, verify, and test communication protocols so they meet their objectives of recognizing the basic components of a communication protocol; specifying security properties accurately; modeling actors and mal-actors against which a protocol ought to be secure; discussing verification and testing methods and their limitations by ensuring that the specified protocol satisfies stated security objectives in the presence of specified mal-actions; designing a medium-size protocol that satisfies a specification of requirement; using existing tools to specify and verify security protocols; and testing protocols for satisfying their security objectives. Offered by Computer Science. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: ISA 656B- or 656XS.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 764: Security Experimentation. 3 credits.
+Teaches how to conduct security experimentations and empirically demonstrate, validate, and evaluate security vulnerabilities, exploits, and defense mechanisms. By the end of the course, students will gain a deeper understanding and first-hand experience on capturing packets of interests from both wired and wireless networks, and replying interested network flows and how shellcode various buffer overflows attacks, worms, spyware, rootkits, botnets, anonymous communication and traceback mechanisms work. Offered by Computer Science. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: ((ISA 564B- or 564XS) and (ISA 656B- or 656XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 785: Research in Digital Forensics. 3 credits.
+Focuses on research-related aspects of digital forensics including open problems in digital forensics, countermeasures against digital forensics, and fundamental and practical limitations of current digital forensics techniques. Also covers currently established techniques and tools for digital forensics as well as common legal and ethical issues. Offered by Computer Science. May not be repeated for credit.
+Registration Restrictions: Required Prerequisites: (((ISA 562B- or 562XS) and (INFS 612B- or 612XS)) or (CS 555B- or 555XS)).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 796: Directed Readings in Information Security. 3 credits.
+Research and analysis of contemporary problem in information security.   Notes: Prior approval required by faculty sponsor who supervises student's work. To register, students must complete independent study form available in department office. It must be initialed by faculty sponsor and approved by department chair. Written report also required. Offered by Computer Science. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: Graduate standing in information security and assurance, with at least 12 prior credits in MS.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Research
+Grading: This course is graded on the Graduate Special scale.
+
+ISA 797: Advanced Topics in Information Security. 3 credits.
+Special advanced topics not occurring in regular ISA sequence. Notes: May be repeated for credit when distinct offerings of course differ in subject. Offered by Computer Science. May be repeated within the term for a maximum 9 credits.
+Specialized Designation: Topic Varies
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 798: Research Project. 3 credits.
+Master's student undertake a project using knowledge gained in prior MS courses. Topic chosen under the guidance of a member of the Graduate Faculty of the department, resulting in written technical report. Prior approval is required by the faculty sponsor. To register, student must complete a Master's Project form available from the department. It must be signed by the faculty sponsor and approved by the department chair or delegate. Offered by Computer Science. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: 18 credits applicable toward MS.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Thesis
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+ISA 799: MS Thesis. 1-6 credits.
+Research project completed under supervision of a member of the Graduate Faculty of the department, resulting in a technical report accepted by three-member faculty committee. Thesis must be defended in an oral presentation. To register, students must complete thesis form available from the department. It must be signed by all committee members and the department chair or delegate. Offered by Computer Science. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: 18 hours of credit applicable toward the MS degree.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Thesis
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+ISA 862: Models for Computer Security. 3 credits.
+This class will be focused on current research in Security with emphasis in Network and Software Security. Notes: May be repeated with change in topic. Offered by Computer Science. May be repeated within the degree for a maximum 6 credits.
+Registration Restrictions: Required Prerequisites: (ISA 562B- or 562XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate level students.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+ISA 863: Advanced Topics in Computer Security. 3 credits.
+Current topics of advanced research. Content varies depending on faculty interests, research developments, and student demand. Requires substantial student participation. May include formal models for computer security, multilevel data models, multilevel database management system architectures, secure concurrency control protocols, distributed secure system architectures, integrity models and mechanisms, security policy, and requirements analysis. Offered by Computer Science. May be repeated within the degree for a maximum 6 credits.
+Specialized Designation: Topic Varies
+Registration Restrictions: Required Prerequisites: (ISA 562B- or 562XS).B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment is limited to Graduate level students.Enrollment limited to students in the Engineering  Computing college.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
