@@ -3,9 +3,24 @@ import java.io.*;
 
 public class Test{
 	public static void main(String[] args) throws FileNotFoundException{
-		File file = new File("outfiles/Computing (COMP) George Mason University");
+		File file = new File("outfilesList.txt");
 		Scanner scan = new Scanner(file);
-		String temp = scan.next();
+		while(scan.hasNextLine()){
+			String line = scan.nextLine();	
+			String courseAbriviation; 
+			if(!line.equals("Sport, Recreation and Tourism Management George Mason University")){
+				courseAbriviation = line.substring(line.indexOf("(") + 1, line.indexOf(")"));
+			}
+			else{
+				courseAbriviation = "SRTM";
+			}
+			System.out.println("Course Abriviation is: " + courseAbriviation);
+		}
+	}
+}
+
+/*
+ String temp = scan.next();
 		System.out.println(temp.substring(0,temp.length() - 1));
 		temp = scan.nextLine();
 		System.out.println((byte)temp.charAt(temp.length() - 10) - 48);
@@ -21,10 +36,9 @@ public class Test{
 				}
 			}
 		}
-		/*
+		
 		for(int i = 0; i < 10; i++){
 			System.out.println(scan.next());
 		}
-		*/
-	}
-}
+*/
+

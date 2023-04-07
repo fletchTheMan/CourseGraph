@@ -1,0 +1,330 @@
+BINF 334: Perl for Bioinformatics. 3 credits.
+Introduction into Perl programming language. Topics include data representation, control structures, file input/output, subroutines, regular expressions, debugging, relational databases. Emphasizes bioinformatics applications including DNA sequence analysis, parsing FAST A and GenBank files, processing BLAST output files, SQL or equivalent query language.  Offered by School of Systems Biology. Limited to three attempts.
+Recommended Prerequisite: Knowledge of programming language or CS 112 or equivalent.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 354: Foundations in Mathematical Biology. 3 credits.
+Interdisciplinary introduction to life sciences for physicists, chemists, engineers, and mathematicians. Combines knowledge from natural sciences, social and behavioral sciences, quantitative reasoning, and information technology. Covers selected topics in ecology, physiology, biochemistry, and behavior. May include biochemical reaction kinetics, Hodgkin-Huxley model for cellular electrical activity, continuous and discrete population interactions, and neural network models of learning. Techniques utilized include ordinary differential equations, difference equations, algebraic equations, and computer simulations.  Offered by School of Systems Biology. Limited to three attempts.
+Mason Core: Synthesis
+Recommended Prerequisite: Completion or concurrent enrollment in all other required Mason Core courses (must include a chemistry course); MATH 114 or equivalent.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 401: Bioinformatics and Computational Biology I. 3 credits.
+Covers the following topics and related methodology: protein sequence, structure prediction, and modeling methods; nucleic acid sequence and structure prediction; gene structure prediction in prokaryotes and eukaryotes; elements of system biology. Students will learn programming approaches to solve bioinformatics problems.  Offered by School of Systems Biology. Limited to three attempts.
+Recommended Prerequisite: BIOL 213, BIOL 214 and CDS 130 with a grade of C or better, or its equivalent, or permission of instructor.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 402: Bioinformatics and Computational Biology II. 3 credits.
+Continuation of BINF401 and studies in-depth several algorithms and methods used in bioinformatics and computational biology. Students will learn sequence alignment and assembly algorithms, hidden Markov models, classification and prediction methods, genome annotation. These techniques will then be applied to current bioinformatics problems. Programming assignments are incorporated in the course program.  Offered by School of Systems Biology. Limited to three attempts.
+Recommended Prerequisite: BINF 401.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 403: Bioinformatics and Computational Biology Lab I. 1 credit.
+Laboratories will introduce students to bioinformatics tools designed to answer research problems in the topics covered in lectures, such as sequence alignment, sequence pattern recognition, structural conformation modeling, phylogenetic analysis methods and image comparisons.  Offered by School of Systems Biology. Limited to three attempts.
+Recommended Corequisite: BINF 401.
+Schedule Type: Laboratory
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 404: Bioinformatics and Computational Biology Lab II. 1 credit.
+Laboratories will introduce students to research bioinformatics tools relevant to lecture topics such as: the correspondence of measured fragments to parent biomolecules, inference methods for gene and protein networks, predicting system outputs given specified inputs.  Offered by School of Systems Biology. Limited to three attempts.
+Recommended Corequisite: BINF 402
+Schedule Type: Laboratory
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 450: Bioinformatics for Life Sciences. 4 credits.
+Teaches students how to understand the basis of and use of bioinformatics software in database searching, sequence analysis, gene identification, genomics, protein structure and phylogeny.  Offered by School of Systems Biology. Limited to three attempts.
+Recommended Prerequisite: BIOL 213, and either BIOL 482 or CHEM 463 or BIOL 483.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 470: Molecular Biophysics. 3 credits.
+Offers a broad introduction into molecular biophysics. Demonstrates that the application of methods of physics provides a unique opportunity to tackle complex biological problems. Designed for physics or chemistry majors; also useful for biology majors interested in bioinformatics and computational biology.  Offered by School of Systems Biology. Limited to three attempts. Equivalent to PHYS 370.
+Recommended Prerequisite: PHYS 307 or CHEM 331, or permission of instructor.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 490: Independent Senior Research in Bioinformatics and Computational Biology. 3 credits.
+Course offers individual research in bioinformatics and computational biology under the guidance of faculty member. Written report required upon course completion.  Offered by School of Systems Biology. Limited to three attempts.
+Recommended Prerequisite: Permission of instructor.
+Schedule Type: Research
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 491: Senior Thesis in Bioinformatics. 1 credit.
+A project is chosen and completed under the guidance of a Bioinformatics Department faculty member.  Notes: An oral progress report with a poster at the fall semester Bioinformatics Student Research Day is required. Offered by School of Systems Biology. Limited to three attempts.
+Recommended Corequisite: BINF 401.
+Schedule Type: Research
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 492: Senior Thesis in Bioinformatics. 1 credit.
+A project is chosen and completed under the guidance of a Bioinformatics Department faculty member.  Notes: A written thesis in standard format is required. Offered by School of Systems Biology. Limited to three attempts.
+Recommended Corequisite: BINF 402.
+Schedule Type: Research
+Grading: This course is graded on the Undergraduate Regular scale.
+
+BINF 530: Introduction to Bioinformatics Methods. 3 credits.
+Introduction to methods and tools for pairwise sequence comparison, multiple sequence alignment, phylogenetic analysis, protein structure prediction and comparison, database similarity searches, and discovery of conserved patterns in protein sequence and structures. Offered by School of Systems Biology. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Graduate, Non-Degree or Undergraduate level students may not enroll.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 531: Molecular Cell Biology for Bioinformatics. 3 credits.
+Intensive review of biochemistry, molecular biology, and cell biology necessary OT begin research in bioinformatics. Topics include protein biochemistry, nucleic acids biochemistry, DNA replication transcription, and translation, recombinant DNA technology, genomics, molecular structure of genes and chromosomes, and expression and control. Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Undergraduate 300 and 400 level courses in biochemistry or cell biology, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 550: Introduction to Bioinformatics Database Design. 3 credits.
+Students will acquire skills needed to exploit public biological databases, and establish and maintain personal databases that support their own research. Skills include learning underlying data models and the basics of DBMS and SQL. Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Introductory computer programming course, or permission of the instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 630: Bioinformatics Methods. 3 credits.
+Introduction to methods and tools for pairwise sequence comparison, multiple sequence alignment, phylogenetic analysis, protein structure prediction and comparison, database similarity searches, and discovery of conserved patterns in protein sequence and structures.  Offered by School of Systems Biology. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 631: Molecular Cell Biology for Bioinformatics. 3 credits.
+Intensive review of biochemistry, molecular biology, and cell biology necessary to begin research in bioinformatics. Topics include protein biochemistry, nucleic acids biochemistry, DNA replication, transcription, and translation, recombinant DNA technology, genomics, molecular structure of genes and chromosomes, and gene expression and control.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Undergraduate background in biochemistry, or cell biology, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 633: Molecular Biotechnology. 3 credits.
+Introduction to the theory and practice of molecular biotechnology, with emphasis on the application of tools in today's society. Includes study of recombinant DNA technology, genomics, and bioinformatics as applied to commercially important products. Lectures reflect more recent advances and applications in the commercial aspects of biology.  Offered by School of Systems Biology. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 634: Bioinformatics Programming. 3 credits.
+Data representation, control structures, file input/output, subroutines, regular expressions, debugging, introduction to relational databases. Emphasizes bioinformatics applications including DNA sequence analysis, parsing FASTA and GenBank files, processing BLAST output files, SQL, or equivalent query language.  Offered by School of Systems Biology. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 636: Microarray Methodology and Analysis. 3 credits.
+Theory and practice of genome analysis including genetics, biochemistry, and tools for analyzing global gene expression, and detection and quantification of genes and gene products.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: BINF 633 or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 637: Forensic DNA Sciences. 3 credits.
+Intensive introduction to parameters affecting data QC and analysis, including factors arising from biochemistry, chemistry, genetics, statistics, instrumentation, and software.  Offered by School of Systems Biology. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 639: Introduction to Biometrics. 3 credits.
+Introduction to methods for measuring humans. Topics include face, speaker, fingerprint, and shoeprint recognition; and handwriting analysis. Students develop computer programs to perform many of these tasks.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: CSI 603 and 604 or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 641: Biomolecular Modeling. 3 credits.
+Introduction to basic principles and practice of computational biomolecular modeling. Students learn the elements of physical chemistry and molecular biology, which constitute the foundation of molecular modeling. Practical application of biomolecular software and development of related skills are emphasized through online lectures, homework, and course project.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Students are expected to be familiar with basic concepts of physics, calculus, and biology on undergraduate level.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 650: Introduction to Bioinformatics Database Design. 3 credits.
+Students will acquire skills needed to exploit public biological databases and establish and maintain personal databases that support their own research; such skills include learning underlying data models and the basics of DBMS and SQL.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: BINF 634 or equivalent, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 690: Numerical Methods for Bioinformatics. 3 credits.
+Computational techniques for solving scientific problems focusing on applications in bioinformatics and computational biology. Students develop the ability to convert a quantitative problem into computer programs to solve the problem. Emphasizes efficiency and readability of code.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: CS 112, MATH 113 or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 701: Systems Biology. 3 credits.
+Systems biology seeks to understand how a complex biological system functions. This involves the use of computational methods and models to integrate information obtained about these systems through a wide range of methods that span multiple spatial and temporal scales. Current research examples will be used to motivate and demonstrate these approaches.  Offered by School of Systems Biology. May not be repeated for credit. Equivalent to BIOS 701.
+Recommended Prerequisite: Admission to the Ph.D. program in Biosciences or Bioinformatics, CHEM 663 or equivalent.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 702: Biological Data Analysis. 3 credits.
+Trains students in research methodologies for life sciences. Covers the three phases of biological research projects: experimental design, data collection and data analysis.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Admission to PhD program in bioinformatics or biosciences or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 703: Bioinformatics Lab Rotation. 1 credit.
+Short-term introductory research on a specific topic in computational sciences and informatics under direction of faculty member.  Offered by School of Systems Biology. May be repeated within the term for a maximum 3 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Laboratory
+Grading: This course is graded on the Graduate Special scale.
+
+BINF 704: Colloquium in Bioinformatics. 1 credit.
+Seminar presentations in a variety of areas of bioinformatics and computational biology by COS faculty, staff, advanced PhD students, and professional visitors.  Offered by School of Systems Biology. May be repeated within the degree for a maximum 3 credits.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 705: Research Ethics. 1 credit.
+Examines ethical issues in scientific research, reflecting on purpose and reviewing foundational principles for evaluating ethical issues. Provides skills for survival in scientific research through training in moral reasoning and teaching of responsible conduct. Students learn to apply critical-thinking skills to design, execution, and analysis of experiments and analysis of ethical issues in research, including use of animals and humans, standards in computer community, and research fraud. Guidelines for data ownership, manuscript preparation, and conduct of people in authority may be presented and discussed.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 730: Biological Sequence and Genome Analysis. 3 credits.
+Fundamental methods for analyzing nucleic acid and protein sequences, including pairwise and multiple alignment, database search methods, profile searches, and phylogenetic inference. Development of probabilistic tools, including hidden Markov models and optimization algorithms. Survey of current software tools.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: A course in molecular biology, a course in probability, and ability to program in a high-level language, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 731: Protein Structure Analysis. 3 credits.
+Computational methods for analyzing, classifying, and predicting three-dimensional protein structures. Covers theoretical approaches, techniques, and computational tools for protein structure analysis.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Permission of instructor, or previous courses in molecular biology, biochemistry, and computer programming.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 732: Genomics. 3 credits.
+Surveys computational tools and techniques to study whole genomes, and explores biological basis of genome analysis algorithms. Topics include genome mapping, comparative genomics, and functional genomics.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: General biology, programming experience, CSI 700 or equivalent, CSI 731, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 733: Gene Expression Analysis. 3 credits.
+Analyzes gene expression data. Topics include cluster analysis and visualization of expression data, inference of genetic regulatory networks, and theoretical models of genetic networks.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Permission of instructor, ability to program in a high-level language and a course in molecular biology: S-Plus or Matlab experience recommended.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 734: Advanced Bioinformatics Programming. 3 credits.
+Topics include algorithm design, complex data structures, object oriented programming, relational databases, designing modules, and graphics and web programming. Students complete a bioinformatics programming project.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: BINF 634, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 739: Topics in Bioinformatics. 1-3 credits.
+Selected topics in bioinformatics not covered in fixed-content bioinformatics courses.  Offered by School of Systems Biology. May be repeated within the term for a maximum 6 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 740: Introduction to Biophysics. 3 credits.
+Introduces biophysics, focusing on physical and chemical concepts and their relation to rapidly expanding interdisciplinary interfaces among biology, chemistry, and physics. Reveals multiscale nature of biophysics, and includes exploration of macroscopic and microscopic applications.  Offered by School of Systems Biology. May not be repeated for credit. Equivalent to PHYS 630.
+Recommended Prerequisite: Undergraduate courses in General Physics, Calculus, and Biology.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 741: Introduction to Computer Simulations of Biomolecules. 3 credits.
+Details computational methods in biomolecular simulations, such as molecular dynamics and Monte Carlo algorithms. Special emphasis given to practical applications. Reviews most recent advances in biomolecular simulations.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Good programming skills, BINF 690 and 701, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 751: Biochemical and Cellular Systems Modeling. 3 credits.
+Mathematical and computational methods for analysis of cellular and subcellular processes. Topics may include ion channels, whole cell models, intracellular signaling, biochemical oscillations, pathway modeling, parameter estimation, and sensitivity analysis. Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Calculus and knowledge of a computer programming language; and BINF 690 and 701; or permission of instructor. Course in differential equations is recommended.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 760: Machine Learning for Bioinformatics. 3 credits.
+Machine learning and data mining methods relevant to application to problems in computational biology. Methods include decision trees, random forests, rule learning methods, support vector machines, neural networks, genetic algorithms, instance-based learning, Bayesian networks, and evaluation metrics for learning systems. Applications include cancer prediction, gene finding, protein function classification, gene regulation network inference, and other recent bioinformatics applications selected from the literature.  Notes: In addition to lectures from the instructor, students will present papers from the literature and complete a machine learning project. Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: BINF 630, BINF 631, and BINF 634, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 795: Bioinformatics Internship. 1-3 credits.
+Involves off-campus, professional work with approved agencies, institutions, non-profits, or businesses throughout the semester. The internship work must produce one or more products such as; a comprehensive report, a departmental presentation, a research project, or an article. Internship placement and product type must be approved by the student's faculty advisor. Offered by School of Systems Biology. May be repeated within the degree for a maximum 3 credits.
+Recommended Prerequisite: Internship placement and parameters must be approved by the faculty advisor prior to registration.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Internship
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 796: Directed Reading and Research. 1-6 credits.
+Reading and research on specific topic in computational sciences and informatics under direction of faculty member.  Offered by School of Systems Biology. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: Permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Research
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 798: Research Project. 3 credits.
+Project chosen and completed under guidance of graduate faculty member that results in acceptable technical report.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: Twelve graduate credits and permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Thesis
+Grading: This course is graded on the Graduate Special scale.
+
+BINF 799: Master's Thesis. 1-6 credits.
+Project chosen and completed under guidance of graduate faculty member that results in acceptable technical report (master's thesis) and oral defense.  Offered by School of Systems Biology. May be repeated within the degree.
+Recommended Prerequisite: Twelve graduate credits and permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Thesis
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+BINF 820: Advanced Topics in Molecular Cell Biology. 3 credits.
+Topics may include cell structure, biomembranes and cell architecture, cell signaling, receptor activation, gene expression and control, protein targeting and trafficking, and cell cycle regulation.  Notes: Advanced molecular and cellular biology foundation for BINF students. Offered by School of Systems Biology. May not be repeated for credit.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: BINF 631 or equivalent.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 831: Structural Genomics Project. 3 credits.
+Covers knowledge-based, large-scale protein structure analysis; classification and prediction of protein structure and function; and other current research topics in structural genomics. Projects address entire research enterprise from developing and defending proposal to peer-reviewed publication.  Offered by School of Systems Biology. May not be repeated for credit.
+Recommended Prerequisite: BINF 731, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 841: Research Topics in Biomolecular Simulations. 3 credits.
+Research-oriented course combining lectures and work on individual projects in biomolecular simulations. Topics include protein and peptide aggregation, binding, and unfolding and folding.  Offered by School of Systems Biology. May not be repeated for credit.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: BINF 741, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 996: Doctoral Reading and Research. 1-6 credits.
+Reading and research on specific topic in computational sciences and informatics under direction of faculty member.  Offered by School of Systems Biology. May be repeated within the degree for a maximum 6 credits.
+Recommended Prerequisite: Admission to doctoral program or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Research
+Grading: This course is graded on the Graduate Regular scale.
+
+BINF 998: Doctoral Dissertation Proposal. 1-12 credits.
+Covers development of research proposal, which forms basis for doctoral dissertation, under guidance of dissertation director and doctoral committee.  Offered by School of Systems Biology. May be repeated within the degree.
+Recommended Prerequisite: Permission of advisor.
+Registration Restrictions: Enrollment is limited to Graduate level students.
+Schedule Type: Dissertation
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+BINF 999: Doctoral Dissertation. 1-12 credits.
+Doctoral dissertation research under direction of dissertation director. Notes: No more than 24 credits in BINF 998 and 999 may be applied to doctoral degree requirements. Offered by School of Systems Biology. May be repeated within the degree.
+Recommended Prerequisite: Admission to doctoral candidacy. Students should contact the department for permission and CRN to register.  Please indicate your major and semester in the subject heading.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy.Enrollment is limited to Graduate level students.
+Schedule Type: Dissertation
+Grading: This course is graded on the Satisfactory/No Credit scale.
+

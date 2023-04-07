@@ -5,8 +5,11 @@ import java.util.Scanner;
 
 public class Graph{
 	public HashSet<Node> classes;
+	public HashSet<String> courseAbriviations;
 
-	public Graph(String fileList) throws FileNotFoundException{
+
+	public Graph(String fileList, HashSet<String> courseAbriviations) throws FileNotFoundException{
+		this.courseAbriviations = courseAbriviations;
 		classes = new HashSet<Node>(62);
 		//TODO make it take in a file that link to other files and 
 		//File  
@@ -17,7 +20,8 @@ public class Graph{
 	}
 
 	public void readFile(String fileName) throws FileNotFoundException{
-		File file = new File("outfiles/Computing (COMP) George Mason University");
+		String filename = "outfiles/Computing (COMP) George Mason University";
+		File file = new File(filename);
 		Scanner scan = new Scanner(file);
 		while(scan.hasNext()){
 			String name = scan.next();
@@ -53,16 +57,5 @@ public class Graph{
 		return newString.toString();
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
 
 //String[] courseAbriviations = {"AE","ACCT","AFAM","ANTH","AIT","ARAB","AVT","ARTH","AMGT","EDAT","ASTR","ATEP","BIS","BAS","BIOD","BENG","BINF","BIOL","BIMR","BMED","BIOS","BULE","BUS","BMGT","CHEM","CHIN","CEIE","CLAS","CLIM","CEC","COS","CVPA","COMM","CDS","CSI","CSS","GAME","CS","COMP","CONF","CONS","CM","EDCD","CRIM","CULT","EDCI","CYSE","DANC","DAEN","DSGN","DFOR","ECED","ECON","EDEP","EDUC","EDIT","EDLE","EDPO","EDRS","ECE","ELED","ENGR","ENGH","EAP","EVPP","EMBA","EFHP","FAVS","FNAN","FOLK","FRLN","FRSC","FREN","GGS","GEOL","GERM","GLOA","GCH","GOVT","GBUS","GREE","HAP","HHS","HEAL","HEBR","HE","HIST","HNRS","HDFS","ISA","ISM","INFS","IT","INTS","MAIS","ITRN","INYO","ITAL","JAPA","KINE","KORE","LAS","LATN","LING","MGMT","MIS","MSEC","MKTG","MATH","MBA","ME","MLAB","MEIS","MLSC","MSBA","MUSI","NAIS","NEUR","NURS","NUTR","OR","OSCM","ODKM","PERS","PHIL","PHED","PHYS","POGO","PORT","EDPD","PROV","PSYC","PUAD","PUBP","EDRD","REAL","RMGT","RECR","RHBS","REHI","RUSS","SPSY","SEED","SOCW","SOAN","SOCI","SWE","SPAN","EDSE","SPMT","SRST","SRTM","STAT","SYST","SEOR","TECM","TCOM","THR","TOUR","TURK","UNIV","USST","WMST"}

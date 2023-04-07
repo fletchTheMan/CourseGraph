@@ -1,0 +1,597 @@
+SYST 101: Understanding Systems Engineering. 3 credits.
+Introduces systems engineering and curriculum for BS in field. Introduces large and small systems, and explains them through some hands-on experiences. Key concepts include understanding requirements for system and translation of system-level requirements to component-level requirements. Several different kinds of example systems presented and discussed: objectives, major components, how system works, and major design issues. Each student gives a similar presentation on system of choice. Students work in groups design, develop, and test system, and give oral presentation. Students are responsible for writing several short papers on curriculum and presentations they have heard. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 130: Introduction to Computing for Digital Systems Engineering. 3 credits.
+The course introduces students to programming in the context of Systems Design process. Students learn to take a systems perspective when approaching problems and designing solutions, how the structure and behavior of a system is modeled using SysML, and to implement the system model using programming techniques in Python. The course explores various Python modules (standard library and 3rd Party) that extend the basic language functionality in useful ways, in particular, for model based systems engineering.  The students apply their programming skills to solve commonly encountered Task Automation, Data Mining, Cleansing, and Transformation. Course emphasizes the use of appropriate Web Services APIs and technologies commonly encountered in Data Analytics and AI to find, access, and analyze available data and datasets. Offered by Systems Engr & Operations Rsch. Limited to two attempts. Equivalent to CYSE 130.
+Mason Core: Info Tech & Computing
+Recommended Prerequisite: Passing score on the math placement test for MATH 113.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 198: Independent Study in Systems Engineering. 1-3 credits.
+Must be arranged with instructor and approved by department chair before registering. Directed self-study of special topics of current interest in systems engineering. Notes: May be repeatable if topics are substantially different. Offered by Systems Engr & Operations Rsch. May be repeated within the term for a maximum 6 credits.
+Specialized Designation: Topic Varies
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Independent Study
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 202: Engineering Systems in a Complex World. 3 credits.
+This course introduces students to the study of engineering systems as a means of understanding larger historical trends in a global society. Students will use case studies and historical analyses to think strategically and globally about the management and execution of complex systems in the context of culture, environment, politics and economics, and learn how to employ such analyses as decision-making tools for leadership. Students will be required to critically analyze articles and books, and work in groups to investigate and present topics of current national and international relevance. Offered by Systems Engr & Operations Rsch. Limited to two attempts. Equivalent to HIST 202.
+Mason Core: Global Understanding
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 205: Systems Engineering Principles. 3 credits.
+Introduction to systems engineering with a focus on cyber security engineering.  During this course, the different components of the systems life cycle will be explored.  Basic principles including requirements, design frameworks, functional systems, models, qualification strategies, maintenance and disposal will be covered.    Students will be tested to ensure understanding of material contained within the lectures.  Additionally, students will gain practical knowledge concerning this subject by modeling functional, state and object primitives. Offered by Systems Engr & Operations Rsch. Limited to two attempts. Equivalent to CYSE 205.
+Registration Restrictions: Students cannot enroll who have a major in Systems Engineering.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 210: Systems Design. 3 credits.
+Systems engineering design and integration process, development of functional, physical, and operational architectures. Emphasizes requirements engineering, functional modeling for design, and formulation and analysis of physical design alternatives. Introduces methods, software tools for systems engineering design. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: SYST 101.
+Registration Restrictions: Students with a class of Freshman may not enroll.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 220: Dynamical Systems I. 3 credits.
+Introduces modeling of dynamical systems. Both Discrete-time and continuous-time systems. Linear and nonlinear systems that includes exponential and polynomial models. Introduction to first order and second order models of systems using both difference equations and ordinary differential equations. Formulation of mathematical models from system descriptions, including biological, financial, and mechanical systems – both translational and rotational models of rigid and deformable objects. Block diagrams and state variable models. Analytical and numerical methods for solving models and studying their behavior. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (MATH 114C, 114XS, 116C or 116XS) and (PHYS 160C or 160XS) and ((SYST 221*C or 221XS) and (MATH 203*C or 203XS)).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 221: Systems Modeling Laboratory. 1 credit.
+Companion laboratory to SYST 220. Emphasizes use of scientific computing application MATLAB for modeling and analysis of dynamical systems. Analytical and numerical solutions of both discrete-time and continuous-time dynamic systems using MATLAB's built-in toolboxes including Symbolic Math Toolbox. Visualization of data and analysis results using plotting functions. Programming constructs for implementing algorithms. Construction and execution of simulation models using Simulink built-in libraries. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (SYST 101C or 101XS) and (SYST 130C, 130XS, CDS 130C, 130XS, CS 112C, 112XS or ENGR 125T) and (SYST 220*C or 220XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Laboratory
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 230: Object-oriented Modeling and Design. 4 credits.
+The course introduces students to the systems analysis, design, and implementation process using Python. Students will explore how to model the structure and behavior of programs using SysML and implement the system model using Python programming techniques. The course introduces students to SysML modeling and various structural and behavioral diagram types. Students will use Object-Oriented techniques in Python to implement multiple system components. The course explores various Python modules (standard library and 3rd Party) that extend the basic language functionality in useful ways. Students learn Python techniques and tools for Dataset Analysis and Visualization like Numpy, Pandas, and Matplotlib and learn how to apply them to solve Dataset Analysis and Visualization problems for datasets available in the public domain. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (CDS 130C, 130XS, SYST 130C, 130XS, CYSE 130C, 130XS, CS 112C, 112XS or ENGR 125T) and (SYST 210*C, 210*XS, 205*C or 205*XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Laboratory, Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 320: Dynamical Systems II. 3 credits.
+This course continues the study of dynamic systems from SYST 220, expanding the set of application areas to include electrical systems and fluid systems. Other applications - for example, infectious diseases, population dynamics, and/or flight control - are also discussed. The course covers fundamental characteristics of system behavior in the time domain including system stability and the effects of root location. Other topics include oscillatory inputs, frequency response, and an introduction to control systems.  Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (SYST 220C or 220XS) and (MATH 203C or 203XS) and (MATH 214C or 214XS) and (PHYS 260C or 260XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 330: Systems Methods. 3 credits.
+Provides students with a general introduction to a variety of quantitative techniques that are relevant to systems engineering. Focuses on the use of quantitative techniques to model and evaluate design options. Scope includes: Analysis methods of system engineering design and management, decision analysis, models for engineering economics and evaluations, probability and statistical methods for data analysis, management control techniques, safety, reliability, and maintainability analysis, risk and uncertainty management, and life-cycle cost analysis. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (MATH 114C, 114XS, 116C or 116XS) and (STAT 334C, 334XS, 344C, 344XS, 346C, 346XS, MATH 351C or 351XS) and (SYST 221*C or 221XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Enrollment is limited to students with a major in Systems Engineering.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 335: Discrete Systems Modeling and Simulation. 3 credits.
+Introduces basic concepts of modeling complex discrete systems by computer simulation. Topics include Monte-Carlo methods, discrete-event modeling, specialized simulation software, and statistics of input and output analysis. Offered by Systems Engr & Operations Rsch. Limited to two attempts. Equivalent to OR 335.
+Registration Restrictions: Required Prerequisites: (SYST 130C, 130XS, CDS 130C, 130XS, CS 112C, 112XS or ENGR 125T) and (STAT 334C, 334XS, 344C, 344XS, 346C, 346XS, MATH 351C or 351XS) and (SYST 230*C, 230XS, CS 211*C or 211XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 370: Systems Project Management. 3 credits.
+Study of basics of project management of systems in large, complex settings. Includes engineering economics, planning, organizing, staffing, monitoring, and controlling process of designing, developing, and producing system to meet stated need in effective and efficient manner. Discusses management tools, processes, and procedures, including various documentation templates, managerial processes, and dealing with personnel issues. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Students with a class of Freshman or Sophomore may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 371: Systems Engineering Management. 3 credits.
+Introduces basic concepts in systems engineering management. Includes engineering economics, planning, staffing, monitoring, and control processes related to the design, development, and production of a system to meet a stated need in an effective and efficient manner. Discusses management tools, processes, and leading teams. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: SYST 210*C or 210*XS.* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 395: Applied Systems Engineering. 3 credits.
+The course will enhance the student's system engineering experience by designing and building projects involving real world complex systems. The course will build physical models that follow the steps of system life cycle process: statement of need, design, requirements, architecture, implementation, testing, verification and validation. Projects are multidisciplinary in nature, requiring the student teams to learn about various real world systems such as internet communications, navigation, robotics, creating a GUI, and transmitting and receiving data from sensors.  Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: ((SYST 210C or 210XS) and (SYST 101C or 101XS)) and ((SYST 220*C or 220XS) and (SYST 221*C or 221XS) and (SYST 335*C or 335XS) and (SYST 371*C or 371XS)).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students cannot enroll who have a major in Undeclared.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 420: Network Analysis. 3 credits.
+Network nomenclature. Elementary graph theory. Linear and nonlinear network models: multicommodity flow, mathematical games and equilibria on networks, network design and control; dynamic network models; applications to transportation, telecommunications, data communications, and water resource systems. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (OR 441C or 441XS) and (MATH 213C, 213XS, 215C or 215XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 421: Classical Systems and Control Theory. 3 credits.
+Introduction to analysis and synthesis of feedback systems. Functional description of linear and nonlinear systems. Block diagrams and signal flow graphs. State-space representation of dynamical systems. Frequency response methods: Root Locus, Nyquist, and other stability criteria. Application to mechanical and electromechanical control systems. Offered by Systems Engr & Operations Rsch. Limited to two attempts. Equivalent to ECE 421.
+Registration Restrictions: Required Prerequisites: (ECE 220C or 220XS) or (ECE 321C or 321XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 438: Analytics for Financial Engineering and Econometrics. 3 credits.
+Introduces the basic analytics for financial engineering and econometrics. Topics include financial transactions and econometric data management, correlation, linear and multiple regressions for financial and economic predictions, financial time series analysis, portfolio theory, pricing models, and risk analysis. Provides a foundation of basic theory and methodology as well as applied examples with techniques to analyzing large financial and econometric data. Hands-on experiments with R will be emphasized throughout the course. Offered by Systems Engr & Operations Rsch. Limited to two attempts. Equivalent to OR 438.
+Recommended Corequisite: STAT 354
+Registration Restrictions: Required Prerequisites: (STAT 250C or 250XS) or (STAT 260C or 260XS) or (STAT 334C or 334XS) or (STAT 344C or 344XS) or (STAT 346C or 346XS) or (MATH 351C or 351XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 448: Technologies and Security for Cryptocurrencies and Financial Transactions. 3 credits.
+Introduces financial technology (FinTech) from three different perspectives: a disruptive technology, financial and societal effects, and security mitigation and regulatory policy. Focuses on how the technological advance in data and analytics are enabling the financial sector innovations. A special attention will be devoted to blockchain and cryptocurrencies, the ‘internet of finance’ and its potential of further transforming the sector. Lastly, deals with the increasing security and privacy concerns, operational risks as well as social challenges that emerged as part of the FinTech transformation. Notes: Accelerated MS students may not receive credit for both SYST 448 and SYST 548. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: ((STAT 250C or 250XS) or (STAT 260C or 260XS) or (STAT 334C or 334XS) or (STAT 344C or 344XS) or (STAT 346C or 346XS) or (MATH 351C or 351XS)).C Requires minimum grade of C.XS Requires minimum grade of XS.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 460: Introduction to Air Traffic Control. 3 credits.
+Introduction to Air Traffic Control (ATC) for those who plan professions in the air transportation industry. Surveys the entire field, presenting the history of ATC and how it came to be as it is, the technology on which the system is based, the procedures used by controllers to meet the safety and efficiency goals of the system, the organizational structure of the FAA, challenges facing the system, and means under investigation to meet these challenges. Some fieldwork will be required to acquire and analyze airport operational data. A brief introduction to airport design will be discussed. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: Junior standing or graduate standing.
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 461: Air Transportation System Engineering. 3 credits.
+Focuses on the theory and practice of system engineering in a national air transportation system. Stresses the application of mathematical techniques to analyze and design complex network transportation systems, airports, airspace, airline schedules, and traffic flow. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: SYST 460 or permission of instructor.
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 462: Flight Training Lab I. 3 credits.
+This course fulfills the requirements of 14 CFR, Section 141, Appendix B for obtaining a private pilot certificate with airplane category, single engine land class rating. Flight Training 1 will include the flight training up to and including maneuvering and navigating the aircraft. To be eligible, students must have passed a mandatory FAA Medical Exam and the security background check. This course cannot provide testing accommodations under an Individualized Education Program (IEP).  Lab fees to cover flight training costs apply. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Corequisite: SYST 460.
+Registration Restrictions: Enrollment is limited to students with a major, minor, or concentration in Aviation Flight Trng and Mgmt.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Laboratory
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 463: Flight Training Lab II. 3 credits.
+This course fulfills the requirements of 14 CFR, Section 141, Appendix B for obtaining a private pilot certificate with airplane category, Airplane - Single Engine Land class rating. Flight Training II will include the flight training up to and including the dual and solo flight instruction in cross-country navigation by pilotage, dead reckoning, and use of VOR, NDB, and HSI. Flight test preparation for private pilot certification. To be eligible, students must have passed a mandatory FAA Medical Exam and the security background check. This course cannot provide testing accommodations under an Individualized Education Program (IEP). Lab fees to cover flight training costs apply. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: SYST 462.
+Registration Restrictions: Enrollment is limited to students with a major, minor, or concentration in Aviation Flight Trng and Mgmt.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Laboratory
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 465: Pricing in Optimization and Game Theory. 3 credits.
+Allocation of limited resources among competing activities to maximize the outcome or minimization of expenses required to produce a given assortment of goods and services are two typical problems faced by any economic institution. Mathematical modeling of such problems and finding efficient mathematical tools for solving them are two main goals of modern optimization theory. Pricing limited resources, goods, and services is the key instrument for theoretical analysis of complex economical systems. Pricing theory can also give rise to numerical methods for finding optimal solutions and economic equilibrium. Fundamental tools in pricing theory are the classical Lagrangian and Lagrange multipliers for constrained optimization. Covers the basic ideas and methods of linear programming and matrix games. Particular emphasis to pricing for both theoretical analysis and numerical methods. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: MATH 203 or 216 and OR 441, or permission of instructor.
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 468: Applied Predictive Analytics. 3 credits.
+Introduces students to the fundamentals of data analysis and some of the most widely used models in applied predictive analytics. The students learn how to summarize data and explore relationship between variables, including principle component analysis and multidimensional scaling. Class instruction follows with a presentation of commonly used tables, visualizations, and statistical tests for comparing groups. Linear predictive models for both continuous and binary outcomes (logistic regression) are discussed in detail. The course introduces students to clustering and classification using random forest and naive Bayes. The course concludes with topics on choice modeling. Hands-on programming with R is emphasized. While no prior knowledge on R is required, students must be well prepared in programming. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (STAT 334C, 334XS, 344C, 344XS, 346C, 346XS, 250C, 250XS, 260C, 260XS, MATH 351C or 351XS) and (SYST 130C, 130XS, CDS 130C, 130XS, IT 206C, 206XS, 209C, 209XS, CS 112C, 112XS or ENGR 125T).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 469: Human Computer Interaction. 3 credits.
+Covers principles of human-computer interaction, including information processing design, cognitive models, ergonomics, and design metaphors. Students learn to evaluate interface design in terms of effectiveness, efficiency, and cost. Notes: Students who receive credit for SYST 470 may not receive credit for this course. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (STAT 250C, 250XS, 260C, 260XS, 334C, 334XS, 344C, 344XS, 346C, 346XS, MATH 351C or 351XS) and (IT 106C, 106XS, 109C, 109XS, 196C, 196XS, CS 112C, 112XS, CDS 130C or 130XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 470: Human Factors Engineering. 3 credits.
+The purpose of this course is to help students design better systems by considering the “human” component of the system. Our goal is improved system usability by taking a “user-centered” design approach. The course focuses on human performance characteristics and limitations. It includes such topics as perception, cognition, memory, and decision making. It also includes system design and safety issues for addressing these characteristics and limitations, and research & evaluation methods for improving system development. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (SYST 210C or 210XS) and (STAT 334C, 334XS, 344C, 346C, 344XS, 346XS, MATH 351C or 351XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 473: Decision and Risk Analysis. 3 credits.
+Studies analytic techniques for rational decision making that address uncertainty, conflicting objectives, and risk attitudes. Covers modeling uncertainty; rational decision making principles; representing decision problems with value trees, decision trees, and influence diagrams; solving value hierarchies, decision trees and influence diagrams; defining and calculating the value of information; incorporating risk attitudes into the analysis; and conducting sensitivity analyses. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Registration Restrictions: Required Prerequisites: (STAT 250C or 250XS) or (STAT 260C or 260XS) or (STAT 334C or 334XS) or (STAT 344C or 344XS) or (STAT 346C or 346XS) or (MATH 351C or 351XS) or (BIOL 214C or 214XS).C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 480: Economic Systems Design I: Principles and Experiments. 3 credits.
+Introduces design principles used in developing systems used to allocate resources. Students required to participate in experiment demonstrations of different allocation mechanisms. Students are also exposed to experimental methods in economics and market design. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: OR 441.
+Recommended Corequisite: SYST 465.
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 488: Financial Systems Engineering. 3 credits.
+This course is an introduction to financial engineering. Financial engineering is a cross-disciplinary field which relies on mathematical finance, numerical methods, and computer simulations to make trading, hedging, and investment decisions. This course will introduce basic types of derivatives, such as forward, futures, swaps, and options; as well as financial models such as Brownian motion, Ito's formula, and Black-Scholes valuation model. Numerical methods for option pricing, such as Binomial tree and Monte Carlo simulation will also be covered. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: OR 441.
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 489: Senior Seminar. 3 credits.
+Introduces several important topics in systems engineering, providing additional experience in writing and giving presentations, and obtaining feedback on curriculum for BS in systems engineering. Several lectures devoted to ethics; writing and making presentations also covered. Students attend technical lectures and write paper. Students are required to a write long paper on new technology. Instructor and guest lecturers present material not part of required course load to expand horizons. Examples are "knowledge-based" design, enterprise-wide reengineering, electronic commerce, and optimization by "natural analogy" (simulated annealing, neural networks, genetic algorithms). In addition, students work in teams to critique and redesign curriculum. Each group delivers written product, and provides at least one briefing to class. Best critique and redesign presented to faculty. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Specialized Designation: Writing Intensive in Major
+Registration Restrictions: Required Prerequisites: SYST 490*C or 490*XS.* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 490: Senior Design Project I. 3 credits.
+First part of capstone course in systems engineering program. Students apply knowledge they have gained to group project. Students perform concept definition and requirements analysis. Plan for carrying out project is developed, culminating in proposal presented to faculty at end of semester. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: 90 satisfactory credits.
+Registration Restrictions: Required Prerequisites: ((SYST 335C or 335XS) and (SYST 371C or 371XS) and (SYST 395C or 395XS)) and (SYST 320*C or 320*XS) and (SYST 470*C or 470*XS) and (SYST 473*C or 473*XS) and (SYST 489*C or 489*XS) and (OR 441*C or 441XS).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Enrollment is limited to students with a major in Systems Engineering.Enrollment limited to students in a Bachelor of Science degree.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 491: Industrial Project. 1-3 credits.
+Semester-long work experience in systems engineering in industrial or governmental organization. Work supervised jointly by systems engineer from sponsoring organization and department faculty member. Project and arrangements for supervision must be approved by student's faculty advisor. Periodic reports, presentations, and a written final report are required. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: 75 credits toward BS in Systems Engineering; SYST 330; GPA of at least 3.00.
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 495: Senior Design Project II. 3 credits.
+Second part of capstone course. Design project plans formulated in SYST 490 are reviewed and modified. Additional instruction on documentation and project management is given. Design project completed; formal report prepared, presented, and evaluated.  Students are strongly recommended to take STAT 354 before enrolling in SYST 490/495. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Mason Core: Capstone, Synthesis
+Registration Restrictions: Required Prerequisites: (SYST 320C or 320XS) and (SYST 470C or 470XS) and (SYST 473C or 473XS) and (SYST 489C or 489XS) and (SYST 490C or 490XS) and ((SYST 330*C or 330XS) and (STAT 354*C or 354XS)).* May be taken concurrently.C Requires minimum grade of C.XS Requires minimum grade of XS.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 497: Applied Engineering Abroad. 3 credits.
+Introduces students to applications of engineering processes outside USA. The students will gain hands-on project management, critical thinking, intercultural and career skills by exploring engineering aspects such as auto assembly, airliner manufacturing, metropolitan infrastructure, and bridge designs. By visiting technology museums, students will learn to appreciate the rich history of the country's technology and manufacturing. Offered by Systems Engr & Operations Rsch. Limited to two attempts. Equivalent to CEIE 497.
+Mason Core: Global Understanding
+Registration Restrictions: Enrollment limited to students with a class of Junior, Senior Plus or Senior.Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Internship
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 498: Independent Study in Systems Engineering. 1-3 credits.
+Directed self-study of special topics of current interest in systems engineering. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: 60 credits towards BS in systems engineering, and GPA of at least 3.00.
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Independent Study
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 499: Special Topics in Systems Engineering. 3 credits.
+Topics of special interest to undergraduates. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: 60 credits toward BS in systems engineering; specific prerequisites vary with nature of topic.
+Registration Restrictions: Students with the terminated from CEC major attribute may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Undergraduate Regular scale.
+
+SYST 500: Quantitative Foundations for Systems Engineering. 3 credits.
+Provides quantitative foundations necessary for core courses in systems engineering and operations research master's program, and certificate program in C4I. Topics include vectors and matrices, infinite series, partial differentiation, multiple integrals, differential and difference equations; linear systems; Laplace and Z-transforms, and probability theory. Students receive graduate credit for this course, which, when used on plan of study, extends minimum credit requirements for degree. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to CSI 600.
+Recommended Prerequisite: MATH 203 and 213.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 505: Systems Engineering Principles. 3 credits.
+This course is an introduction and overview of the methods and tools systems engineers use to define, develop, and deploy systems. It serves as a foundation for the other courses in the MS/SE curriculum. During this course, the different components of the system lifecycle will be explored as well as the economic value of systems engineering. The course will convey to students the essential elements of systems engineering including: systems thinking, concept and system definition, integration and test, product and service life management, system development lifecycles, logistics and supportability, and disposal/system retirement. This course is suitable for those who are new to systems engineering or have limited knowledge and/or experience in the field. Students enrolling in this course should have an engineering, science, or mathematics degree and one year of experience in science or engineering, or permission from the student's academic advisor and the course instructor. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 508: Complex Systems Engineering Management. 3 credits.
+Introduces the organizational, economic, technological and societal factors (POETS) that apply to the development of large-scale, complex mega-systems, and shows that "one size does not fit all" when it comes to the project management of mega-systems. Notes: Course cannot be applied for credit towards the MS in Systems Engineering degree. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 510: Systems Definition and Cost Modeling. 3 credits.
+Comprehensive examination of methods and processes for the identification and representation of system requirements. Investigation of the systems acquisition life cycle with emphasis on requirements definition, including functional problem analysis. Examination of the systems engineering definition phase including requirements, problem analysis, definition, and functional economics. Specification of functional and nonfunctional requirements, and associated requirements proto-typing. Functional economic analysis, including the use of prevailing cost estimation models and planning and control of common operating environments. Lecture and group project including creation of requirements and use of cost estimation model. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 513: Total Systems Engineering, Reengineering and Enterprise Integration. 3 credits.
+Principles of strategic quality, including TQM. Quality standards including ISO9000 and 14000. Organizational leadership, cultures, and process maturity, reengineering. Quality, organization learning, and reengineering approaches to enable information integration and management and environment and framework integration in the systems engineering of knowledge intensive systems. Emphasis is placed on the role of integrated product and process design teams, standard and commercial off-the-shelf products in enterprise integration. Architecture-driven system characteristics are studied, as is transition management of legacy systems. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: SYST 510 or 520.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 514: Systems Thinking. 3 credits.
+Enables students to understand and use systems thinking concepts, tools and techniques that can apply across all system types, especially those which exhibit a fusion of technology and human activities.   Additionally, the course extends the understanding of systems beyond technology, to systems with significant human activity components, such as organizations and enterprises. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Corequisite: SYST 505.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 520: System Engineering Design. 3 credits.
+System engineering design methods are studied and practiced, including object-oriented and structured analysis based techniques. Design Description languages such as UML, SysML, IDEF0 and IDEF1x are introduced and used in carrying out complete system designs. Teams make presentations of their designs.  Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to ECE 550.
+Recommended Corequisite: SYST 505
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 521: Network Analysis. 3 credits.
+Network nomenclature. Elementary graph theory. Linear and nonlinear network models: multi-commodity flow, mathematical games and equilibria on networks, network design and control. Dynamic network models. Applications to transportation, telecommunications, data communications, and water resource systems. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite:  MATH 203 and 213, OR 441 or OR 541.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 523: Engineering Resilient and Agile Enterprise Systems. 3 credits.
+Large-scale enterprise systems have ill-defined boundaries, complex behaviors, and evolve in unplanned ways. Enterprise systems need to be resilient and agile. This course introduces several tools and frameworks that can be used to understand resilience and agility, design resilience and agility into enterprises, and measure the degree of enterprise resilience and agility. Case studies are used to explore these concepts. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 530: Systems Engineering Management I. 3 credits.
+Provides techniques for evaluating cost and operational effectiveness of system designs and systems management strategies. Discusses performance measurement, work breakdown structures, cost estimating, quality management, configuration management, standards, and case studies of systems from different application areas. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: SYST 510.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 538: Analytics for Financial Engineering and Econometrics. 3 credits.
+Introduces the basic analytics for financial engineering and econometrics. Topics include financial transactions and econometric data management, correlation, linear and multiple regressions for financial and economic predictions, financial time series analysis, portfolio theory, pricing models, and risk analysis. Provides a foundation of basic theory and methodology as well as applied examples with techniques to analyzing large financial and econometric data. Hands-on experiments with R will be emphasized throughout the course. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 538.
+Recommended Prerequisite: STAT 515 or STAT 544.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 542: Decision Support Systems Engineering. 3 credits.
+Studies design of computerized systems to support individual or organizational decisions. Teaches systems engineering approach to decision support system (DSS) development. DSS is end product of development process, and process is key to successfully integrating DSS into organization. Any DSS is built on a theory (usually implicit) of what makes for successful decision support in given context. Empirical evaluation of specific DSS and the underlying theory should be carried on throughout development process. Course examines prevailing theories of decision support, considers issues in obtaining empirical validation for theory, and discusses empirical support that exists for theories considered. Students design decision support system for semester project. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: SYST 301
+Registration Restrictions: Required Prerequisites: (SYST 573*B-, 573XS, 473*B-, OR 681*B- or 681XS).* May be taken concurrently.B- Requires minimum grade of B-.XS Requires minimum grade of XS.Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 548: Technologies and Security for Cryptocurrencies and Financial Transactions. 3 credits.
+This course provides an introduction to financial technology (FinTech) from three different perspectives: a disruptive technology, financial and societal effects, and security mitigation and regulatory policy. It will focus on how the technological advance in data and analytics are enabling the financial sector innovations. Special attention will be devoted to blockchain and cryptocurrencies, the ‘internet of finance’ and its potential of further transforming the sector. Lastly, it would deal with the increasing security and privacy concerns, operational risks as well as social challenges that emerged as part of the FinTech transformation. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 560: Introduction to Air Traffic Control. 3 credits.
+Introduction for those who plan professions in aviation industry. Surveys entire field, presenting history of ATC and how it came to be, technology on which system is based, procedures used by controllers to meet safety and efficiency goals, organizational structure of the FAA, challenges facing system, and means under investigation to meet these challenges. Involves some field work for data collection and analysis. Class project requiring system simulation required. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 563: Evidence-Based Systems Engineering. 3 credits.
+A common cause of failure and risk in system development is making decisions when lacking clear evidence to support them. This course presents frameworks and methods used to make sound, evidence-based decisions throughout the system lifecycle.  Students learn what information to gather, how to analyze it, and how to present those analyses when deciding on the adequacy of programmatic decisions. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: STAT 344 and STAT 354 or equivalent.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 568: Applied Predictive Analytics. 3 credits.
+Introduces predictive analytics with applications in engineering, business, and econometrics. Topics include data preprocessing, predictive modeling with various regression and classification models (e.g., linear, logistic regression, tree-based methods, SVM, neural networks, etc.), time series analysis, and case studies. Provides a foundation of basic theory and methodology with applied examples to analyze large engineering, business, and econometric data for predictive decision making. Hands-on experiments with R will be emphasized. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 568.
+Recommended Prerequisite: STAT 515 or Graduate Standing at the MSOR or MSSE programs.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 573: Decision and Risk Analysis. 3 credits.
+Application of analytic reasoning and skills to practical problems in decision-making. Topics include problem structure, analysis and solution implementation, emphasizing contemporary approaches to decision analytic techniques. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 681.
+Recommended Prerequisite: OR 542 or MBA 638.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 574: Quality Control and Process Management. 3 credits.
+An overview of quality control techniques widely used in a number of manufacturing industries. The course teaches students about combining engineering process quality management and traditional statistical quality control procedures that are applicable in industry and are based on contemporary technologies such as lean Six Sigma, total quality management and predictive maintenance for achieving superior quality, reliability and maintainability. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 574.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 576: Manufacturing Systems Analysis. 3 credits.
+An overview of modeling and analysis of general manufacturing systems techniques widely used in a number of manufacturing industries, such as semiconductor manufacturing. The course teaches students about best scheduling and inventory control practices, enterprise resource management principles, and details of engineering economy that are applicable in the industry. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 576.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 584: Heterogeneous Data Fusion. 3 credits.
+Introduces the theory, design and implementation of multi-source information fusion systems in various domains. The course covers distinct technologies for combining data from multiple, heterogeneous sources and performing inferences in support to applications such as cyber security, Semantic Web, decision support systems, situational awareness, intrusion detection, crisis management, and others. The technical content is largely multi-disciplinary, encompassing disciplines such as knowledge engineering, ontologies, statistical learning, artificial intelligence, and data mining. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 584.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 588: Financial Systems Engineering I: Introduction to Options, Futures, and Derivatives. 3 credits.
+This course is an introduction to financial engineering. Financial engineering is a cross-disciplinary field which relies on mathematical finance, numerical methods, and computer simulations to make trading, hedging, and investment decisions. This course will introduce basic types of derivatives, such as forward, futures, swaps, and options; as well as financial models such as Brownian motion, Ito's formula, and Black-Scholes valuation model. Numerical methods for option pricing, such as Binomial tree and Monte Carlo simulation will also be covered. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 588.
+Recommended Prerequisite: Eng. or Math Graduate standing, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 611: System Methodology and Modeling. 3 credits.
+Provides broad yet rigorous foundations and applications of dynamic modeling. Emphasizes methodologies used across various disciplines. Topics include modeling and analysis of time-driven and event-driven, linear and nonlinear systems. The applications are presented with real-world example systems. Methodologies address dynamic systems using the concepts of composition, abstraction, execution, and performance. The issues of stochastic modeling and decision analysis are also covered.   Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: SYST 500 or equivalent.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 618: Model-based Systems Engineering. 3 credits.
+Model-based Systems Engineering (MBSE) provides a formalized application of modeling to support the engineering of systems. The purpose of the course to study and practice the leading methodologies for MBSE and illustrate the MBSE approaches in systems engineering and management. The advanced objected-oriented systems engineering methodology and model transformation techniques are addressed. Software tools are introduced and used for supporting systems engineering design. Students are expected to develop a system design of their choice using MBSE approaches presented in class and they will make presentations on these designs. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: SYST 520.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 620: Discrete Event Systems. 3 credits.
+Introduces modeling and analysis of discrete event dynamical systems. Course covers elements of discrete mathematics and then focuses on Petri Net models and their basic properties. Relation to other discrete event models of dynamical systems. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to ECE 673.
+Recommended Prerequisite: ECE 521, or SYST 611 or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 621: Systems Architecture Design. 3 credits.
+Architecture design and representation and the methodologies used to obtain them. Approaches based on system engineering constructs such as object orientation and service oriented architectures are used to design architectures and then represent them in conformance with an architecture framework such as DoDAF. Executable models of the architecture are derived to be used for architecture evaluation. Examples from current practice are used. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to ECE 674.
+Recommended Prerequisite: ECE 550.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 630: Systems Engineering Management II. 3 credits.
+Study of more advanced topics in systems engineering management to include the PMI Project Management Body of Knowledge. Students are expected to read selections from current literature as well as make presentations and produce papers on engineering management topics. Students work in groups to create a Systems Engineering Management Plan and a Risk Management Plan. Focuses strongly on the impacts of various systems engineering management practices on projects, organizations, and personnel. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+Recommended Prerequisite: SYST 371 or SYST 530.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Students with the terminated from CEC major attribute may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 659: Topics in Systems Engineering. 3 credits.
+Topics not covered in department's regular systems engineering offerings. Course content may vary each semester depending on instructor and the perception of students' needs. Offered by Systems Engr & Operations Rsch. May be repeated within the term for a maximum 6 credits.
+Specialized Designation: Topic Varies
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 660: Air Transportation Systems Modeling. 3 credits.
+Introduces range of current issues in air transportation, including public policy toward the industry, industry economics, system capacity, current system modeling capability, human factors considerations, safety analysis and surveillance systems, and new technological developments. Students expected to develop broad understanding of contemporary and future issues. Knowledge evaluated through class discussions, a take-home midterm exam and a term project to be completed by the end of the semester. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 660.
+Recommended Prerequisite: SYST 460/560, or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 664: Bayesian Inference and Decision Theory. 3 credits.
+Introduces decision theory and relationship to Bayesian statistical inference. Teaches commonalities, differences between Bayesian and frequentist approaches to statistical inference, how to approach statistics problem, and how to combine data with informed expert judgment to derive useful and policy relevant conclusions. Teaches theory to develop understanding of when and how to apply Bayesian and frequentist methods; and practical procedures for inference, hypothesis testing, and developing statistical models for phenomena. Teaches fundamentals of Bayesian theory of inference, including probability as a representation for degrees of belief, likelihood principle, use of Bayes Rule to revise beliefs based on evidence, conjugate prior distributions for common statistical models, and methods for approximating the posterior distribution. Introduces graphical models for constructing complex probability and decision models from modular components. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to CSI 674, OR 664.
+Recommended Prerequisite: STAT 544, STAT 554, or equivalent.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 670: Metaheuristics for Optimization. 3 credits.
+Course on the theory and practice of metaheuristics, i.e. solution search techniques for solving combinatorial optimization problems. It will introduce the theory, applications (scheduling in manufacturing, transportation, and in other engineering and service industries), and computational aspects of directly searching for solutions to solve computationally complex optimization problems without a well-defined analytical model. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 670.
+Recommended Prerequisite: OR 441/541 or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 671: Judgment and Choice Processing and Decision Making. 3 credits.
+How do people make judgments and decisions? Course presents an initial review of scientific literature directed toward answering this question, and emphasizes its importance when performing decision analysis and designing systems to support judgment and decision processes. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 671.
+Recommended Prerequisite: STAT 344/354, OR 542 or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 674: Dynamic Programming. 3 credits.
+Course on the theory and practice of dynamic programming, i.e., optimal sequential decision making over time in the presence of uncertainties. Stresses intuition, the mathematical foundations being for the most part elementary. Introduces the theory, applications in finance and engineering, and computational aspects of dynamic programming for deterministic and stochastic problems. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 674.
+Recommended Prerequisite: OR 442 or OR 542 or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 675: Reliability Analysis. 3 credits.
+Introduction to component and system reliability, their relationship, and problems of inference. Topics include component lifetime distributions and hazard functions, parameter estimation and hypothesis testing, life testing, accelerated life testing, system structural functions, and system maintainability. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 675.
+Recommended Prerequisite: STAT 544/554, OR 542 or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 680: Principles of Command, Control, Communications, Computing, and Intelligence (C4I). 3 credits.
+Provides broad introduction to fundamental principles of command, control, communication, computing, and intelligence (C4I). Applies principles, techniques to wide range of civilian and military situations. Discusses modeling, simulation of combat operations; studies sensing, fusion, and situation assessment processes. Derives optimal decision-making rules. Discusses concepts of C4I architectures and tools to evaluate and design systems such as queuing theory. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to ECE 670.
+Recommended Prerequisite: ECE 528 or SYST 611 or OR 542, or equivalent.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 681: Secure Energy Efficient Supply Chains. 3 credits.
+This course explores the application of Cyber Security concepts to secure supply chain networks and enable data-intensive energy efficiency. The focus is on techniques that enable supply chains in diverse sectors to employ IIoT devices while avoiding a substantial increase of its attack surface, enabling pervasive data collection to support automation, integration, and process enhancements. A special attention will be given to the criteria and metrics for evaluating supply chains with respect to their energy efficiency and carbon footprint reduction. Topics include Secure IIOT architectures, e-ROI, carbon footprint assessment, modeling and simulation of supply chain security, cyber-physical identification, tracking, and verification of parts and products in a uniform, hierarchical fashion, digital twins, counterfeit detection, product recall, and supply chain re-routing for higher energy efficiency. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to CYSE 681.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 682: Space Systems Engineering. 3 credits.
+Overview of the scientific and engineering foundations of spacecraft systems and interaction among satellite subsystems. Topics include fundamentals on astrodynamics, power, communications, command and data handling, thermal management, attitude control, mechanical configuration, structures and launch systems. In addition to traditional instruction, a number of case studies and a team design project provide further breadth and exposure. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to ECE 660.
+Recommended Prerequisite: ECE 580 or SYST 520
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 683: Modeling, Simulation, and Gaming. 3 credits.
+Develops methods for designing combat models and games. Existing combat models critical to the C4I process. Exercises and games demonstrate value of properly developed C4I modules in a combat simulation. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: MATH 213, SYST 500 or equivalent, and graduate standing.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 685: Unmanned Aerial Systems Security. 3 credits.
+This course provides engineers with a background in the essential components and operation of Unmanned Aerial Systems (UAS), related counter measures and protective measures. It introduces core principles for the safe and secure operation of UAS, especially in the C4I context. Topics are focused on UAS components, characteristics, and operational environment, such as weather and radio propagation. The course also covers active and passive detection of UAS, methods to avoid detection and for disrupting UAS operations, such as electromagnetic interference and cyberattacks, as well as measures against these methods, such as RADAR and IR stealth concepts. Finally, this course brings a holistic view of UAS security and its future trends. The target audience consists of engineers interested in planning, designing, or participating in UAS operations from a safety and security standpoint. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: Engineering graduate standing, solid understanding of calculus, statistics, and probability theory
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 687: Cyber Security Systems Engineering. 3 credits.
+This course addresses cyber security from the standpoint of systems engineers. It introduces core principles for the design and management of resilient and robust systems throughout their complete lifecycle. Topics include but are not limited to lifecycle assurance of systems, risk analysis, models for secure systems development and management, gap analysis, quantitative methods for cyber security, and special topics in cyber security. The course also covers distinct technologies for assessing system vulnerabilities, measuring and modeling risk, reducing uncertainty in risk management, and others. Target audience consists of engineers who want to expand their skill sets to better align with the demands of current cyber security jobs, as well as those who intent to work on cyber security research. Cyber security professionals would also benefit from the course by being exposed to a systems engineering, holistic perspective on cyber security design, development, and management. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to CYSE 587, CYSE 787, SYST 787.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 688: Financial Systems Engineering II: Derivative Products and Risk Management. 3 credits.
+Financial engineering is a cross-disciplinary field which relies on mathematical finance, numerical methods, and computer simulations to make trading, hedging, and investment decisions, as well as facilitating the risk management of those decisions. This course will introduce basic concepts of options, futures, and financial derivatives markets. It will focus on risk management for market risk, credit risk, and operational risk. It will also cover a broad range of derivatives products and discuss how risks are managed in financial institutions. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 688.
+Recommended Prerequisite: OR 588 or SYST 588 or permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 698: Independent Study and Research. 3 credits.
+Study of a selected area in systems engineering or C3I under the supervision of a faculty member. Written report required. Offered by Systems Engr & Operations Rsch. May be repeated within the degree for a maximum 12 credits.
+Recommended Prerequisite: Completion of at least two core courses, permission of instructor.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Independent Study
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 699: Masters Project. 3 credits.
+Capstone project course for MS/SE program. Key activity is completion of a major applied team project resulting in an acceptable technical report and oral briefing. Student should plan to take this course in the last semester of studies. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: 21 graduate credits in OR or SYST.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 735: Advanced Stochastic Simulation. 3 credits.
+Advanced topics and recent developments in stochastic simulation methodology for discrete-event and agent-based stochastic systems, with applications in artificial intelligence, power systems, manufacturing, health care, transportation, etc. Topics include simulation data analysis, stochastic simulation methodologies in artificial intelligence/machine learning, risk analytics, simulation-based optimization of complex systems, distributed and parallel simulation. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 735.
+Recommended Prerequisite: OR 635 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 740: Advances in Multi-Modeling. 3 credits.
+Focuses on the inter-operation of multiple models expressed in different modeling languages but which draw from the same data set: i.e., multi-modeling. Socio-technical systems often require a variety of modeling tools to define their operation accurately. An ontology based approach is used to analyze the validity of a proposed modeling architecture and workflow to address a specific issue Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: SYST 620 or ECE 673 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 750: Advanced Topics in Systems Engineering. 3 credits.
+Advanced topics not covered in department's regular systems engineering offerings. Course content may vary each semester depending on instructor and the perception of students' needs. May be repeated for credit when topics are distinctly different. Offered by Systems Engr & Operations Rsch. May be repeated within the degree for a maximum 12 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: 600-level course that varies with content of course.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 763: Research Methods in Systems Engineering and Information Technology. 3 credits.
+Examines alternative paradigms of scientific research and their applicability to research in information technology. Topics include fundamental elements of scientific investigation, basic principles of experimental design and statistical induction, philosophy of science and its relation to the information technology sciences, and case studies of information technology research. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 763.
+Recommended Prerequisite: STAT 554, OR 542, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 781: Data Mining and Knowledge Discovery. 3 credits.
+Statistical and computational methods and systems for deriving user-oriented knowledge from large databases and other information sources, and applying knowledge to support decision making. Information sources can be in numerical, textual, visual, or multimedia forms. Covers theoretical and practical aspects of current methods and selected systems for data mining, knowledge discovery, and knowledge management, including those for text mining, multimedia mining, and web mining. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: One of the following courses:  CS 687, CS 650, INFS 614, STAT 663, SYST 664, or Permission of Instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 787: Cyber Security Systems Engineering. 3 credits.
+This course addresses cyber security from the standpoint of systems engineers. It introduces core principles for the design and management of resilient and robust systems throughout their complete lifecycle. Topics include but are not limited to lifecycle assurance of systems, risk analysis, models for secure systems development and management, gap analysis, quantitative methods for cyber security, and special topics in cyber security. The course also covers distinct technologies for assessing system vulnerabilities, measuring and modeling risk, reducing uncertainty in risk management, and others. Target audience consists of engineers who want to expand their skill sets to better align with the demands of current cyber security jobs, as well as those who intent to work on cyber security research. Cyber security professionals would also benefit from the course by being exposed to a systems engineering, holistic perspective on cyber security design, development, and management. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to CYSE 587, CYSE 787, SYST 687.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 799: Master's Thesis. 1-6 credits.
+Research project chosen and completed under the guidance of a graduate faculty member, which results in a technical report acceptable to a three-member faculty committee, and an oral defense. Offered by Systems Engr & Operations Rsch. May be repeated within the degree.
+Recommended Prerequisite: 21 graduate credits and permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Thesis
+Grading: This course is graded on the Satisfactory/No Credit scale.
+
+SYST 842: Models of Probabilistic Reasoning. 3 credits.
+Survey of alternative views about how incomplete, inconclusive, and possibly unreliable evidence might be evaluated and combined. Discusses Bayesian, Baconian, Shafer-Dempster, and Fuzzy systems for probabilistic reasoning. Offered by Systems Engr & Operations Rsch. May not be repeated for credit.
+Recommended Prerequisite: STAT 544, OR 542, OR 681 or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 850: Topics in Systems Integration Engineering. 3 credits.
+Covers lifecycles; large systems comprising heterogeneous components; human, organizational, and technological basis for integration; societal and cultural basis; conceptual frameworks; structure, function, and purpose of industry; risk management; user requirements and functional specifications; bid and proposal process; systems integration and federal government; standards; integration of systems and federations of systems; integrated process and product development; architectures; systems management and cost estimation; reengineering; quality management; increasing returns to scale, network effects, and path dependency issues; and systems integration ecology and evolutionary systems integration Notes: May be repeatable if topics are substantially different. Offered by Systems Engr & Operations Rsch. May be repeated within the degree for a maximum 6 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: SYST 510 or SYST 520.
+Registration Restrictions: Enrollment is limited to Graduate level students.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+SYST 944: The Process of Discovery and Its Enhancement in Engineering Applications. 3 credits.
+Studies ingredients of imaginative reasoning as they concern efficient discovery of new ideas and valid evidential test of them. Topics include different interpretations of Peirce's theory of abductive reasoning and other forms of reasoning, Hintikka's analysis of process of inquiry, and current attempts to design systems that provide assistance in discovery-related or investigative activities. Offered by Systems Engr & Operations Rsch. May not be repeated for credit. Equivalent to OR 944.
+Recommended Prerequisite: IT 842, or permission of instructor.
+Registration Restrictions: Enrollment is limited to Graduate level students.Enrollment limited to students in the College of Science or Engineering  Computing colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+

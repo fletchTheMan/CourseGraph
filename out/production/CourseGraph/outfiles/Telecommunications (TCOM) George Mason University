@@ -1,0 +1,185 @@
+TCOM 500: Modern Telecommunications. 3 credits.
+Comprehensive overview of telecommunications, including current status and future directions. Topics include review of evolution of telecommunications; voice and data services; basics of signals and noise, digital transmission, network architecture and protocols; local area, metropolitan and wide area networks and narrow band ISDN; asynchronous transfer mode and broadband ISDN; and satellite systems, optical communications, cellular radio, personal communication systems, and multimedia services. Examples of real-life networks illustrate basic concepts and offer further insight. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 514: Basic Switching: Lecture and Laboratory Course. 3 credits.
+Basic switching techniques and protocols for low and high-speed digital packet networks (Ethernet, Frame Relay, ATM, X.25) are taught within a half semester lecture series, followed by hands-on laboratory for remainder of semester. Real-life scenarios taught in the laboratory element through exercises that involve configuring switches and routers. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 535 or IT 341
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Laboratory, Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 515: Internet Protocol Routing: Lecture and Laboratory Course. 3 credits.
+Internet Protocol (IP) routing overview; static routing; dynamic routing; default routing; access lists; route redistribution; RIP, OSPF, IGRP, EIGRP, IS-IS, and BGP protocols submitted for comment. Real-life scenarios taught in laboratory element through exercises that involve configuring routers as network elements. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 535, IT 341.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Laboratory, Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 535: The TCP/IP Suite of Internet Protocols. 3 credits.
+Provides an in-depth treatment of the protocols that define the Internet. Topics include: IPv4 addressing and subnetting; CIDR; Data Link Protocols: ARP, RARP; Network Protocols: IP, ICMP; IP Routing Protocols: RIP, OSPF, IS-IS, BGP; Transport Protocols: TCP, UDP; TCP Features: Windowing, Congestion Control, Advanced Protocols: MPLS; Internet Security: IPSec, SSL. Offered by Electrical & Comp. Engineering. May be repeated within the degree.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 551: Digital Communication Systems. 3 credits.
+Digital transmission of data, voice, and video. Covers signal digitization; modulation and demodulation; error correction coding; multiple access methods; multiplexing; synchronization; channel equalization; frequency spreading; encryption; transmission codes; digital transmission using bandwidth compression techniques; elements of information theory; and development of link budget evaluation such as system noise temperature, Nyquist filter concepts, antenna gain, and filter bandwidth. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 500.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 552: Introduction to Mobile Communications Systems. 3 credits.
+Introduces mobile communication system design and analysis. Topics include mobile communication channel, access and mobility control, mobile network architectures, connection to fixed network, and signaling protocols for mobile communication systems. Offers examples of mobile communication systems including panEuropean GSM system, North American DAMPS system, and Personal Communication Systems. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 500
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 570: Network Automation. 3 credits.
+This is a project-based course that focuses on the process of automating the configuration, management, testing, and operation of physical and virtual devices within a network. Topics covered include: Setting up Virtual Lab, PyCharm, Intro to Linux, Loops and conditions, Function, Class, string and data manipulation, Python sockets, Logging, error handling, Regex, Pandas, Database (SQlite3/mongodb), Paramiko, Flask and Graphing, Requests, API and web scrapping and Ansible for network automation. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 590: Selected Topics in Telecommunications. 1.5-3 credits.
+Selected topics from recent developments and applications in various engineering disciplines within specialty modules 1, 2, and 3 of the TCOM program. The course is designed to help the professional engineering community keep abreast of current developments. Notes: The 1.5-credit course lasts for one-half semester (approximately seven weeks) while the 3-credit course lasts for the full semester. Offered by Electrical & Comp. Engineering. May be repeated within the term for a maximum 9 credits.
+Specialized Designation: Topic Varies
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 598: Independent Study in Telecommunications. 1.5-3 credits.
+Directed self-study of special topics in telecommunications that relate to specialty modules 1, 2, and 3. Topics must be arranged with instructor and approved by program director before registering. Notes: May be taken for either 1.5 credits or 3.0 credits in fall and spring semesters. No more than total 6 credits may be taken from combination of TCOM 598, 599, 696, and 697 courses for credit in TCOM program. Offered by Electrical & Comp. Engineering. May be repeated within the degree for a maximum 6 credits.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Independent Study
+Grading: This course is graded on the Graduate Special scale.
+
+TCOM 607: Satellite Communications. 3 credits.
+Topics include introduction to satellite communications systems; historical aspects; orbital mechanics and launchers; satellite components such as payload, orbital maneuvering systems, cooling systems, and antennas; look angle predictions; link budget; overall link design; multiple access such as TDMA, CDMA, ALOHA, TDMA, and MFTDMA; error control for digital satellite links; propagation effects on satellite links; elements of VSAT systems and nongeostationary satellite systems; and direct broadcast satellite services. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 551.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 608: Optical Communications Systems. 3 credits.
+Introduction and Overview of Optical Fiber Communications Systems and Optical Communication Networks. Specific topics include Optical Resonators; Photons and Matter, Lasers, Photons in Semiconductors; Semiconductor Photon Sources and Detectors; Light Emitting Diodes; Modulation of Optical Signals; Optoelectronic Networks; FDDI, Fiber channel, SONET, SDH, Ethernet on Optical Networks; Wavelength Division Multiplexing (WDM) networks; Basics of Fiber Optic System Design. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 500.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 610: Border Gateway Protocol (BGP) Routing. 3 credits.
+Discusses development of Border Gateway Protocol and its application in today's Internet routing architecture. Covers evolution of Internet, BGP routing standard specifications (RFCs), interaction between various routing protocols, network BGP routing design principals and procedures for enterprise and ISP networks, BGP's real-world implementation and configuration syntax, network scalability and convergence issues, and the latest extension and proposals for new standards. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 535 and TCOM 515, or equivalent.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 611: Multi-Protocol Label Switching (MPLS). 3 credits.
+Develops full understanding of Multi-Protocol Label Switching (MPLS) theory, technology, and implementation aspects through detailed analysis of MPLS routing concepts and protocol stacks, and completion of major project to reinforce understanding of MPLS. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 514 or TCOM 515 or equivalent
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 614: Advanced Routing Lab. 3 credits.
+Covers the principles and theory of Multiprotocol Label Switching (MPLS). Topics include MPLS Architecture, Label Distribution Protocols, MPLS Virtual Private Network, MPLS traffic engineering, Any Transport over MPLS (AToM), and Quality of Service (QoS). The class is interleaved with hands-on labs, detailing how to implement and troubleshoot MPLS and its applications. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 535 and (TCOM 514 or TCOM 515)
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Laboratory, Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 616: Cloud Network Technologies. 3 credits.
+Covers concepts and protocols associated with designing highly available and scalable networks. Topics include server class operating systems and their application in Internet and enterprise cloud deployments, techniques used to support an enterprise cloud network, networking in virtualized environments, and fundamentals of cloud computing. Course also includes exercises and lab work that applies concepts learned throughout the course. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 535 or equivalent
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Laboratory, Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 617: Enterprise Network Architecture. 3 credits.
+Cover various advanced technologies used in ensuring quality for critical business applications and cost-effective solutions for providing both secure and non-secure communication across a public infrastructure. Topics covered include Quality of Service Performance Routing (PfR), IPSec Virtual Private Networks (VPNs), and Data Center Interconnect (DCI). Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 535
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 631: Voice Over IP. 3 credits.
+Presents the protocols used for transporting voice over Packet Switched Network. Topics include: Signaling basics; Topics; VoIP Network Scenarios and Connection Strategies; Communication Protocols: RTP, RTCP; VoIP Decomposition; Performance and quality metrics for VoIP; VoIP Signaling Protocols: H.323, SIP, SS7; Softswitches: architecture, functionality, application; VOIP-PSTN integration and migration; VOIP Quality and QoS; VoIP Security: Vulnerabilities, remedies; NextGen VoIP: VoIP Mobility, Equipment, Voice XML, IMS; Future of VoIP. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 535.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 652: 5G Service, Technology and Network. 3 credits.
+This course provides an overview of Fifth Generation (5G) wireless communications systems including ITU IMT2020 use cases, services, spectrum, capabilities, performance objectives and world-wide deployment status. The 3GPP and 3GPP2 cellular standards for Third Generation (3G) and Fourth Generation (4G) / LTE wireless communications systems will be reviewed as foundation. WiFi and Bluetooth will be discussed for their role in 5G. The 5G new radio (NR) air interface, 5G architecture, 5G core network and 5G security are presented. The 5G call flow procedures, real-life performance testing results and over the air messaging are investigated. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 552 or equivalent
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Students in a Non-Degree Undergraduate degree may not enroll.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 660: Network Forensics. 3 credits.
+Deals with the collection, preservation, and analysis of network-generated digital evidence such that the evidence can be successfully presented in a court of law (both civil and criminal). The relevant federal laws will be examined as well as private sector applications. The capture/intercept of digital evidence, the analysis of audit trails, the recording of running processes, and the reporting of such information will be examined. Offered by Electrical & Comp. Engineering. May not be repeated for credit. Equivalent to DFOR 660.
+Recommended Prerequisite: TCOM 535 and a working knowledge of computer programming.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the following colleges:College of ScienceEngineering  ComputingSchar School of Policy and GovSchool of Business
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 661: Digital Media Forensics. 3 credits.
+Covers the collection, preservation, and analysis of digital media such that the evidence can be successfully presented in a court of law (both civil and criminal). The relevant federal laws and private sector applications will be examined, as well as the seizure, preservation, and analysis of digital media. Offered by Electrical & Comp. Engineering. May not be repeated for credit. Equivalent to DFOR 661.
+Recommended Prerequisite: DFOR 510 and a working knowledge of computer operating systems (e.g. CYSE 211, IT 342, or equivalent).
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the following colleges:College of ScienceEngineering  ComputingSchar School of Policy and GovSchool of Business
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 662: Advanced Secure Networking. 3 credits.
+Advanced technologies in network security that can be applied to enhance enterprise and ISP's network security. Covers network perimeter defense concept and various components for complete layered defense system. Examines each component and its technologies, including TCP/IP protocol vulnerabilities, router access control list (ACL), dynamic ACL, firewall, network address translation (NAT), virtual private network (VPN), IPSec tunnels, intrusion detection system (IDS), routing protocol security, denial-of-service (DOS) attack, DOS detection and mitigation techniques. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: TCOM 535 and a working knowledge of network routing protocols.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 663: Operations of Intrusion Detection for Forensics. 3 credits.
+Introduces students to network and computer intrusion detection and its relation to forensics. Addresses intrusion detection architecture, system types, packet analysis, and products. Presents advanced intrusion detection topics such as intrusion prevention and active response, decoy systems, alert correlation, data mining, and proactive forensics. Offered by Electrical & Comp. Engineering. May not be repeated for credit. Equivalent to DFOR 663.
+Recommended Prerequisite: TCOM 535 and a working knowledge of computer programming.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 664: Incident Response Forensics. 3 credits.
+Addresses incident detection, response, and those aspects of computer forensics pertinent to the investigation of trade secret theft, economic espionage, copyright infringement, piracy, and fraud. Procedures for gathering, preserving, and analyzing forensic evidence are discussed in detail and are applied to both computer and network incident response forensics. Offered by Electrical & Comp. Engineering. May not be repeated for credit. Equivalent to DFOR 664.
+Recommended Prerequisite: TCOM 535.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 690: Advanced Topics in Telecommunications. 3 credits.
+Advanced topics from recent developments and applications in various engineering disciplines in specialty modules 1, 2, and 3 of TCOM program. Advanced topics chosen so that they do not duplicate existing TCOM courses. Active participation of students encouraged in form of writing and presenting papers in various research areas of advanced topic. Enhances professional engineering community's understanding of breakthrough developments in specific areas. Offered by Electrical & Comp. Engineering. May be repeated within the term for a maximum 9 credits.
+Specialized Designation: Topic Varies
+Recommended Prerequisite: Permission of instructor; specific prerequisites vary.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lec/Sem #1, Lec/Sem #2, Lec/Sem #3, Lec/Sem #4, Lec/Sem #5, Lec/Sem #6, Lec/Sem #7, Lec/Sem #8, Lec/Sem #9, Lecture, Sem/Lec #10, Sem/Lec #11, Sem/Lec #12, Sem/Lec #13, Sem/Lec #14, Sem/Lec #15, Sem/Lec #16, Sem/Lec #17, Sem/Lec #18
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 696: Independent Reading and Research. 1.5-3 credits.
+Study of selected area in specialty modules 1, 2, or 3 under supervision of faculty member. Written report required. Notes: No more than total of 6 credits may be taken from combination of TCOM 598, 599, 696, and 697 for credit in TCOM program. Offered by Electrical & Comp. Engineering. May be repeated within the degree for a maximum 6 credits.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Independent Study
+Grading: This course is graded on the Graduate Special scale.
+
+TCOM 698: Telecommunications Projects Course. 3 credits.
+To be taken toward end of degree program within any of modules 1, 2, or 3. Primary activity is completing major applied project, preferably with group of two to three people. Secondary goal is consolidating training before graduation so that, in some cases, it may act as capstone course. Students and outside telecommunication industry managers present ideas for projects and, through grouping of students, new skills and approaches may be learned. Some class time used for discussion of projects, either to monitor progress or explore alternative approaches. Readings, class-time discussion of current trends, difficulties, and new opportunities for industry most relevant to module. Concludes with presentations of projects to department faculty. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: Graduate standing with at least 18 credits or permission of department.
+Registration Restrictions: Enrollment limited to students with a class of Advanced to Candidacy, Graduate, Junior Plus, Non-Degree or Senior Plus.Enrollment is limited to Graduate, Non-Degree or Undergraduate level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Lecture
+Grading: This course is graded on the Graduate Regular scale.
+
+TCOM 750: Coordinating Seminar. 3 credits.
+Open only to students in MA or MS in telecommunications programs with at least 18 credits of course work prior to registration. Topics include specific telecommunications problems in management, law, engineering, education, and communications. Focuses on ways a problem in one area can create or solve a problem in other areas. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+Recommended Prerequisite: Open only to students in the MA or MS in telecommunications programs with at least 18 credit hours of course work prior to registration.
+Registration Restrictions: Enrollment is limited to students with a major in Telecommunications or Telecommunications.Enrollment is limited to Graduate or Non-Degree level students.Students in a Non-Degree Undergraduate degree may not enroll.Enrollment limited to students in the College of Science, Engineering  Computing or Schar School of Policy and Gov colleges.
+Schedule Type: Seminar
+Grading: This course is graded on the Graduate Regular scale.
+
