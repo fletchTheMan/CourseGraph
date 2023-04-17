@@ -3,18 +3,22 @@ import java.io.*;
 
 public class Test{
 	public static void main(String[] args) throws FileNotFoundException{
-		File file = new File("outfilesList.txt");
+		String filename = "outfiles/Computing (COMP) George Mason University";
+		File file = new File(filename);
 		Scanner scan = new Scanner(file);
-		while(scan.hasNextLine()){
-			String line = scan.nextLine();	
-			String courseAbriviation; 
-			if(!line.equals("Sport, Recreation and Tourism Management George Mason University")){
-				courseAbriviation = line.substring(line.indexOf("(") + 1, line.indexOf(")"));
-			}
-			else{
-				courseAbriviation = "SRTM";
-			}
-			System.out.println("Course Abriviation is: " + courseAbriviation);
+		while(scan.hasNext()){
+			String name = scan.next();
+			name = name.substring(0, name.length() - 1);
+			System.out.println("Name is: " + name);
+			String description = scan.nextLine();
+			byte credits = (byte)(description.charAt(description.length() - 10) - 48);
+			description = scan.nextLine();
+			System.out.println("Number of credits is: " + credits);
+			System.out.println("Description is: " + description);
+			scan.nextLine();
+			scan.nextLine();
+			scan.nextLine();
+			scan.nextLine();
 		}
 	}
 }

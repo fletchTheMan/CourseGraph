@@ -29,6 +29,13 @@ public class Graph{
 			description = scan.nextLine();
 			Node currentClass = new Node(name, credits, description);
 			classes.add(currentClass);
+			String requirmentsToParse = scan.nextLine();
+			for(String courseAbriviation: courseAbriviations){
+				int requiredCourseIndex = requirmentsToParse.indexOf(courseAbriviation);
+				if(requiredCourseIndex != -1){
+					//TODO
+				}
+			}
 
 		}
 	}	
@@ -41,6 +48,12 @@ public class Graph{
 		}
 		return newString.toString();
 	}
+
+	public Node findNode(String name){
+		//TODO
+
+	}
+
 }
 
 /*
