@@ -1,10 +1,9 @@
-import java.util.Set;
 /**
  * @author Fletcher Hammond
  * This repersents one class and has the things to edit it.
  * All items inside are public.
  */
-
+import java.util.Set;
 
 public class Node{
 	public String name;
@@ -27,7 +26,7 @@ public class Node{
 	}
 
 	/**
-	 * This is the with only the name i guess your finding the others out later.
+	 * This is the with only the name i guess you're finding the others out later.
 	 * @param name this is the name of the class.
 	 */
 	public Node(String name){

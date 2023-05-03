@@ -18,7 +18,7 @@ public class Graph{
 		classes = new HashSet<Node>(12);
 	}
 	
-	public void readFile(String fileName, ArrayList<String> courseAbriviations) throws FileNotFoundException{
+	public void readFile(String fileName, HashSet<String> courseAbriviations) throws FileNotFoundException{
 		String filename = "outfiles/Computing (COMP) George Mason University";
 		File file = new File(filename);
 		Scanner scan = new Scanner(file);

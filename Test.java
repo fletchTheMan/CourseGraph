@@ -1,11 +1,16 @@
 import java.util.Scanner;
 import java.io.*;
+import java.util.HashSet;
 
 public class Test{
-	public static void main(String[] args) throws FileNotFoundException{
+	public static void main(String[] args) throws FileNotFoundException {
 		String filename = "outfiles/Computing (COMP) George Mason University";
 		File file = new File(filename);
 		Scanner scan = new Scanner(file);
+		Node[] nodes = new Node[100];
+		int index = 0;
+		Node startNode = new Node("AHHHHHHHHHHHH");
+		HashSet<Node> testHashSet = new HashSet<Node>();
 		while(scan.hasNext()){
 			String name = scan.next();
 			name = name.substring(0, name.length() - 1);
@@ -15,11 +20,18 @@ public class Test{
 			description = scan.nextLine();
 			System.out.println("Number of credits is: " + credits);
 			System.out.println("Description is: " + description);
+			nodes[index] = new Node(name, credits, description);
+			if(index == 0){
+				startNode = new Node(name, credits, description);
+				testHashSet.add(nodes[index]);
+			}
 			scan.nextLine();
 			scan.nextLine();
 			scan.nextLine();
 			scan.nextLine();
 		}
+		
+		System.out.println(testHashSet.contains(startNode));
 	}
 }
 
