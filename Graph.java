@@ -1,15 +1,17 @@
-import java.util.HashSet;
+import java.util.HashMap;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-import java.util.ArrayList;
+import java.util.HashSet;
 
 public class Graph{
 	
-	public HashSet<Node> classes;
+	public HashMap<String, Node> classes;
+	public HashSet<Edge> classLinks;
 
 	public Graph(String fileList) throws FileNotFoundException{
-		classes = new HashSet<Node>(62);
+		classes = new HashSet<String, Node>(62);
+		classLinks = new HashSet<Edge>(classes.capacity() * 2);
 		//TODO make it take in a file that link to other files and 
 		//File  
 	}
@@ -28,15 +30,19 @@ public class Graph{
 			byte credits = (byte)(description.charAt(description.length() - 10) - 48);
 			description = scan.nextLine();
 			Node currentClass = new Node(name, credits, description);
-			classes.add(currentClass);
+			classes.put(name, currentClass);
 			String requirmentsToParse = scan.nextLine();
 			for(String courseAbriviation: courseAbriviations){
 				int requiredCourseIndex = requirmentsToParse.indexOf(courseAbriviation);
 				if(requiredCourseIndex != -1){
-					//TODO
+					String requiredClassName = requirmentsToParse.substring(requiredCourseIndex, requiredCourseIndex = courseAbriviation.length() + 4);
+					if(findNode(requiredClassName) == null){
+						Node requiredClassNode = new Node(requiredClassName);
+						putNode(requiredClassName, Node);
+					}
+					
 				}
 			}
-
 		}
 	}	
 	
@@ -50,25 +56,15 @@ public class Graph{
 	}
 
 	public Node findNode(String name){
-		//TODO
-
+		return classes.get(name);
 	}
 
-}
+	public boolean putNode(String name, Node classNode){
+		return classes.putNode(name, classNode);
+	}
 
-/*
- String[] courseAbriviations = {"AE","ACCT","AFAM","ANTH","AIT","ARAB","AVT",
-	"ARTH","AMGT","EDAT","ASTR","ATEP","BIS","BAS","BIOD","BENG","BINF","BIOL",
-	"BIMR","BMED","BIOS","BULE","BUS","BMGT","CHEM","CHIN","CEIE","CLAS","CLIM",
-	"CEC","COS","CVPA","COMM","CDS","CSI","CSS","GAME","CS","COMP","CONF","CONS",
-	"CM","EDCD","CRIM","CULT","EDCI","CYSE","DANC","DAEN","DSGN","DFOR","ECED",
-	"ECON","EDEP","EDUC","EDIT","EDLE","EDPO","EDRS","ECE","ELED","ENGR",
-	"ENGH","EAP","EVPP","EMBA","EFHP","FAVS","FNAN","FOLK","FRLN","FRSC","FREN",
-	"GGS","GEOL","GERM","GLOA","GCH","GOVT","GBUS","GREE","HAP","HHS","HEAL",HEBR",
-	"HE","HIST","HNRS","HDFS","ISA","ISM","INFS","IT","INTS","MAIS","ITRN","INYO",
-	"ITAL","JAPA","KINE","KORE","LAS","LATN","LING","MGMT","MIS","MSEC","MKTG","MATH",
-	"MBA","ME","MLAB","MEIS","MLSC","MSBA","MUSI","NAIS","NEUR","NURS","NUTR","OR","OSCM",
-	"ODKM","PERS","PHIL","PHED","PHYS","POGO","PORT","EDPD","PROV","PSYC","PUAD","PUBP","EDRD",
-	"REAL","RMGT","RECR","RHBS","REHI","RUSS","SPSY","SEED","SOCW","SOAN","SOCI","SWE","SPAN",
-	"EDSE","SPMT","SRST","SRTM","STAT","SYST","SEOR","TECM","TCOM","THR","TOUR","TURK","UNIV","USST","WMST"}
-*/
+	public boolean putEdge(String requiredClassName, String currentClassName){
+		Edge edge = new Edge(requiredClassName, currentClassName);
+		return classLinks.add(edge);
+	}
+}

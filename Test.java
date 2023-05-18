@@ -1,37 +1,43 @@
 import java.util.Scanner;
 import java.io.*;
-import java.util.HashSet;
+import java.util.HashMap;
+import java.util.ArrayList;
 
 public class Test{
 	public static void main(String[] args) throws FileNotFoundException {
+		File outfileList = new File("outfilesList.txt");
+		Scanner scanning = new Scanner(outfileList);
+		ArrayList<String> courseAbriviations = new ArrayList<String>(100);
+		while(scanning.hasNextLine()){
+			String line = scanning.nextLine();	
+			String courseAbriviation; 
+			if(!line.equals("Sport, Recreation and Tourism Management George Mason University")){
+				courseAbriviation = line.substring(line.indexOf("(") + 1, line.indexOf(")"));
+			}
+			else{
+				courseAbriviation = "SRTM";
+			}
+			courseAbriviations.add(courseAbriviation);
+		}
 		String filename = "outfiles/Computing (COMP) George Mason University";
 		File file = new File(filename);
+		HashMap<String, Node> classes = new HashMap<String, Node>(62);
 		Scanner scan = new Scanner(file);
-		Node[] nodes = new Node[100];
-		int index = 0;
-		Node startNode = new Node("AHHHHHHHHHHHH");
-		HashSet<Node> testHashSet = new HashSet<Node>();
 		while(scan.hasNext()){
 			String name = scan.next();
-			name = name.substring(0, name.length() - 1);
-			System.out.println("Name is: " + name);
 			String description = scan.nextLine();
 			byte credits = (byte)(description.charAt(description.length() - 10) - 48);
 			description = scan.nextLine();
-			System.out.println("Number of credits is: " + credits);
-			System.out.println("Description is: " + description);
-			nodes[index] = new Node(name, credits, description);
-			if(index == 0){
-				startNode = new Node(name, credits, description);
-				testHashSet.add(nodes[index]);
+			Node currentClass = new Node(name, credits, description);
+			classes.put(name, currentClass);
+			String requirmentsToParse = scan.nextLine();
+			for(String courseAbriviation: courseAbriviations){
+				int requiredCourseIndex = requirmentsToParse.indexOf(courseAbriviation);
+				if(requiredCourseIndex != -1){
+					System.out.println(requirmentsToParse.substring(requiredCourseIndex, requiredCourseIndex + courseAbriviation.length() + 4));
+				}
 			}
-			scan.nextLine();
-			scan.nextLine();
-			scan.nextLine();
-			scan.nextLine();
 		}
-		
-		System.out.println(testHashSet.contains(startNode));
 	}
 }
 

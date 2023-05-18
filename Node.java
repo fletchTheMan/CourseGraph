@@ -1,7 +1,7 @@
 /**
  * @author Fletcher Hammond
  * This repersents one class and has the things to edit it.
- * All items inside are public.
+ * All items inside are public because there is no reason to have them be private.
  */
 import java.util.Set;
 
@@ -71,5 +71,14 @@ public class Node{
 	@Override
 	public int hashCode(){
 		return name.hashCode();
+	}
+
+	/**
+	 * This method is for outputing strings.
+	 * @return the string to be output by System.out.print(ln).
+	 */
+	@Override
+	public String toString(){
+		return name + "\n" + credits + "\n" + description;
 	}
 }
