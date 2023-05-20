@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.io.*;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.ArrayList;
 
 public class Test{
@@ -22,6 +23,7 @@ public class Test{
 		String filename = "outfiles/Computing (COMP) George Mason University";
 		File file = new File(filename);
 		HashMap<String, Node> classes = new HashMap<String, Node>(62);
+		HashSet<Edge> classLinks = new HashSet<Edge>(62 * 2);
 		Scanner scan = new Scanner(file);
 		while(scan.hasNext()){
 			String name = scan.next();
@@ -34,10 +36,23 @@ public class Test{
 			for(String courseAbriviation: courseAbriviations){
 				int requiredCourseIndex = requirmentsToParse.indexOf(courseAbriviation);
 				if(requiredCourseIndex != -1){
-					System.out.println(requirmentsToParse.substring(requiredCourseIndex, requiredCourseIndex + courseAbriviation.length() + 4));
+					//System.out.println(requirmentsToParse.substring(requiredCourseIndex, requiredCourseIndex + courseAbriviation.length() + 4));
+					String requiredClassName = requirmentsToParse.substring(requiredCourseIndex, requiredCourseIndex + courseAbriviation.length() + 4);
+					System.out.println(requiredClassName);
+					Node requiredClassNode = null;
+					if(classes.get(requiredClassName) == null){
+						requiredClassNode = new Node(requiredClassName);
+					}
+					else{
+						requiredClassNode = classes.get(requiredClassNode);
+					}
+					Edge edge = new Edge(requiredClassNode, currentClass);
+					classLinks.add(edge);
+					classes.put(requiredClassName, requiredClassNode);
 				}
 			}
 		}
+		System.out.println(classes);
 	}
 }
 
