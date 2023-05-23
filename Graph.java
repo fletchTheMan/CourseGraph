@@ -2,28 +2,26 @@ import java.util.HashMap;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-import java.util.HashSet;
 import java.util.Collection;
 
 public class Graph {
 	
 	public HashMap<String, Node> classes;
-	public HashSet<Edge> classLinks;
+	public HashMap<Node, LinkedList<Node>> classMap;
 
-	public Graph(String fileList) throws FileNotFoundException {
+	public Graph(String fileList, HashSet<String> courseAbriviations) throws FileNotFoundException {
 		classes = new HashMap<String, Node>(62);
-		classLinks = new HashSet<Edge>(62 * 2);
+		classMap = new HashMap<Node, LinkedList<Node>>(62 * 2);
 		//TODO make it take in a file that link to other files and 
-		//File  
-	}
-	
-	public Graph() throws FileNotFoundException {
-		classes = new HashMap<String, Node>(12);
-		classLinks = new HashSet<Edge>(24);
+		File files = new File(fileList);
+		Scanner fileScan = new Scanner(files);
+		while(fileScan.hasNext()){
+			String fileName = "outfiles/" + fileScan.next();
+			readFile(fileName, courseAbriviations);
+		}
 	}
 	
 	public void readFile(String fileName, HashSet<String> courseAbriviations) throws FileNotFoundException {
-		String filename = "outfiles/Computing (COMP) George Mason University";
 		File file = new File(filename);
 		Scanner scan = new Scanner(file);
 		while(scan.hasNext()){

@@ -20,39 +20,47 @@ public class Test{
 			}
 			courseAbriviations.add(courseAbriviation);
 		}
-		String filename = "outfiles/Computing (COMP) George Mason University";
-		File file = new File(filename);
 		HashMap<String, Node> classes = new HashMap<String, Node>(62);
 		HashSet<Edge> classLinks = new HashSet<Edge>(62 * 2);
-		Scanner scan = new Scanner(file);
-		while(scan.hasNext()){
-			String name = scan.next();
-			String description = scan.nextLine();
-			byte credits = (byte)(description.charAt(description.length() - 10) - 48);
-			description = scan.nextLine();
-			Node currentClass = new Node(name, credits, description);
-			classes.put(name, currentClass);
-			String requirmentsToParse = scan.nextLine();
-			for(String courseAbriviation: courseAbriviations){
-				int requiredCourseIndex = requirmentsToParse.indexOf(courseAbriviation);
-				if(requiredCourseIndex != -1){
-					//System.out.println(requirmentsToParse.substring(requiredCourseIndex, requiredCourseIndex + courseAbriviation.length() + 4));
-					String requiredClassName = requirmentsToParse.substring(requiredCourseIndex, requiredCourseIndex + courseAbriviation.length() + 4);
-					System.out.println(requiredClassName);
-					Node requiredClassNode = null;
-					if(classes.get(requiredClassName) == null){
-						requiredClassNode = new Node(requiredClassName);
+		File files = new File("outfilesList.txt");
+		Scanner fileScan = new Scanner(files);
+		while(fileScan.hasNext()){
+			String fileName = "outfiles/" + fileScan.nextLine();
+			File file = new File(fileName);
+			Scanner scan = new Scanner(file);
+			while(scan.hasNext()){
+				String name = scan.next();
+				String description = scan.nextLine();
+				byte credits = (byte)(description.charAt(description.length() - 10) - 48);
+				description = scan.nextLine();
+				Node currentClass = new Node(name, credits, description);
+				classes.put(name, currentClass);
+				if(!scan.hasNextLine()){
+					continue;
+				}
+				else{
+					String requirmentsToParse = scan.nextLine();
+					for(String courseAbriviation: courseAbriviations){
+						int requiredCourseIndex = requirmentsToParse.indexOf(courseAbriviation);
+						if(requiredCourseIndex != -1){
+							String requiredClassName = requirmentsToParse.substring(requiredCourseIndex, requiredCourseIndex + courseAbriviation.length() + 4);
+							System.out.println(requiredClassName);
+							Node requiredClassNode = null;
+							if(classes.get(requiredClassName) == null){
+								requiredClassNode = new Node(requiredClassName);
+							}
+							else{
+								requiredClassNode = classes.get(requiredClassNode);
+							}
+							Edge edge = new Edge(requiredClassNode, currentClass);
+							classLinks.add(edge);
+							classes.put(requiredClassName, requiredClassNode);
+						}
 					}
-					else{
-						requiredClassNode = classes.get(requiredClassNode);
-					}
-					Edge edge = new Edge(requiredClassNode, currentClass);
-					classLinks.add(edge);
-					classes.put(requiredClassName, requiredClassNode);
 				}
 			}
+			System.out.println(fileName);
 		}
-		System.out.println(classes);
 	}
 }
 
