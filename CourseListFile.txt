@@ -1,165 +1,165 @@
-Academic English (AE) George Mason University.html
-Accounting (ACCT) George Mason University.html
-African and African American Studies (AFAM) George Mason University.html
-Anthropology (ANTH) George Mason University.html
-Applied Information Technology (AIT) George Mason University.html
-Arabic (ARAB) George Mason University.html
-Art and Visual Technology (AVT) George Mason University.html
-Art History (ARTH) George Mason University.html
-Arts Management (AMGT) George Mason University.html
-Assistive Technology (EDAT) George Mason University.html
-Astronomy (ASTR) George Mason University.html
-Athletic Training Education Program (ATEP) George Mason University.html
-Bachelor of Individualized Study (BIS) George Mason University.html
-Bachelor's of Applied Science (BAS) George Mason University.html
-Biodefense (BIOD) George Mason University.html
-Bioengineering (BENG) George Mason University.html
-Bioinformatics (BINF) George Mason University.html
-Biology (BIOL) George Mason University.html
-Biomedical Research (BIMR) George Mason University.html
-Biomedical Sciences (BMED) George Mason University.html
-Biosciences (BIOS) George Mason University.html
-Business and Legal Studies (BULE) George Mason University.html
-Business (BUS) George Mason University.html
-Business Management (BMGT) George Mason University.html
-Chemistry (CHEM) George Mason University.html
-Chinese (CHIN) George Mason University.html
-Civil and Infrastructure Engineering (CEIE) George Mason University.html
-Classics (CLAS) George Mason University.html
-Climate Dynamics (CLIM) George Mason University.html
-College of Engineering and Computing (CEC) George Mason University.html
-College of Science (COS) George Mason University.html
-College of Visual and Performing Arts (CVPA) George Mason University.html
-Communication (COMM) George Mason University.html
-Computational and Data Sciences (CDS) George Mason University.html
-Computational Science and Informatics (CSI) George Mason University.html
-Computational Social Science (CSS) George Mason University.html
-Computer Game Design (GAME) George Mason University.html
-Computer Science (CS) George Mason University.html
-Computing (COMP) George Mason University.html
-Conflict Analysis and Resolution (CONF) George Mason University.html
-Conservation Studies (CONS) George Mason University.html
-Construction Management (CM) George Mason University.html
-Counseling and Development (EDCD) George Mason University.html
-Criminology (CRIM) George Mason University.html
-Cultural Studies (CULT) George Mason University.html
-Curriculum and Instruction (EDCI) George Mason University.html
-Cyber Security Engineering (CYSE) George Mason University.html
-Dance (DANC) George Mason University.html
-Data Analytics Engineering (DAEN) George Mason University.html
-Design (DSGN) George Mason University.html
-Digital Forensics (DFOR) George Mason University.html
-Early Childhood Education (ECED) George Mason University.html
-Economics (ECON) George Mason University.html
-Educational Psychology (EDEP) George Mason University.html
-Education (EDUC) George Mason University.html
-Education Instructional Technology (EDIT) George Mason University.html
-Education Leadership (EDLE) George Mason University.html
-Education Policy (EDPO) George Mason University.html
-Education Research (EDRS) George Mason University.html
-Electrical and Computer Engineering (ECE) George Mason University.html
-Elementary Education (ELED) George Mason University.html
-Engineering (ENGR) George Mason University.html
-English (ENGH) George Mason University.html
-English for Academic Purposes (EAP) George Mason University.html
-Environmental Science and Policy (EVPP) George Mason University.html
-Executive MBA (EMBA) George Mason University.html
-Exercise, Fitness, and Health Promotion (EFHP) George Mason University.html
-Film and Video Studies (FAVS) George Mason University.html
-Finance (FNAN) George Mason University.html
-Folklore Studies (FOLK) George Mason University.html
-Foreign Language (FRLN) George Mason University.html
-Forensic Science (FRSC) George Mason University.html
-French (FREN) George Mason University.html
-Geography and Geoinformation Science (GGS) George Mason University.html
-Geology (GEOL) George Mason University.html
-German (GERM) George Mason University.html
-Global Affairs (GLOA) George Mason University.html
-Global and Community Health (GCH) George Mason University.html
-Government (GOVT) George Mason University.html
-Graduate School of Business (GBUS) George Mason University.html
-Greek (GREE) George Mason University.html
-Health Administration and Policy (HAP) George Mason University.html
-Health and Human Services (HHS) George Mason University.html
-Health (HEAL) George Mason University.html
-Hebrew (HEBR) George Mason University.html
-Higher Education (HE) George Mason University.html
-History (HIST) George Mason University.html
-Honors College (HNRS) George Mason University.html
-Honors College (Science_Math) (HNRT) George Mason University.html
-Human Development and Family Science (HDFS) George Mason University.html
-Information Security Assurance (ISA) George Mason University.html
-Information Security Management (ISM) George Mason University.html
-Information Systems (INFS) George Mason University.html
-Information Technology (IT) George Mason University.html
-Integrative Studies (INTS) George Mason University.html
-Interdisciplinary Studies (MAIS) George Mason University.html
-International Commerce and Policy (ITRN) George Mason University.html
-International Year One (INYO) George Mason University.html
-Italian (ITAL) George Mason University.html
-Japanese (JAPA) George Mason University.html
-Kinesiology (KINE) George Mason University.html
-Korean (KORE) George Mason University.html
-Latin American Studies (LAS) George Mason University.html
-Latin (LATN) George Mason University.html
-Linguistics (LING) George Mason University.html
-Management (MGMT) George Mason University.html
-Management of Information Systems (MIS) George Mason University.html
-Management of Secure Information Systems (MSEC) George Mason University.html
-Marketing (MKTG) George Mason University.html
-Mathematics (MATH) George Mason University.html
-MBA--Interdisciplinary (MBA) George Mason University.html
-Mechanical Engineering (ME) George Mason University.html
-Medical Laboratory Science (MLAB) George Mason University.html
-Middle East and Islamic Studies (MEIS) George Mason University.html
-Military Science (MLSC) George Mason University.html
-Minor in Business (MBUS) George Mason University.html
-MS Business Analytics (MSBA) George Mason University.html
-Music (MUSI) George Mason University.html
-Native American and Indigenous Studies (NAIS) George Mason University.html
-Neuroscience (NEUR) George Mason University.html
-Nursing (NURS) George Mason University.html
-Nutrition and Food Studies (NUTR) George Mason University.html
-Operations Research (OR) George Mason University.html
-Operations & Supply Chain Management (OSCM) George Mason University.html
-Organization Development and Knowledge Management (ODKM) George Mason University.html
-Persian (PERS) George Mason University.html
-Philosophy (PHIL) George Mason University.html
-Physical Education (PHED) George Mason University.html
-Physics (PHYS) George Mason University.html
-Policy and Government (POGO) George Mason University.html
-Portuguese (PORT) George Mason University.html
-Professional Development in Education (EDPD) George Mason University.html
-Provost (PROV) George Mason University.html
-Psychology (PSYC) George Mason University.html
-Public Administration (PUAD) George Mason University.html
-Public Policy (PUBP) George Mason University.html
-Reading (EDRD) George Mason University.html
-Real Estate Development (REAL) George Mason University.html
-Recreation Management (RMGT) George Mason University.html
-Recreation (RECR) George Mason University.html
-Rehabilitation Science (RHBS) George Mason University.html
-Religious Studies (RELI) George Mason University.html
-Russian (RUSS) George Mason University.html
-School Psychology (SPSY) George Mason University.html
-Secondary Education (SEED) George Mason University.html
-Social Work (SOCW) George Mason University.html
-Sociology and Anthropology (SOAN) George Mason University.html
-Sociology (SOCI) George Mason University.html
-Software Engineering (SWE) George Mason University.html
-Spanish (SPAN) George Mason University.html
-Special Education (EDSE) George Mason University.html
-Sport Management (SPMT) George Mason University.html
-Sport, Recreation and Tourism Management George Mason University.html
-Sports and Recreation Studies (SRST) George Mason University.html
-Statistics (STAT) George Mason University.html
-System Engineering (SYST) George Mason University.html
-Systems Engineering and Operations Research (SEOR) George Mason University.html
-Technology Management (TECM) George Mason University.html
-Telecommunications (TCOM) George Mason University.html
-Theater (THR) George Mason University.html
-Tourism and Events Management (TOUR) George Mason University.html
-Turkish (TURK) George Mason University.html
-University Studies (UNIV) George Mason University.html
-Urban and Suburban Studies (USST) George Mason University.html
-Women and Gender Studies (WMST) George Mason University.html
+Academic English (AE).html
+Accounting (ACCT).html
+African and African American Studies (AFAM).html
+Anthropology (ANTH).html
+Applied Information Technology (AIT).html
+Arabic (ARAB).html
+Art and Visual Technology (AVT).html
+Art History (ARTH).html
+Arts Management (AMGT).html
+Assistive Technology (EDAT).html
+Astronomy (ASTR).html
+Athletic Training Education Program (ATEP).html
+Bachelor of Individualized Study (BIS).html
+Bachelor's of Applied Science (BAS).html
+Biodefense (BIOD).html
+Bioengineering (BENG).html
+Bioinformatics (BINF).html
+Biology (BIOL).html
+Biomedical Research (BIMR).html
+Biomedical Sciences (BMED).html
+Biosciences (BIOS).html
+Business and Legal Studies (BULE).html
+Business (BUS).html
+Business Management (BMGT).html
+Chemistry (CHEM).html
+Chinese (CHIN).html
+Civil and Infrastructure Engineering (CEIE).html
+Classics (CLAS).html
+Climate Dynamics (CLIM).html
+College of Engineering and Computing (CEC).html
+College of Science (COS).html
+College of Visual and Performing Arts (CVPA).html
+Communication (COMM).html
+Computational and Data Sciences (CDS).html
+Computational Science and Informatics (CSI).html
+Computational Social Science (CSS).html
+Computer Game Design (GAME).html
+Computer Science (CS).html
+Computing (COMP).html
+Conflict Analysis and Resolution (CONF).html
+Conservation Studies (CONS).html
+Construction Management (CM).html
+Counseling and Development (EDCD).html
+Criminology (CRIM).html
+Cultural Studies (CULT).html
+Curriculum and Instruction (EDCI).html
+Cyber Security Engineering (CYSE).html
+Dance (DANC).html
+Data Analytics Engineering (DAEN).html
+Design (DSGN).html
+Digital Forensics (DFOR).html
+Early Childhood Education (ECED).html
+Economics (ECON).html
+Educational Psychology (EDEP).html
+Education (EDUC).html
+Education Instructional Technology (EDIT).html
+Education Leadership (EDLE).html
+Education Policy (EDPO).html
+Education Research (EDRS).html
+Electrical and Computer Engineering (ECE).html
+Elementary Education (ELED).html
+Engineering (ENGR).html
+English (ENGH).html
+English for Academic Purposes (EAP).html
+Environmental Science and Policy (EVPP).html
+Executive MBA (EMBA).html
+Exercise, Fitness, and Health Promotion (EFHP).html
+Film and Video Studies (FAVS).html
+Finance (FNAN).html
+Folklore Studies (FOLK).html
+Foreign Language (FRLN).html
+Forensic Science (FRSC).html
+French (FREN).html
+Geography and Geoinformation Science (GGS).html
+Geology (GEOL).html
+German (GERM).html
+Global Affairs (GLOA).html
+Global and Community Health (GCH).html
+Government (GOVT).html
+Graduate School of Business (GBUS).html
+Greek (GREE).html
+Health Administration and Policy (HAP).html
+Health and Human Services (HHS).html
+Health (HEAL).html
+Hebrew (HEBR).html
+Higher Education (HE).html
+History (HIST).html
+Honors College (HNRS).html
+Human Development and Family Science (HDFS).html
+Information Security Assurance (ISA).html
+Information Security Management (ISM) .html
+Information Systems (INFS).html
+Information Technology (IT).html
+Integrative Studies (INTS).html
+Interdisciplinary Studies (MAIS).html
+International Commerce and Policy (ITRN).html
+International Year One (INYO).html
+Italian (ITAL).html
+Japanese (JAPA).html
+Kinesiology (KINE).html
+Korean (KORE).html
+Latin American Studies (LAS).html
+Latin (LATN).html
+Linguistics (LING).html
+Management (MGMT).html
+Management of Information Systems (MIS).html
+Management of Secure Information Systems (MSEC).html
+Marketing (MKTG).html
+Mathematics (MATH).html
+MBA-​-​Interdisciplinary (MBA).html
+Mechanical Engineering (ME).html
+Medical Laboratory Science (MLAB).html
+Middle East and Islamic Studies (MEIS).html
+Military Science (MLSC).html
+Minor in Business (MBUS).html
+MS Business Analytics (MSBA).html
+Music (MUSI).html
+Native American and Indigenous Studies (NAIS).html
+Neuroscience (NEUR).html
+Nursing (NURS).html
+Nutrition and Food Studies (NUTR).html
+Operations Management (OM).html
+Operations Research (OR).html
+Operations &​ Supply Chain Management (OSCM).html
+Organization Development and Knowledge Management (ODKM).html
+Persian (PERS).html
+Philosophy (PHIL).html
+Physical Education (PHED).html
+Physics (PHYS).html
+Policy and Government (POGO).html
+Portuguese (PORT).html
+Professional Development in Education (EDPD).html
+Provost (PROV).html
+Psychology (PSYC).html
+Public Administration (PUAD).html
+Public Policy (PUBP).html
+Reading (EDRD).html
+Real Estate Development (REAL).html
+Recreation Management (RMGT).html
+Recreation (RECR).html
+Rehabilitation Science (RHBS).html
+Religious Studies (RELI).html
+Russian (RUSS).html
+School Psychology (SPSY).html
+Secondary Education (SEED).html
+Social Work (SOCW).html
+Sociology and Anthropology (SOAN).html
+Sociology (SOCI).html
+Software Engineering (SWE).html
+Spanish (SPAN).html
+Special Education (EDSE).html
+Sport Management (SPMT).html
+Sport, Recreation and Tourism Management.html
+Sports and Recreation Studies (SRST).html
+Statistics (STAT).html
+System Engineering (SYST).html
+Systems Engineering and Operations Research (SEOR).html
+Technology Management (TECM).html
+Telecommunications (TCOM).html
+Theater (THR).html
+Tourism and Events Management (TOUR).html
+Turkish (TURK).html
+University Studies (UNIV).html
+Urban and Suburban Studies (USST).html
+Women and Gender Studies (WMST).html
