@@ -22,32 +22,7 @@ public class Graph {
 	}
 	
 	public void readFile(String fileName, HashSet<String> courseAbriviations) throws FileNotFoundException {
-		File file = new File(filename);
-		Scanner scan = new Scanner(file);
-		while(scan.hasNext()){
-			String name = scan.next();
-			String description = scan.nextLine();
-			byte credits = (byte)(description.charAt(description.length() - 10) - 48);
-			description = scan.nextLine();
-			Node currentClass = new Node(name, credits, description);
-			classes.put(name, currentClass);
-			String requirmentsToParse = scan.nextLine();
-			for(String courseAbriviation: courseAbriviations){
-				int requiredCourseIndex = requirmentsToParse.indexOf(courseAbriviation);
-				if(requiredCourseIndex != -1){
-					String requiredClassName = requirmentsToParse.substring(requiredCourseIndex, requiredCourseIndex + courseAbriviation.length() + 4);
-					Node requiredClassNode; 
-					if(findNode(requiredClassName) == null){
-						requiredClassNode = new Node(requiredClassName);
-					}
-					else{
-						requiredClassNode = findNode(requiredClassName);
-					}
-					putNode(requiredClassName, requiredClassNode);
-					putEdge(requiredClassNode, currentClass);
-				}
-			}
-		}
+
 	}	
 	
 	@Override
