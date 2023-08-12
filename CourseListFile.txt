@@ -63,7 +63,6 @@ Engineering (ENGR).html
 English (ENGH).html
 English for Academic Purposes (EAP).html
 Environmental Science and Policy (EVPP).html
-Executive MBA (EMBA).html
 Exercise, Fitness, and Health Promotion (EFHP).html
 Film and Video Studies (FAVS).html
 Finance (FNAN).html
@@ -76,16 +75,15 @@ Geology (GEOL).html
 German (GERM).html
 Global Affairs (GLOA).html
 Global and Community Health (GCH).html
+Global Commerce and Policy (GCP).html
 Government (GOVT).html
 Graduate School of Business (GBUS).html
 Greek (GREE).html
 Health Administration and Policy (HAP).html
-Health and Human Services (HHS).html
 Health (HEAL).html
 Hebrew (HEBR).html
 Higher Education (HE).html
 History (HIST).html
-Honors College (HNRS).html
 Human Development and Family Science (HDFS).html
 Information Security Assurance (ISA).html
 Information Security Management (ISM) .html
@@ -93,7 +91,6 @@ Information Systems (INFS).html
 Information Technology (IT).html
 Integrative Studies (INTS).html
 Interdisciplinary Studies (MAIS).html
-International Commerce and Policy (ITRN).html
 International Year One (INYO).html
 Italian (ITAL).html
 Japanese (JAPA).html
@@ -119,7 +116,6 @@ Native American and Indigenous Studies (NAIS).html
 Neuroscience (NEUR).html
 Nursing (NURS).html
 Nutrition and Food Studies (NUTR).html
-Operations Management (OM).html
 Operations Research (OR).html
 Operations &​ Supply Chain Management (OSCM).html
 Organization Development and Knowledge Management (ODKM).html
@@ -133,13 +129,14 @@ Professional Development in Education (EDPD).html
 Provost (PROV).html
 Psychology (PSYC).html
 Public Administration (PUAD).html
+Public Health (PH).html
 Public Policy (PUBP).html
 Reading (EDRD).html
 Real Estate Development (REAL).html
 Recreation Management (RMGT).html
 Recreation (RECR).html
-Rehabilitation Science (RHBS).html
 Religious Studies (RELI).html
+Renewable Energy (RENE).html
 Russian (RUSS).html
 School Psychology (SPSY).html
 Secondary Education (SEED).html
@@ -150,7 +147,7 @@ Software Engineering (SWE).html
 Spanish (SPAN).html
 Special Education (EDSE).html
 Sport Management (SPMT).html
-Sport, Recreation and Tourism Management.html
+Sport, Recreation and Tourism Management (SRTM).html
 Sports and Recreation Studies (SRST).html
 Statistics (STAT).html
 System Engineering (SYST).html

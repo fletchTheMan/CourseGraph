@@ -1,11 +1,17 @@
 import bs4
 from bs4 import BeautifulSoup
 
+def joinStrings(strings):
+    output = ""
+    for string in strings:
+        output += string.lstrip("\n")
+    return output
+
 courseListFile = open("CourseListFile.txt", "rt")
 for line in courseListFile:
     with open("Courses/" + line.rstrip("\n")) as fp:
         soup = BeautifulSoup(fp, "html.parser")
-        f = open("outfiles/" + line.rstrip(".html\n") + ".txt", "wt")
+        f = open("outfiles/" + line[0:len(line) - 5] + "txt", "wt")
         courseContainer = soup.find(id="coursescontainer")
         courseLevels = courseContainer.children
         for currentCourseLevel in courseLevels:
@@ -21,11 +27,10 @@ for line in courseListFile:
                     requirements = ""
                     titleElement = course.find(class_="courseblocktitle") 
                     name = titleElement.strong.string.rstrip(":")
-                    print(titleElement.strings[2])
                     descElement = course.find(class_="courseblockdesc")
                     description = descElement.string
                     if(description == None or description == ""):
-                        description = ''.join(descElement.strings)
+                        description = joinStrings(descElement.strings)
                     prereqs = course.find(class_="prereq")
                     if(prereqs != None):
                         for requirement in prereqs.find_all('a'):
@@ -36,7 +41,9 @@ for line in courseListFile:
                     if(name == None or name == ""):
                         name = "No Name"
                     if(description == None or description == ""):
-                        description = course.find
+                        description = "No description"
+                    elif(description.count("\n") > 0 ):
+                        description = description.replace("\n", "")
                     if(requirements == None or requirements == ""):
                         requirements = "No requirements found, PLEASE CHECK WEBSITE"
                     f.write(name + "\n")

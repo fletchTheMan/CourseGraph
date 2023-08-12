@@ -22,7 +22,21 @@ public class Graph {
 	}
 	
 	public void readFile(String fileName, HashSet<String> courseAbriviations) throws FileNotFoundException {
-
+		Scanner fileNameScanner = new Scanner(outfileList);
+		while(fileNameScanner.hasNextLine()){
+	   		String fileName = "outfiles/" + fileNameScanner.nextLine();
+			System.out.println(fileName);
+	       		File file = new File(fileName);
+	       		Scanner scan = new Scanner(file);
+	       		while(scan.hasNext()){
+	       			String name = scan.nextLine();
+		       		byte credits = (byte)scan.nextInt();
+				scan.nextLine();
+			       	String description = scan.nextLine();
+				scan.nextLine();
+				scan.nextLine();
+		       	}
+		}
 	}	
 	
 	@Override

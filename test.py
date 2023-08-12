@@ -1,20 +1,14 @@
-import bs4
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
+#import requests
 
-file = open("Courses/Accounting (ACCT).html")
-soup = BeautifulSoup(file, "html.parser")
-courseContainer = soup.find(id="coursescontainer")
-courseLevels = courseContainer.children
-for currentCourseLevel in courseLevels:
-    for course in currentCourseLevel.children:
-       if(isinstance(course, bs4.element.NavigableString)):
-           print(course)
-           continue
-       elif((str)(course.name) == "h3"):
-           continue
-       else:
-           name = ""
-           creditHours = 0
-           titleElement = course.find(class_="courseblocktitle") 
-           name = titleElement.strong.string.rstrip(":")
-           print(type(titleElement.strings))
+#page = requests.get('https://catalog.gmu.edu/courses/acct/')
+#file = open("pageWhtmlparser.html", "wt")
+#soup = BeautifulSoup(page.content, "html.parser")
+#file.write(str(soup.prettify()))
+#file.close()
+
+stringToChange = "Hello\n my\n friends\n I\n hate\n having\n to\n deal\n with\n this"
+print(stringToChange)
+if(stringToChange.count("\n") != 0):
+    stringToChange = stringToChange.replace("\n", "")
+print(stringToChange)
